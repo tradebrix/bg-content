@@ -1,0 +1,55 @@
+seo:
+  title: Trading Calculators | Blackwell
+  description: >-
+    Use advanced trading calculators to plan your trades, calculate margin
+    requirements, and estimate potential profit or loss instantly.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Trading Calculators
+  subtitle: >-
+    Use our trading calculators to assess margin requirements and potential
+    profit or loss before trading.
+calculators:
+  title: Trading calculator
+  subtitle: Understand the key requirements of a trade before placing an order.
+  labels: []
+  calculatorInputs:
+    tradingCalculatorTab: Trading Calculator
+    profitCalculatorTab: Profit Calculator
+    instrumentLabel: Instrument
+    leverageLabel: Leverage
+    lotSizeLabel: Lot size
+    askPriceLabel: Ask price
+    currencyLabel: Currency
+    bidPriceLabel: Bid price
+    openPriceLabel: Open price
+    closePriceLabel: Close price
+    buttonLabel: Calculate
+    instrumentDefault: XBRUSD
+    instruments: []
+    currencyDefault: USD
+    currencies: []
+    leverageDefault: '1:200'
+    askPriceDefault: '1:200'
+    lotSizeDefault: '1'
+    bidPriceDefault: '64.185'
+    openPriceDefault: '64.185'
+    closePriceDefault: '1:200'
+    resultsTradingHeaders:
+      contractSize: Contract size
+      swapLong: Swap long
+      pointValue: Point value
+      swapShort: Swap short
+      spread: Spread
+      margin: Margin
+    resultsProfitHeader: Profit
+    ctaButtonTab2:
+      label: Start Trading
+      link: '#'
+howToUse:
+  title: How to use the trading calculator
+  cards: []
+faq:
+  title: Frequently asked questions
+  questions: []
