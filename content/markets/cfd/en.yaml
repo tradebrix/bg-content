@@ -1,0 +1,71 @@
+seo:
+  title: CFD Bonds Trading | Blackwell
+  description: Access global bond markets through CFDs using a single trading account.
+  noIndex: true
+  noFollow: true
+hero:
+  title: CFD Bonds Trading
+  subtitle: Access global bond markets through CFDs using a single trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is CFD bonds trading?
+  definition: >-
+    CFD bonds trading allows participants to trade price movements in government
+    and corporate bonds without owning the underlying instruments.
+
+
+    Bond markets are influenced by interest rates, inflation expectations,
+    central bank policy, and broader macroeconomic conditions. Trading bond CFDs
+    provides exposure to fixed-income markets through a flexible trading format.
+why:
+  title: Why trade Bonds with Blackwell
+insights:
+  title: Bonds market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Government bonds explained
+  subtitle: >-
+    Learn how government and treasury yields impact global markets, interest
+    rate expectations, and cross-asset capital flows.
+  selectedArticles: []
+awards:
+  title: Standard of excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items:
+    - year: '2021'
+      title: "Best ECN Forex Broker \LWorld Business Outlook Awards"
+    - year: '2019'
+      title: Best Online Forex Broker Acquisition International
+    - year: '2019'
+      title: Most Trusted Financial Service Provider Wealth & Finance International
+faq:
+  title: Fequently asked questions
+  questions:
+    - question: What are CFD bonds?
+      answer: >-
+        CFD bonds allow traders to speculate on bond price movements without
+        owning the underlying bond.
+    - question: Which bonds can I trade with Blackwell?
+      answer: >-
+        Blackwell offers access to selected government and corporate bond
+        markets.
+    - question: How can I trade CFD bonds with Blackwell?
+      answer: >-
+        To trade CFD bonds with Blackwell, open a trading account, fund it, and
+        access bond markets through the trading platform.
+    - question: What platforms can I trade CFD bonds on?
+      answer: >-
+        CFD bonds trading is available on MetaTrader 4 and MetaTrader 5 across
+        desktop, web, and mobile.
+    - question: What affects bond prices?
+      answer: >-
+        Bond prices are influenced by interest rates, inflation expectations,
+        central bank decisions, and economic conditions.
