@@ -1,0 +1,110 @@
+seo:
+  title: 'Global Forex & CFD Broker | Online Trading | Blackwell '
+  description: >-
+    Trade forex, indices, commodities, and more with Blackwell. Access powerful
+    platforms, competitive pricing, and fast execution across global markets.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Trusted. Secure. Global.
+  subtitle: Trade the world's financial markets with Blackwell.
+  primaryButtonText: Open Account
+  secondaryButtonText: Try Demo Account
+markets:
+  title: Trade across major global markets
+  subtitle: Access 2000+ instruments through a single trading account.
+  buttonText: View All Markets
+  cards:
+    - title: Forex
+      subtitle: Trade 50+ forex pairs with tight spreads and fast execution.
+      icon: /image/home/en/markets/cards/0/icon.svg
+    - title: Metals
+      subtitle: Trade gold and silver with deep liquidity and consistent pricing.
+      icon: /image/home/en/markets/cards/1/icon.svg
+    - title: Indices
+      subtitle: >-
+        Trade major global indices with competitive spreads and reliable
+        execution.
+      icon: /image/home/en/markets/cards/2/icon.svg
+    - title: Energies
+      subtitle: Trade energy CFDs, including oil and other key markets.
+      icon: /image/home/en/markets/cards/3/icon.svg
+insights:
+  title: Instant market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  tabs:
+    - tabName: Popular Markets
+      symbols: []
+    - tabName: Shares
+      symbols: []
+    - tabName: Forex
+      symbols: []
+    - tabName: Indices
+      symbols: []
+    - tabName: Metals
+      symbols: []
+    - tabName: Commodities
+      symbols: []
+  noteText: >-
+    Prices above are subject to our website terms and conditions , and prices
+    are indicative only. All shares prices are delayed by at least 15 mins.
+  noteLinkText: website terms and conditions
+  buttonText: See More
+  articlesTitle: Latest News & Analysis
+  selectedArticles: []
+trade:
+  title: Trade on industry leading platforms
+  subtitle: >-
+    Trade MT4 and MT5 give you everything you need to trade efficiently, from
+    advanced charting to fast execution, across desktop and mobile.
+  buttonText: Open Account
+whytrade:
+  title: Why traders choose Blackwell
+  subtitle: >-
+    Blackwell combines operational longevity, disciplined infrastructure, and
+    global market access within a structured, regulated trading environment.
+  cards:
+    - title: 15+ years of industry presence
+      description: >-
+        A sustained track record built on consistency, operational discipline,
+        and long-term client relationships.
+    - title: Institutional-grade infrastructure
+      description: >-
+        Execution supported by structured systems built for stability across
+        market conditions.
+    - title: Transparent cost structure
+      description: Clear pricing across asset classes with no hidden adjustments.
+    - title: Global market access
+      description: >-
+        Trade forex, indices, commodities, metals, and shares from a unified
+        environment.
+stats:
+  title: Experience that stands the test of time
+  subtitle: >-
+    Built on decades of industry experience, Blackwell has established a legacy
+    of disciplined growth, operational resilience, and trusted client
+    relationships across global markets.
+  items:
+    - value: '2003'
+      label: Established
+    - value: 1M+
+      label: Clients
+    - value: 90+
+      label: Countries
+    - value: '8'
+      label: Offices
+cta:
+  title: Apply in minutes. Start trading today.
+  subtitle: Gain access to the fastest execution speed and no commissions.
+  buttonText: Open Account
+trophies:
+  title: Standard of excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items:
+    - text: "Best ECN Forex Broker\LWorld Business Outlook Awards, 2021"
+    - text: Best Online Forex Broker Acquisition International, 2019
+    - text: Most Trusted Financial Service Provider Wealth & Finance, 2019
