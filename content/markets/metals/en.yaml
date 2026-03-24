@@ -36,11 +36,38 @@ articles:
     inflation trends, dollar strength, and global demand cycles.
   selectedArticles: []
 awards:
-  title: Established on excellence
+  title: Standard of excellence
   subtitle: >-
     We are a brand built on trust. That is why we are proud to say our customer
     service and reliability is second to none.
-  items: []
+  items:
+    - year: '2021'
+      title: "Best ECN Forex Broker\LWorld Business Outlook Awards"
+    - year: '2019'
+      title: Best Online Forex Broker Acquisition International
+    - year: '2019'
+      title: Most Trusted Financial Service Provider Wealth & Finance International
 faq:
   title: Frequently asked questions
-  questions: []
+  questions:
+    - question: What are precious metals markets?
+      answer: >-
+        Precious metals markets involve the trading of metals such as gold and
+        silver, which are widely traded across global financial markets.
+    - question: Which precious metals can I trade with Blackwell?
+      answer: >-
+        Blackwell offers access to a range of precious metals, including gold,
+        silver, platinum, and palladium.
+    - question: How can I trade precious metals with Blackwell?
+      answer: >-
+        To trade precious metals with Blackwell, open a trading account, fund it
+        using your preferred payment method, and access the markets through the
+        trading platform.
+    - question: What platforms can I trade precious metals on?
+      answer: >-
+        Precious metals trading is available on MetaTrader 4 and MetaTrader 5
+        across desktop, web, and mobile.
+    - question: What affects precious metals prices?
+      answer: >-
+        Prices are influenced by interest rates, inflation expectations,
+        geopolitical developments, and overall market sentiment.
