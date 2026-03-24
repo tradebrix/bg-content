@@ -1,0 +1,11 @@
+seo:
+  title: Terms and Policies | Blackwell
+  description: Review Blackwell's terms, policies, and legal documents.
+  noIndex: true
+  noFollow: true
+hero:
+  title: 'Legal Documents '
+legalDocuments:
+  title: Legal Documents
+  download: Download
+  tabs: []
