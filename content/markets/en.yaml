@@ -1,0 +1,33 @@
+cards:
+  - icon: /image/all-markets/en/cards/0/icon.svg
+    title: Ultra-tight spreads
+    description: Competitive pricing across global trading instruments.
+  - icon: /image/all-markets/en/cards/1/icon.svg
+    title: Lightning-fast execution
+    description: >-
+      Low-latency infrastructure designed to support speed, stability, and
+      precision.
+  - icon: /image/all-markets/en/cards/2/icon.svg
+    title: Professional trading platforms
+    description: Trade on industry leading platforms MetaTrader 4 and MetaTrader 5.
+  - icon: /image/all-markets/en/cards/3/icon.svg
+    title: 24/7 professional support
+    description: Dedicated support teams available 24/5, whenever markets are open.
+insights:
+  tableHeaders:
+    - Symbol
+    - Sell
+    - Buy
+    - 1 Day Change
+    - 1 Day Chart
+  note: >-
+    Prices above are subject to our website terms and conditions , and prices
+    are indicative only. All shares prices are delayed by at least 15 mins.
+  buttonText: See More
+banner:
+  title: You’re trading starts here
+  subtitle: >-
+    Open an account and start trading in minutes, or practise first with a
+    risk-free demo.
+  primaryButtonText: Open Account
+  secondaryButtonText: Try Demo Account
