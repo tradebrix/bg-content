@@ -1,0 +1,78 @@
+seo:
+  title: MT5 Trading | Blackwell
+  description: >-
+    Trade global markets with MetaTrader 5. Access Blackwell MT5 for fast
+    execution, advanced tools, and multi-asset trading in one powerful platform.
+  noIndex: true
+  noFollow: true
+hero:
+  title: MetaTrader 5
+  subtitle: >-
+    Access Blackwell MT5, a powerful, multi-asset trading platform built for
+    precision, speed, and control across global markets.
+trade:
+  title: Trade anywhere, without compromise
+  subtitle: >-
+    Access your Blackwell MT5 account on desktop, web, and mobile with full
+    functionality across all devices.
+  labels: []
+  macosUrl: >-
+    https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/MetaTrader5.pkg.zip?utm_source=www.metatrader5.com&utm_campaign=download.mt5.macos
+  windowsUrl: >-
+    https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/mt5setup.exe?utm_source=www.metatrader5.com&utm_campaign=download
+  appStoreUrl: https://apps.apple.com/lb/app/metatrader-5/id413251709 MetaTrader 5
+  googlePlayUrl: >-
+    https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=en&pli=1
+tools:
+  title: Advanced tools for disciplined trading
+  tools:
+    - title: Advanced charting
+      description: >-
+        38+ technical indicators, multiple chart types, and timeframes for
+        detailed market analysis.
+    - title: Depth of Market (DOM)
+      description: >-
+        View real-time liquidity and price levels for improved execution
+        decisions.
+    - title: One-click trading
+      description: Execute trades directly from charts with minimal latency.
+    - title: Integrated tools
+      description: >-
+        Economic calendar, alerts, and analytical tools built directly into the
+        platform.
+features:
+  - title: Designed for speed and stability
+    subtitle: >-
+      Blackwell’s MT5 infrastructure is optimised for low latency, consistent
+      execution, and platform reliability even during periods of heightened
+      market activity.
+    labels:
+      - Fast order execution
+      - Stable trade environment
+      - Secure data transmission
+  - title: Trade directly from your browser
+    subtitle: >-
+      Access MT5 without downloading software. WebTrader offers the core MT5
+      experience with a clean, responsive interface.
+    labels:
+      - No installation required
+      - Customisable charts
+      - Secure login and session handling
+    buttonText: Launch MT5 WebTrader
+steps:
+  title: Start trading on MT5 with Blackwell
+  steps:
+    - title: Open an account
+      description: Create your Blackwell trading account in just a few minutes.
+    - title: Fund your account
+      description: Fund your account using secure deposit methods
+    - title: Start trading
+      description: Access global markets through Blackwell’s supported trading platforms.
+  buttonText: Open Account
+  buttonLink: /login
+banner:
+  title: Not sure if MT5 is right for you?
+  subtitle: >-
+    Compare MT4 and MT5 features to choose the platform that best suits your
+    trading style.
+  buttonText: Compare Platforms
