@@ -1,0 +1,85 @@
+seo:
+  title: Economic Calendar | Blackwell
+  description: >-
+    Track key economic events and market releases with our economic calendar.
+    Stay ahead of market movements with real-time updates and insights.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Economic & trading calendar
+  subtitle: >
+    Track upcoming economic events and market releases with our economic
+    calendar.
+economicCalendarSection:
+  title: Economic calendar
+  headers:
+    event: Event
+    impact: Impact
+    currency: Currency
+    forecast: Forecast
+    previous: Previous
+    date: Date
+  impacts:
+    high: High
+    medium: Medium
+    low: Low
+  currencies: []
+howToUse:
+  title: How to use our economic calendar
+  cards:
+    - icon: /image/economic-calendar/en/howToUse/cards/0/icon.svg
+      title: View upcoming releases
+      description: >-
+        Stay ahead of market moves with real-time economic events and data
+        releases.
+    - icon: /image/economic-calendar/en/howToUse/cards/1/icon.svg
+      title: Assess market impact
+      description: >-
+        Each event is categorised by expected impact, helping you prioritise
+        high-importance releases.
+    - icon: /image/economic-calendar/en/howToUse/cards/2/icon.svg
+      title: Filter events
+      description: Refine the calendar by country, impact level, or date.
+broker:
+  title: Trade with a broker you can trust
+  cards:
+    - icon: /image/economic-calendar/en/broker/cards/0/icon.svg
+      header: Regulated
+      description: Authorised and regulated across multiple jurisdictions.
+    - icon: /image/economic-calendar/en/broker/cards/1/icon.svg
+      header: 15+ years
+      description: Supporting traders through changing market conditions.
+    - icon: /image/economic-calendar/en/broker/cards/2/icon.svg
+      header: Ultra-tight spreads
+      description: Competitive pricing sourced from established liquidity providers.
+    - icon: /image/economic-calendar/en/broker/cards/3/icon.svg
+      header: Fast execution
+      description: Low-latency infrastructure designed for speed, stability, and precision.
+    - icon: /image/economic-calendar/en/broker/cards/4/icon.svg
+      header: 24/5 support
+      description: Dedicated support available whenever markets are active.
+    - icon: /image/economic-calendar/en/broker/cards/5/icon.svg
+      header: Built for serious trading
+      description: >-
+        Reliable platforms, disciplined processes, & execution standards you can
+        depend on.
+faq:
+  title: Fequently asked questions
+  questions:
+    - question: What is an economic calendar?
+      answer: >-
+        An economic calendar lists upcoming economic data releases and events
+        that can influence financial markets, such as interest rate decisions,
+        employment reports, and inflation data.
+    - question: How can economic events affect markets?
+      answer: >-
+        Economic releases can impact market sentiment and price movements,
+        particularly when results differ from expectations.
+    - question: How can I start trading with Blackwell?
+      answer: >-
+        Open a trading account, fund it using your preferred payment method, and
+        access global markets through our trading platforms.
+    - question: Which platforms can I trade on?
+      answer: >-
+        You can trade on MetaTrader 4 and MetaTrader 5, available on desktop,
+        web, and mobile.
