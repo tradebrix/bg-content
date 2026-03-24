@@ -1,4 +1,9 @@
 seo:
+  title: Partnerships | Blackwell
+  description: >-
+    A global partnership program built on transparency, performance alignment,
+    and long-term collaboration. Become a partner and start earning rebates
+    today.
   noIndex: true
   noFollow: true
 hero:
@@ -7,19 +12,79 @@ hero:
     A global partnership program built on transparency, performance alignment,
     and long-term collaboration.
 whyPartner:
-  title: Why Partner With Blackwell
-  cards: []
+  title: Why partner with Blackwell
+  cards:
+    - icon: /image/partners/en/whyPartner/cards/0/icon.svg
+      title: Regulation-led operations
+      description: >-
+        Structured, disciplined processes designed to support sustainable and
+        compliant growth.
+    - icon: /image/partners/en/whyPartner/cards/1/icon.svg
+      title: Global reach
+      description: >-
+        Multi-jurisdictional operations supporting partners across multiple
+        regions.
+    - icon: /image/partners/en/whyPartner/cards/2/icon.svg
+      title: Aligned incentives
+      description: >-
+        Partnership models built around long-term performance, not short-term
+        volume.
+    - icon: /image/partners/en/whyPartner/cards/3/icon.svg
+      title: Dedicated partner support
+      description: Direct access to relationship and operational support teams.
 models:
-  title: Partnership Models
-  cards: []
+  title: Partnership models
+  cards:
+    - icon: /image/partners/en/models/cards/0/icon.svg
+      header: Introducing Broker (IB)
+      description: >-
+        For partners focused on long-term client relationships and recurring
+        revenue.
+      labels:
+        - Revenue share structure
+        - Transparent reporting
+        - Scalable client management
+    - icon: /image/partners/en/models/cards/1/icon.svg
+      header: Affiliate / CPA
+      description: For performance-driven partners and digital marketers.
+      labels:
+        - Flexible CPA structures
+        - Conversion-optimized funnels
+        - Real-time tracking
+    - icon: /image/partners/en/models/cards/2/icon.svg
+      header: PAMM / MAM
+      description: For professional traders and capital managers.
+      labels:
+        - Automated profit distribution
+        - Flexible allocation models
+        - Real-time analytics and reporting
   note: >-
     Partnership structures are customized based on region, traffic profile, and
     regulatory considerations.
 strategic:
-  title: Strategic Partner Success
-  cards: []
+  title: Success partners
+  cards:
+    - icon: /image/partners/en/strategic/cards/0/icon.svg
+      header: Marketing & conversion support
+      description: >-
+        Strategic guidance to improve campaign effectiveness and conversion
+        quality.
+    - icon: /image/partners/en/strategic/cards/1/icon.svg
+      header: Dedicated partner manager
+      description: A direct point of contact to support your growth and operational needs.
+    - icon: /image/partners/en/strategic/cards/2/icon.svg
+      header: Ongoing performance reviews
+      description: >-
+        Regular check-ins to assess results and identify opportunities for
+        improvement.
+    - icon: /image/partners/en/strategic/cards/3/icon.svg
+      header: Reporting & performance dashboard
+      description: Transparent access to real-time performance and revenue data.
+    - icon: /image/partners/en/strategic/cards/4/icon.svg
+      header: Efficient onboarding & account setup
+      description: A streamlined process designed to get you live quickly and correctly.
 estimate:
-  title: Estimate Your Partner Earnings
+  title: Estimate your partnership earnings
   subtitle: Indicative estimates based on trading activity and partnership structure.
   tabsHeader: Partnership Type
   tabIb: IB
@@ -37,10 +102,10 @@ register:
   header: Already registered? Login here
   clickablePart: Login here
   clickableLink: /login
-  fullNameLabel: Full name
-  emailLabel: Email address
-  countryLabel: Country of Residence
-  phoneLabel: Mobile Number
+  fullNameLabel: Full name*
+  emailLabel: Email address*
+  countryLabel: Country of Residence*
+  phoneLabel: Mobile Number*
   additionalInfoLabel: Add information
   modelLabel: Partnership Model (IB, CPA, PAMM/MAM)
   trafficSourceLabel: Traffic source (optional)
