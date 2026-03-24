@@ -1,0 +1,48 @@
+seo:
+  title: ETFs Trading | Blackwell
+  description: >-
+    Trade exchange-traded funds (ETFs) with Blackwell. Access a wide range of
+    markets and sectors through a single account.
+  noIndex: true
+  noFollow: true
+hero:
+  title: ETFs Trading
+  subtitle: Trade key precious metals markets through a single trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is ETFs Trading?
+  definition: >-
+    ETFs trading allows participants to trade exchange-traded funds, which track
+    the performance of a basket of assets such as equities, sectors,
+    commodities, or indices.
+
+
+    ETFs are designed to provide diversified exposure within a single instrument
+    and are influenced by the performance of their underlying assets, market
+    conditions, and investor demand.
+why:
+  title: Why trade ETFs with Blackwell
+insights:
+  title: ETFs market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: New to ETFs trading?
+  subtitle: >-
+    Understand how exchange-traded funds provide diversified exposure across
+    sectors, regions, commodities, and asset classes.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
