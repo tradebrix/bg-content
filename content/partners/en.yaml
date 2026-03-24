@@ -1,0 +1,51 @@
+seo:
+  noIndex: true
+  noFollow: true
+hero:
+  title: Partner with Blackwell
+  subtitle: >-
+    A global partnership program built on transparency, performance alignment,
+    and long-term collaboration.
+whyPartner:
+  title: Why Partner With Blackwell
+  cards: []
+models:
+  title: Partnership Models
+  cards: []
+  note: >-
+    Partnership structures are customized based on region, traffic profile, and
+    regulatory considerations.
+strategic:
+  title: Strategic Partner Success
+  cards: []
+estimate:
+  title: Estimate Your Partner Earnings
+  subtitle: Indicative estimates based on trading activity and partnership structure.
+  tabsHeader: Partnership Type
+  tabIb: IB
+  tabCpa: CPA
+  estimatedMonthlyHeader: Estimated Monthly Earnings
+  estimatedQuarterlyHeader: Estimated Quarterly Earnings
+  note: >-
+    Estimates are indicative only and may vary based on trading activity,
+    region, and partnership terms.
+  buttonText: Start Earning Today
+  buttonLink: /login
+register:
+  title: Start Your Partnership With Blackwell
+  subtitle: Complete the form below and our partnerships team will be in touch.
+  header: Already registered? Login here
+  clickablePart: Login here
+  clickableLink: /login
+  fullNameLabel: Full name
+  emailLabel: Email address
+  countryLabel: Country of Residence
+  phoneLabel: Mobile Number
+  additionalInfoLabel: Add information
+  modelLabel: Partnership Model (IB, CPA, PAMM/MAM)
+  trafficSourceLabel: Traffic source (optional)
+  websiteLabel: Enter your website (optional)
+  commentLabel: Add Comment (optional)
+  agreeTermsLabel: I agree to the terms and conditions.
+  termsLinkText: terms and conditions.
+  termsLinkHref: /terms
