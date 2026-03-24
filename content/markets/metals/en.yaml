@@ -1,0 +1,46 @@
+seo:
+  title: Precious Metals Trading | Blackwell
+  description: Trade key precious metals markets through a single trading account.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Precious Metals Trading
+  subtitle: Trade key precious metals markets through a single trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is precious metals trading?
+  definition: >-
+    Precious metals trading allows participants to trade price movements in
+    metals such as gold, silver, platinum, and palladium.
+
+
+    These markets are often influenced by macroeconomic conditions, interest
+    rates, inflation expectations, and geopolitical developments. Precious
+    metals are commonly traded for diversification and as a way to gain exposure
+    to global market sentiment.
+why:
+  title: Why trade Metals with Blackwell
+insights:
+  title: Metals market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Foundations of metals trading
+  subtitle: >-
+    Explore the drivers behind gold, silver, and industrial metals, including
+    inflation trends, dollar strength, and global demand cycles.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
