@@ -1,0 +1,47 @@
+seo:
+  title: Shares Trading | Blackwell
+  description: >-
+    Access global equity markets with reliable execution, competitive pricing,
+    and professional trading conditions.
+  noIndex: true
+  noFollow: true
+hero:
+  title: CFD Shares Trading
+  subtitle: Trade CFDs on selected global equities through a single trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is CFD shares trading?
+  definition: >-
+    CFD shares trading allows participants to trade price movements in
+    individual company shares without owning the underlying equity.
+
+
+    CFDs enable traders to take positions on rising or falling share prices
+    across global markets, with pricing influenced by company performance,
+    earnings, market conditions, and broader economic factors.
+why:
+  title: Why trade CFDs with Blackwell
+insights:
+  title: Shares market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Guide to trading shares
+  subtitle: >-
+    Discover how earnings, valuation metrics, and sector rotation influence
+    individual stocks and equity CFDs.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
