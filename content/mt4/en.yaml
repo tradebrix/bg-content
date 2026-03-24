@@ -1,0 +1,78 @@
+seo:
+  title: MT4 Trading | Blackwell
+  description: >-
+    Trade with MetaTrader 4, the world’s most popular forex platform. Easy to
+    use, packed with tools, and built for fast, reliable execution across global
+    markets.
+  noIndex: true
+  noFollow: true
+hero:
+  title: MetaTrader 4
+  subtitle: >-
+    Access Blackwell MT4, a proven trading platform offering simplicity,
+    reliability, and precise execution for forex and CFD trading.
+trade:
+  title: Trade anywhere
+  subtitle: >-
+    Access your Blackwell MT4 account on desktop, web, and mobile with
+    consistent performance across all devices.
+  labels: []
+  macosUrl: >-
+    https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/MetaTrader4.pkg.zip?utm_source=www.metatrader4.com&utm_campaign=download.mt4.macos
+  windowsUrl: >-
+    https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download
+  appStoreUrl: https://apps.apple.com/lb/app/metatrader-4/id496212596 MetaTrader 4
+  googlePlayUrl: >-
+    https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4&hl=en
+tools:
+  title: Essential tools for focused trading
+  tools:
+    - title: Advanced charting
+      description: >-
+        30+ technical indicators, multiple chart types, and timeframes for
+        effective market analysis.
+    - title: One-click trading
+      description: Execute trades directly from charts with speed and efficiency.
+    - title: Automated trading support
+      description: >-
+        Compatible with Expert Advisors (EAs) for automated and rule-based
+        strategies.
+    - title: Customisable workspace
+      description: >-
+        Personalise layouts, indicators, and templates to suit your trading
+        style.
+features:
+  - title: Built for consistency and reliability
+    subtitle: >-
+      Blackwell’s MT4 infrastructure is designed to deliver stable performance,
+      fast execution, and dependable access to the markets.
+    labels:
+      - Fast order processing
+      - Stable trading environment
+      - Secure data transmission
+  - title: Trade directly from your browser
+    subtitle: >-
+      Access MT4 instantly without downloading software. WebTrader delivers the
+      core MT4 experience through a clean, browser-based interface.
+    labels:
+      - No installation required
+      - Real-time pricing and charts
+      - Secure login and session handling
+    buttonText: Launch MT4 WebTrader
+steps:
+  title: Start trading on MT4 with Blackwell
+  steps:
+    - title: Open an account
+      description: Create your Blackwell trading account in just a few minutes.
+    - title: Fund your account
+      description: Fund your account using secure deposit methods.
+    - title: Start trading
+      description: Access global markets through Blackwell’s supported trading platforms.
+  buttonText: Open Account
+  buttonLink: /login
+banner:
+  title: Not sure if MT4 is right for you?
+  subtitle: >-
+    Compare MT4 and MT5 features to choose the platform that best suits your
+    trading style.
+  buttonText: Compare Platforms
