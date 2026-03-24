@@ -44,7 +44,29 @@ awards:
   subtitle: >-
     We are a brand built on trust. That is why we are proud to say our customer
     service and reliability is second to none.
-  items: []
+  items:
+    - year: '2021'
+      title: "Best ECN Forex Broker\LWorld Business Outlook Awards"
+    - year: '2019'
+      title: Most Trusted Financial Service Provider Wealth & Finance International
+    - year: '2019'
+      title: Best Online Forex Broker Acquisition International
 faq:
   title: Frequently asked questions
-  questions: []
+  questions:
+    - question: What are energy markets?
+      answer: >-
+        Energy markets involve the trading of commodities such as crude oil and
+        natural gas, which are essential to global economic activity.
+    - question: Which energy instruments can I trade with Blackwell?
+      answer: >-
+        Blackwell offers access to a range of major energy instruments,
+        including oil and gas markets.
+    - question: What platforms can I trade energies on?
+      answer: >-
+        Energies trading is available on MetaTrader 4 and MetaTrader 5 across
+        desktop, web, and mobile.
+    - question: What affects energy prices?
+      answer: >-
+        Energy prices are influenced by supply and demand, geopolitical events,
+        production decisions, and broader market conditions.
