@@ -1,0 +1,50 @@
+seo:
+  title: Forex Trading | Blackwell
+  description: >-
+    Access global currency markets with reliable execution, competitive pricing,
+    and professional trading conditions.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Forex Trading
+  subtitle: >-
+    Access global currency markets with reliable execution, competitive pricing,
+    and professional trading conditions.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is forex trading?
+  definition: >-
+    Forex trading involves the exchange of one currency for another, allowing
+    participants to trade movements in exchange rates across global markets.
+
+
+    The forex market operates continuously across major financial centres,
+    making it one of the most liquid and actively traded markets in the world.
+    Prices are influenced by economic data, interest rates, geopolitical
+    developments, and market sentiment.
+why:
+  title: Why trade forex with Blackwell
+insights:
+  title: Forex market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Getting started with forex
+  subtitle: >-
+    Understand major, minor, and exotic currency pairs, market sessions,
+    liquidity cycles, and the macroeconomic forces driving FX volatility.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
