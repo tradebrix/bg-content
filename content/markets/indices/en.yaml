@@ -3,8 +3,8 @@ seo:
   description: >-
     Access major equity indices across global markets through a single trading
     account.
-  noIndex: false
-  noFollow: false
+  noIndex: true
+  noFollow: true
 hero:
   title: Indices Trading
   subtitle: >-
@@ -47,4 +47,25 @@ awards:
   items: []
 faq:
   title: Fequently asked questions
-  questions: []
+  questions:
+    - question: What is an index?
+      answer: >-
+        An index tracks the performance of a group of stocks representing a
+        specific market or sector.
+    - question: Which indices can I trade with Blackwell?
+      answer: >-
+        Blackwell offers access to a range of major global indices across
+        different regions.
+    - question: How can I trade indices with Blackwell?
+      answer: >-
+        To trade indices with Blackwell, open a trading account, fund it using
+        your preferred payment method, and access global indices through the
+        trading platform.
+    - question: What platforms can I trade indices on?
+      answer: >-
+        Indices trading is available on MetaTrader 4 and MetaTrader 5 across
+        desktop, web, and mobile.
+    - question: What affects index prices?
+      answer: >-
+        Index prices are influenced by economic data, corporate earnings,
+        interest rates, and overall market sentiment.
