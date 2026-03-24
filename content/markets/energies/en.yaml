@@ -1,0 +1,50 @@
+seo:
+  title: Energies Trading | Blackwell
+  description: >-
+    Access global energy markets, including oil and gas, through a single
+    trading account.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Energies Trading
+  subtitle: >-
+    Access global energy markets, including oil and gas, through a single
+    trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is energies trading?
+  definition: >-
+    Energies trading allows participants to trade price movements in energy
+    commodities such as crude oil and natural gas.
+
+
+    Energy markets are influenced by supply and demand dynamics, geopolitical
+    developments, production levels, and macroeconomic conditions. Trading
+    energies provides exposure to some of the most actively traded commodities
+    in global markets.
+why:
+  title: Why trade Energies with Blackwell
+insights:
+  title: Energy market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Energy trading essentials
+  subtitle: >-
+    Understand major, minor, and exotic currency pairs, market sessions,
+    liquidity cycles, and the macroeconomic forces driving FX volatility.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
