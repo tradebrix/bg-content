@@ -13,7 +13,7 @@ hero:
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: /demo
 whatIs:
-  title: What is ETFs Trading?
+  title: What is ETFs trading?
   definition: >-
     ETFs trading allows participants to trade exchange-traded funds, which track
     the performance of a basket of assets such as equities, sectors,
@@ -38,11 +38,39 @@ articles:
     sectors, regions, commodities, and asset classes.
   selectedArticles: []
 awards:
-  title: Established on excellence
+  title: Standard of excellence
   subtitle: >-
     We are a brand built on trust. That is why we are proud to say our customer
     service and reliability is second to none.
-  items: []
+  items:
+    - year: '2021'
+      title: "Best ECN Forex Broker\L World Business Outlook Awards"
+    - year: '2019'
+      title: Best Online Forex Broker Acquisition International
+    - year: '2019'
+      title: Most Trusted Financial Service Provider Wealth & Finance International
 faq:
   title: Frequently asked questions
-  questions: []
+  questions:
+    - question: What are ETFs?
+      answer: >-
+        ETFs, or exchange-traded funds, are instruments designed to track the
+        performance of a group of assets such as equities, sectors, or
+        commodities.
+    - question: Which ETFs can I trade with Blackwell?
+      answer: >-
+        Blackwell offers access to a range of ETFs covering different markets,
+        sectors, and themes.
+    - question: How can I trade ETFs with Blackwell?
+      answer: >-
+        To trade ETFs with Blackwell, open a trading account, fund it using your
+        preferred payment method, and access ETF markets through the trading
+        platform.
+    - question: What platforms can I trade ETFs on?
+      answer: >-
+        ETFs trading is available on MetaTrader 4 and MetaTrader 5 across
+        desktop, web, and mobile.
+    - question: What affects ETF prices?
+      answer: >-
+        ETF prices are influenced by the performance of the underlying assets,
+        market conditions, and supply and demand.
