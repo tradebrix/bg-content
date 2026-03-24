@@ -1,0 +1,47 @@
+seo:
+  title: Commodities Trading | Blackwell
+  description: >-
+    Trade a range of global commodity markets through a single trading account.
+    Access metals, energies, and agricultural products.
+  noIndex: false
+  noFollow: false
+hero:
+  title: Commodities trading
+  subtitle: Trade a range of global commodity markets through a single trading account.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+whatIs:
+  title: What is commodities trading
+  definition: >-
+    Commodities trading allows participants to trade price movements in physical
+    goods such as agricultural products, metals, and energy-related commodities.
+
+
+    Commodity markets are influenced by supply and demand dynamics, weather
+    conditions, geopolitical events, and global economic activity. Trading
+    commodities provides exposure to real-economy assets across global markets.
+why:
+  title: Why trade Commodities with Blackwell
+insights:
+  title: Commodities market overview
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  symbols: []
+articles:
+  title: Commodities explained
+  subtitle: >-
+    Understand how supply, demand, geopolitical events, and global economic
+    activity influence commodity prices.
+  selectedArticles: []
+awards:
+  title: Established on excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items: []
+faq:
+  title: Frequently asked questions
+  questions: []
