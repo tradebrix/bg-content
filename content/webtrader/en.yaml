@@ -1,0 +1,12 @@
+seo:
+  noIndex: true
+  noFollow: true
+hero: {}
+features:
+  items: []
+global:
+  items: []
+designedFor:
+  goals: []
+steps:
+  steps: []
