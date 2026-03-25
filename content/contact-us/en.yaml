@@ -1,0 +1,56 @@
+seo:
+  title: Contact Us | Blackwell
+  description: >-
+    Reach Blackwell support for help with trading accounts, platforms, and
+    general inquiries. Fast, professional assistance when you need it.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Contact Blackwell
+  subtitle: >-
+    We’re here to help. Reach out to our team using the contact method that
+    suits you best.
+assistance:
+  title: Need assistance?
+  subtitle: >-
+    Our client support team is available to assist with account enquiries,
+    platform support, and general questions.
+  cards:
+    - icon: /icon/en/assistance/cards/0/icon.svg
+      title: Live Chat
+      content: >-
+        Speak directly with a support specialist for real-time assistance during
+        market hours.
+    - icon: /icon/en/assistance/cards/1/icon.svg
+      title: Email
+      content: info@blackwellglobal.com
+    - icon: /icon/en/assistance/cards/2/icon.svg
+      title: Phone
+      content: '+442037699881'
+getInTouch:
+  title: Get in touch.
+  subtitle: Fill out the form and we will get back to you within 24 hours.
+  header: Our Office
+  subheader: >-
+    Blackwell Global has offices stationed across the globe, providing our
+    clients with the services they deserve.
+  labels:
+    - icon: /icon/en/getInTouch/labels/0/icon.svg
+      title: Office
+      content: >-
+        12th Floor, Tower 1, NeXteracom, Rue du Savoir, Cybercity, Ebene,
+        Republic of Mauritius
+    - icon: /icon/en/getInTouch/labels/1/icon.svg
+      title: Phone
+      content: '+442037699881'
+  formTitle: Contact Us
+  formFirstName: First Name
+  formLastName: Last Name
+  formCountry: Country
+  formPhone: Phone
+  formEmail: Email Address
+  formEnquiry: Enquiry
+  formConsent: >-
+    I have read and consent to my data being used in accordance with the Privacy
+    Policy.*
+  formSubmit: Submit
