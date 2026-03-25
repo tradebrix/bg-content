@@ -1,0 +1,115 @@
+seo:
+  title: Regulated Multi-Asset Broker | Blackwell
+  description: >-
+    Blackwell is a global trading provider offering forex and CFD solutions with
+    strong regulation, reliable execution, and a focus on client trust.
+  noIndex: true
+  noFollow: true
+hero:
+  title: A legacy built on trust
+  subtitle: >-
+    Blackwell operates with a focus on consistency, disciplined execution, and
+    long-term client relationships across global markets.
+history:
+  - year: '2003'
+    title: Founded
+    description: >-
+      Blackwell was established as an electronic trading provider. Its initial
+      focus was on serving a mix of private and professional clients with
+      trading solutions.
+    icon: /image/about/en/history/0/icon.svg
+  - year: '2016'
+    title: UK Expansion
+    description: >-
+      The company established FCA-regulated operations in the United Kingdom.
+      This step was taken to provide UK clients with a higher standard of
+      governance, senior oversight, and compliance with strict regulatory
+      frameworks.
+    icon: /image/about/en/history/1/icon.svg
+  - year: '2017'
+    title: Global Sponsorships
+    description: >-
+      Blackwell entered a strategic partnership with the Premier League’s
+      Everton Football Club. This move was intended to align the brand with
+      values of heritage, resilience, and high-level performance.
+    icon: /image/about/en/history/2/icon.svg
+  - year: '2020'
+    title: Institutional Expansion
+    description: >-
+      Responding to growing demand, the company launched BGI Prime. This
+      division was specifically designed to provide professional and
+      institutional clients with enhanced liquidity access and scalable trading
+      infrastructure.
+    icon: /image/about/en/history/3/icon.svg
+  - year: '2021'
+    title: Expanding Our Global Footprint
+    description: >-
+      Blackwell established a presence in The Bahamas under the Securities
+      Commission of The Bahamas (SCB). This expansion was aimed at strengthening
+      its international operational footprint and supporting clients across
+      multiple jurisdictions.
+    icon: /image/about/en/history/4/icon.svg
+historyToday:
+  header: Today
+  description: >-
+    Blackwell continues to expand its global presence, underpinned by a
+    regulation-led approach and a long-term commitment to transparency and
+    client trust.
+  highlightedPart: Blackwell
+operate:
+  title1: At a Glance
+  stats:
+    - value: 1M+
+      label: Clients worldwide
+    - value: 90+
+      label: Countries served
+    - value: '8'
+      label: Global Offices
+  title2: How we operate
+  subtitle: >-
+    Blackwell operates with a clear emphasis on service quality, execution
+    integrity, and long-term reliability.
+  cards:
+    - icon: /image/about/en/operate/cards/0/icon.svg
+      description: Professional trading infrastructure
+    - icon: /image/about/en/operate/cards/1/icon.svg
+      description: Disciplined internal processes
+    - icon: /image/about/en/operate/cards/2/icon.svg
+      description: Experienced, market focused teams
+  caption: We prioritise long-term client relationships over short-term volume.
+  captionHighlight: client relationships
+global:
+  title: Globally regulated
+  subtitle: We’re regulated in multiple regions worldwide, keeping your funds secure.
+  cards:
+    - serviceName: Securities Commission
+      countryName: The Bahamas
+      countryCode: SCB
+    - serviceName: Financial Conduct Authority
+      countryName: UK
+      countryCode: FCA
+    - serviceName: Financial Services Commission
+      countryName: Mauritius
+      countryCode: FSC
+industry:
+  title: Industry Recognition
+  subtitle: >-
+    Blackwell provides competitive spreads across forex, indices, and
+    commodities, supported by reliable execution and established liquidity
+    relationships.
+  items: []
+  buttonText: View all
+map:
+  title: Global reach, local expertise
+  subtitle: A global team committed to supporting you every step of the way.
+cta:
+  title: Looking Ahead
+  description: >-
+    As markets evolve, Blackwell continues to invest in infrastructure,
+    governance, and access — focused on consistency in an increasingly complex
+    global environment.
+  bannerTitle: Trade confidently with Blackwell
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
