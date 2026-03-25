@@ -1,0 +1,111 @@
+seo:
+  title: Security of Funds | Client Protection & Regulation | Blackwell
+  description: >-
+    Learn how Blackwell protects client funds with segregated accounts,
+    regulatory oversight, and secure trading infrastructure.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Fund protection
+  subtitle: >-
+    When you deposit funds with Blackwell, your money is handled with strict
+    controls designed to safeguard client assets and maintain financial
+    integrity at all times.
+protect:
+  title: How Blackwell protects your funds
+  subtitle: >-
+    We employ a multi-layered approach to ensure your capital remains secure and
+    identifiable throughout your trading journey.
+  cards:
+    - icon: /image/fund-protection/en/protect/cards/0/icon.svg
+      header: Segregated client accounts
+      description: >
+        Client funds are held separately from Blackwell’s own operating capital
+        in designated client accounts with tier 1 banks.
+    - icon: /image/fund-protection/en/protect/cards/1/icon.svg
+      header: Client money remains client money
+      description: >-
+        Your funds are not mixed with company assets and are not used for
+        Blackwell’s operational or hedging activities.
+    - icon: /image/fund-protection/en/protect/cards/2/icon.svg
+      header: Clear operational controls
+      description: >-
+        Robust internal processes ensure client funds are accounted for,
+        monitored, and managed in line with regulatory expectations.
+    - icon: /image/fund-protection/en/protect/cards/3/icon.svg
+      header: Regulatory oversight
+      description: >-
+        Blackwell operates under established regulatory frameworks that define
+        how client money must be handled and protected.
+moneyMoves:
+  header: How your money moves
+  subtitle: Transparency at every stage of the fund lifecycle.
+  steps:
+    - header: You deposit funds
+      content: Initiate a transfer into your secure trading account.
+    - header: Allocated to segregated accounts
+      content: Funds are immediately moved to designated client accounts.
+    - header: Withdrawals processed to you
+      content: Funds are returned directly to the source of original deposit.
+    - header: Identifiable at all times
+      content: Client balances remain separate and fully reconciled.
+  quote: >-
+    "This structure ensures your funds are available for trading and withdrawal
+    in line with account terms."
+  secondColumnHeader: What this means for you
+  secondColumnSubtitle: Absolute clarity on the safety of your capital.
+  secondColumnItems:
+    - icon: /image/fund-protection/en/moneyMoves/secondColumnItems/0/icon.svg
+      text: Your funds are not used for Blackwell’s business operations
+    - icon: /image/fund-protection/en/moneyMoves/secondColumnItems/1/icon.svg
+      text: Client balances are held separately and clearly recorded
+    - icon: /image/fund-protection/en/moneyMoves/secondColumnItems/2/icon.svg
+      text: Capital handling follows defined regulatory standards
+    - icon: /image/fund-protection/en/moneyMoves/secondColumnItems/3/icon.svg
+      text: You retain beneficial ownership of your deposited funds
+  labelsHeader: Security Standards
+  labels:
+    - ISO Reconciliations
+    - Tier 1 Banking
+    - Real-time Audits
+stats:
+  title: A legacy built by trust
+  subtitle: >-
+    Built on decades of industry experience, Blackwell has established a legacy
+    of disciplined growth, operational resilience, and trusted client
+    relationships across global markets.
+  statsItems:
+    - stat: '2003'
+      unit: Established
+    - stat: 1M+
+      unit: Clients
+    - stat: 90+
+      unit: Countries
+    - stat: '8'
+      unit: Offices
+  bannerTitle: |-
+    Trade with confidence.
+    Trade with Blackwell.
+  bannerPrimaryButton: Open Account
+  bannerPrimaryLink: /login
+  bannerSecondaryButton: Try Demo Account
+  bannerSecondaryLink: /demo
+faq:
+  title: Fequently asked questions
+  questions:
+    - question: Are my funds separated from Blackwell’s own money?
+      answer: >-
+        Yes. Client funds are held in segregated accounts and are kept separate
+        from Blackwell’s operational capital.
+    - question: Does Blackwell use my money for trading or hedging?
+      answer: >-
+        No. Client funds are not used for company trading, hedging, or
+        operational purposes.
+    - question: What happens to my money if Blackwell stops operating?
+      answer: >-
+        Segregated client funds are protected from company creditors and would
+        be returned to clients following applicable procedures.
+    - question: Can I withdraw my funds at any time?
+      answer: >-
+        Withdrawals are available in line with account terms and standard
+        processing times.
