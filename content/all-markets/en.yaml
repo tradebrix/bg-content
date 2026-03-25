@@ -1,0 +1,132 @@
+seo:
+  title: Trade Forex, Indices, Commodities & More | Blackwell
+  description: >-
+    Explore all markets with Blackwell. Trade forex, indices, commodities,
+    metals, and more with competitive spreads and fast, reliable execution.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Global markets. One Account
+  subtitle: >-
+    Trade 2000+ instruments across major global markets, with competitive
+    pricing and high speed execution.
+  primaryButtonText: Open Account
+  primaryButtonLink: /login
+  secondaryButtonText: Try Demo Account
+  secondaryButtonLink: /demo
+globalMarkets:
+  title: Trade across major global markets
+  subtitle: Access 2000+ instruments through a single trading account.
+  cards:
+    - title: Forex
+      description: >
+        Major and minor currency pairs, traded with competitive pricing and
+        stable execution.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/0/icon.svg
+    - title: Indices
+      description: >-
+        Trade leading global indices and gain exposure to regional and
+        international markets.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/1/icon.svg
+    - title: Energies
+      description: >
+        Access key energy markets, including oil and gas, with transparent
+        pricing.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/2/icon.svg
+    - title: Precious Metals
+      description: >-
+        Trade gold, silver, and other metals as part of a diversified trading
+        approach.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/3/icon.svg
+    - title: Commodities
+      description: A selection of hard and soft commodities across global markets.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/4/icon.svg
+    - title: ETFs
+      description: Gain exposure to themed and sector-based ETFs through a single trade.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/5/icon.svg
+    - title: CFD Shares
+      description: >-
+        Trade CFDs on selected global equities, with the ability to go long or
+        short.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/6/icon.svg
+    - title: CFD Bonds
+      description: >-
+        Access bond markets through CFDs, offering exposure to interest rate
+        movements.
+      buttonText: See More
+      icon: /image/all-markets/en/globalMarkets/cards/7/icon.svg
+insights:
+  title: Instant market insight
+  subtitle: >-
+    Stay informed with market updates and analysis designed to support informed
+    trading decisions.
+  tabs:
+    - tabName: Forex
+      symbols: []
+    - tabName: Indices
+      symbols: []
+    - tabName: Commodities
+      symbols: []
+    - tabName: Shares
+      symbols: []
+    - tabName: Energies
+      symbols: []
+    - tabName: Metals
+      symbols: []
+  noteText: >-
+    Prices above are subject to our website terms and conditions , and prices
+    are indicative only. All shares prices are delayed by at least 15 mins.
+  noteLinkText: website terms and conditions
+  buttonText: See More
+  articlesTitle: Latest News & Analysis
+  selectedArticles: []
+tradeWithUs:
+  title: Why trade with us?
+  cards:
+    - icon: /image/all-markets/en/tradeWithUs/cards/0/icon.svg
+      title: Lightning-fast execution
+      description: Low-latency infrastructure designed for speed, stability, and precision.
+    - icon: /image/all-markets/en/tradeWithUs/cards/1/icon.svg
+      title: Ultra-tight spreads
+      description: Competitive pricing sourced from established liquidity providers.
+    - icon: /image/all-markets/en/tradeWithUs/cards/2/icon.svg
+      title: 24/7 professional support
+      description: Dedicated support available whenever markets are active.
+    - icon: /image/all-markets/en/tradeWithUs/cards/3/icon.svg
+      title: Built for serious trading
+      description: >-
+        Reliable platforms, disciplined processes, and execution standards you
+        can depend on.
+pricing:
+  title: Competitive pricing
+  subtitle: Blackwell provides competitive spreads across major global indices.
+  tabs:
+    - tabName: Forex
+      symbols: []
+    - tabName: Indices
+      symbols: []
+    - tabName: Commodities
+      symbols: []
+    - tabName: Shares
+      symbols: []
+    - tabName: Energies
+      symbols: []
+    - tabName: Metals
+      symbols: []
+steps:
+  cards:
+    - header: Open an account
+      description: Create your Blackwell trading account in just a few minutes.
+    - header: Fund your account
+      description: Deposit using one of our available funding methods.
+    - header: Start trading
+      description: Access global markets through Blackwell’s supported trading platforms.
+  buttonText: Open Account /login
+  buttonLink: /login
