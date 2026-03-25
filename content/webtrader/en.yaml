@@ -1,4 +1,8 @@
 seo:
+  title: WebTrader | Trade Directly from Your Browser | Blackwell
+  description: >-
+    Use WebTrader to trade forex, indices, and more directly from your browser.
+    Fast, secure, and accessible on any device.
   noIndex: true
   noFollow: true
 hero: {}
