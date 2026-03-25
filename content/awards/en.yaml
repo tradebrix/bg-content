@@ -1,0 +1,123 @@
+seo:
+  title: Award Winning | Globally Recognized Broker | Blackwell
+  description: >-
+    View Blackwell’s awards and recognitions across forex and CFD trading.
+    Trusted globally for performance, reliability, and consistent execution.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Awards and recognitions
+standards:
+  title: Standards that speak for themselves
+  subtitle: >-
+    For more than two decades, Blackwell has delivered an exceptional trading
+    experience through disciplined execution and consistent standards.
+  paragraphPart1: >-
+    That focus has been reflected in the recognition we have received from
+    independent industry bodies 
+  paragraphHighlight: over the years.
+recognition:
+  title: Consistency that earns recognition
+  subtitle: >-
+    Trading demands trust, and trust is built through performance over time. We
+    apply the same standards of excellence across our client base.
+  bannerHeader: Best ECN Forex Broker
+  bannerTitlePart1: 'World Business Outlook Awards, '
+  bannerTitleHighlight: '2021'
+timelines:
+  - year: '2020'
+    events:
+      - header: Hong Kong Council of Social Service
+        content: Caring Company 2020
+      - header: Mandatory Provident Fund Schemes Authority
+        content: Good MPF Employer
+      - header: Global Brands Magazine
+        content: Most Preferred CFD Broker-Cambodia 2020
+  - year: '2019'
+    events:
+      - header: Wealth & Finance International
+        content: Most Trusted Financial Service Provider
+      - header: Acquisition International
+        content: 'Best Online Forex Broker '
+      - header: International Business Awards
+        content: Best Crypto CFD Trading Provider UK
+      - header: Acquisition International
+        content: Best Online Forex Broker, UK
+      - header: Global Banking & Finance Awards
+        content: Best New Multi-Asset Broker Hong Kong 2019
+  - year: '2018'
+    events:
+      - header: Global Brands Magazine Awards
+        content: Fastest Growing New Forex Brand 2018, Cambodia
+      - header: Global Brands Magazine Awards
+        content: Fastest Growing New Forex Brand, UK 2018
+      - header: UK Sponsorship Awards
+        content: First Time Sponsor Award, UK 2018
+      - header: Global Finance
+        content: The Innovators, UK 2018
+  - year: '2017'
+    events:
+      - header: Wealth & Finance International
+        content: Forex Provider Of the Year
+      - header: Acquisition International
+        content: Most Innovative Online Forex Trading Platforms 2017
+      - header: Acquisition International
+        content: Best Forex Brokerage 2017
+      - header: ShowFXWorld
+        content: 'Breakthrough of the year: Forex 2017'
+  - year: '2016'
+    events:
+      - header: Global Banking & Finance Review
+        content: Best STP Broker Africa 2016
+      - header: Global Banking & Finance Review
+        content: Best Introducing Broker Program Africa 2016
+      - header: Acquisition International
+        content: Most Outstanding STP Broker 2016
+      - header: Corporate Vision
+        content: Finest STP Broker 2016
+      - header: Trader Planet
+        content: Best Brokerage STAR Awards 2016, 1st Runner-Up
+  - year: '2015'
+    events:
+      - header: Wealth & Finance International
+        content: Best STP Broker Cyprus
+      - header: Lagos Forex Expo Awards
+        content: Best Broker Of the year
+      - header: Lagos Forex Expo Awards
+        content: Best ECN/STP Forex Broker in Africa
+  - year: '2014'
+    events:
+      - header: Global Financial Market Review
+        content: Best Customer Service Broker, EMEA
+      - header: Global Financial Market Review
+        content: Best STP Broker EMEA
+      - header: Global Financial Market Review
+        content: Most Robust IT Infrastructure Broker
+      - header: Global Banking & Finance Review
+        content: Best Introducing Broker Programme, Asia Pacific
+      - header: Global Banking & Finance Review
+        content: Best White Label Solutions Provider, Asia Pacific
+      - header: Wealth & Finance International
+        content: Best for Innovative Online Trading Solutions, Cyprus
+      - header: Wealth & Finance International
+        content: Best Forex Brokerage, Cyprus
+  - year: '2013'
+    events:
+      - header: Global Financial Market Review
+        content: Best Customer Service Broker, EMEA
+      - header: Wealth & Finance International
+        content: Best STP Broker EMEA
+      - header: Global Financial Market Review
+        content: Best Forex Brokerage, Cyprus
+      - header: Global Banking & Finance Review
+        content: Best White Label Solutions Provider, Asia Pacific
+      - header: Wealth & Finance International
+        content: Best for Innovative Online Trading Solutions, Cyprus
+      - header: Wealth & Finance International
+        content: Best Forex Brokerage, Cyprus
+  - year: '2012'
+    events:
+      - header: Global Banking & Finance Review
+        content: Most Innovative STP Broker, Asia
+      - header: Global Banking & Finance Review
+        content: Best STP Broker New Zealand
