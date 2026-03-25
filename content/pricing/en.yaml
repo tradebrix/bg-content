@@ -1,0 +1,80 @@
+seo:
+  title: Low Cost Trading | Blackwell
+  description: >-
+    Explore transparent trading fees with competitive spreads across forex,
+    indices, and commodities. No hidden charges, just clear, reliable pricing.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Transparent pricing across key markets
+  subtitle: >-
+    Competitive spreads across major instruments, supported by consistent
+    execution and established trading infrastructure.
+fees:
+  title: Simple account fees
+  subtitle: >
+    We keep account costs clear and straightforward. No unnecessary charges -
+    only transparent rules where fees apply.
+  setupHeader: Setup
+  setupValue: No setup fee
+  maintenanceHeader: Maintenance
+  maintenanceValue: No fees
+  tableHeader1: Account Service
+  tableHeader2: Fee
+  rows:
+    - service: Opening an account
+      fee: Free
+    - service: Closing an account
+      fee: Free
+    - service: Demo account
+      fee: Free
+market:
+  title: Market pricing and spreads
+  subtitle: >
+    Blackwell provides competitive spreads across forex, indices, and
+    commodities, supported by reliable execution and established liquidity
+    relationships.
+  topNote: The tables below show indicative spreads across selected instruments.
+  bottomNote: Pricing may vary depending on market conditions and liquidity.
+  tableHeader1: Symbol
+  tableHeader2: Minimum Spread
+  tableHeader3: Average Spread
+  tabs:
+    - name: Forex
+      subTabs:
+        - name: Major Pairs
+          symbols: []
+        - name: Minor Pairs
+          symbols: []
+        - name: Exotic Pairs
+          symbols: []
+    - name: Indices
+      subTabs: []
+    - name: Commodities
+      subTabs: []
+    - name: Shares
+      subTabs: []
+    - name: Energies
+      subTabs: []
+    - name: Metals
+      subTabs: []
+    - name: ETFs
+      subTabs: []
+builtfor:
+  title: Built for consistent execution
+  subtitle: >-
+    Pricing is only part of the equation. Our trading environment is designed to
+    support stability, speed, and execution quality across market conditions.
+  labels:
+    - label: Low-latency execution infrastructure
+    - label: Stable trading environment during active sessions
+    - label: Pricing sourced from established liquidity relationships
+banner:
+  title: You’re trading starts here
+  subtitle: >-
+    Open an account and start trading in minutes, or practise first with a
+    risk-free demo.
+  primaryBtnText: Open Account
+  primaryBtnLink: /login
+  secondaryBtnText: Try Demo Account
+  secondaryBtnLink: /demo
