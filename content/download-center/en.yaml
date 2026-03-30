@@ -1,0 +1,84 @@
+seo:
+  title: Download MT4 & MT5 Trading Platforms | Blackwell
+  description: >-
+    Download MT4 and MT5 trading platforms from Blackwell. Trade across desktop
+    and mobile with advanced tools, fast execution, and real-time market data.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Download your trading platforms
+  subtitle: >-
+    Access Blackwell’s trading platforms across desktop, web, and mobile. Choose
+    the setup that fits how and where you trade.
+mt5Download:
+  title: Download MT5
+  description: >-
+    The ultimate multi-asset platform. MetaTrader 5 offers superior tools for
+    comprehensive price analysis, use of algorithmic trading applications, and
+    copy trading.
+  cards:
+    - icon: desktop
+      header: Download
+      title: MT5 for Windows
+      link: >-
+        https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/mt5setup.exe?utm_source=www.metatrader5.com&utm_campaign=download
+    - icon: apple
+      header: DOWNLOAD
+      title: MT5 for Mac OS
+      link: >-
+        https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/MetaTrader5.pkg.zip?utm_source=www.metatrader5.com&utm_campaign=download.mt5.macos
+    - icon: apple
+      header: DOWNLOAD FROM
+      title: App Store
+      link: https://apps.apple.com/us/app/metatrader-5/id413251709
+    - icon: play
+      header: GET IT ON
+      title: Google Play
+      link: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5
+mt4Download:
+  title: Download MT4
+  description: >-
+    The industry standard for forex and CFD trading. Renowned for its
+    user-friendly interface and highly customizable features for traders of all
+    levels.
+  cards:
+    - icon: desktop
+      header: DOWNLOAD
+      title: MT4 for Windows
+      link: >-
+        https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download
+    - icon: apple
+      header: DOWNLOAD
+      title: MT4 for Mac OS
+      link: >-
+        https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/MetaTrader4.pkg.zip?utm_source=www.metatrader4.com&utm_campaign=download.mt4.macos
+    - icon: apple
+      header: DOWNLOAD FROM
+      title: App Store
+      link: https://apps.apple.com/us/app/metatrader-4/id496212596
+    - icon: desktop
+      header: GET IT ON
+      title: Google Play
+      link: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4
+trade:
+  card1:
+    title: Trade on the move
+    description: >-
+      Monitor markets, manage positions, and place trades using MetaTrader
+      mobile trading apps.
+    iosLink: https://apps.apple.com/us/app/metatrader-5/id413251709
+    androidLink: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5
+  card2:
+    title: Trade from your browser
+    description: >-
+      Access MT4 or MT5 without installing software. WebTrader provides secure,
+      browser-based access to your account.
+banner:
+  title: You’re trading starts here
+  subtitle: >-
+    Open an account and start trading in minutes, or practise first with a
+    risk-free demo.
+  primaryBtnText: Open Account
+  primaryBtnLink: https://mau.blackwellglobal.com/register/
+  secondaryBtnText: Try Demo Account
+  secondaryBtnLink: https://mau.blackwellglobal.com/register/
