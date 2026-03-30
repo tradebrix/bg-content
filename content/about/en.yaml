@@ -94,9 +94,8 @@ global:
 industry:
   title: Industry Recognition
   subtitle: >-
-    Blackwell provides competitive spreads across forex, indices, and
-    commodities, supported by reliable execution and established liquidity
-    relationships.
+    Our industry recognition reflects a sustained commitment to excellence,
+    operational discipline, and the standards that define long-term performance.
   items: []
   buttonText: View all
 map:
@@ -110,6 +109,6 @@ cta:
     global environment.
   bannerTitle: Trade confidently with Blackwell
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
