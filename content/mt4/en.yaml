@@ -16,7 +16,11 @@ trade:
   subtitle: >-
     Access your Blackwell MT4 account on desktop, web, and mobile with
     consistent performance across all devices.
-  labels: []
+  labels:
+    - Download MT4 on Mac OS
+    - Download MT4 on Windows
+    - Download from the App Store
+    - Get it from Google Play
   macosUrl: >-
     https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/MetaTrader4.pkg.zip?utm_source=www.metatrader4.com&utm_campaign=download.mt4.macos
   windowsUrl: >-
@@ -69,10 +73,27 @@ steps:
     - title: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
   buttonText: Open Account
-  buttonLink: /login
+  buttonLink: https://mau.blackwellglobal.com/register/
 banner:
   title: Not sure if MT4 is right for you?
   subtitle: >-
     Compare MT4 and MT5 features to choose the platform that best suits your
     trading style.
   buttonText: Compare Platforms
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: What is MetaTrader 4?
+      answer: >-
+        MetaTrader 4 is a widely used trading platform focused on forex and CFD
+        trading, known for its simplicity and stability.
+    - question: Which markets can I trade on MT4 with Blackwell?
+      answer: >-
+        MT4 provides access to forex and selected CFD markets, subject to
+        availability.
+    - question: Can I use MT4 on mobile?
+      answer: Yes. MT4 is available on both iOS and Android devices.
+    - question: Can I try MT4 before trading live?
+      answer: >-
+        Yes. A demo account is available to practise trading in a risk-free
+        environment.
