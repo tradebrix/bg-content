@@ -9,9 +9,9 @@ hero:
   title: CFD Shares Trading
   subtitle: Trade CFDs on selected global equities through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is CFD shares trading?
   definition: >-
@@ -30,7 +30,6 @@ articles:
     Discover how earnings, valuation metrics, and sector rotation influence
     individual stocks and equity CFDs.
   selectedArticles: []
-
 faq:
   title: Frequently asked questions
   questions:
