@@ -1,0 +1,153 @@
+seo:
+  title: Copy Trading Platform | Social Trading with Blackwell Invest
+  description: >-
+    Start copy trading with Blackwell Invest. Connect with experienced traders
+    and replicate their trades automatically through a social trading platform.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Social trading with Blackwell Invest
+  subtitle: >-
+    Follow experienced traders and automatically copy their strategies in real
+    time, directly from the Blackwell Invest app.
+  finalText: >-
+    Connect with experienced traders and replicate their trades directly in your
+    own account.
+
+
+    Trades are executed automatically while you retain full control over
+    allocation, risk settings, and performance monitoring all from one app.
+  highlightedText: Connect
+benefits:
+  title: Blackwell Invest platform benefits
+  cards:
+    - icon: /image/invest/en/benefits/cards/0/icon.svg
+      title: Total trade control
+      description: >-
+        Manage your capital with adjustable copy settings, allocation limits,
+        and the ability to stop copying at any time.
+    - icon: /image/invest/en/benefits/cards/1/icon.svg
+      title: Transparent performance
+      description: >-
+        Track returns, drawdowns, trade history, and risk metrics in real time,
+        before and after following a strategy.
+    - icon: /image/invest/en/benefits/cards/2/icon.svg
+      title: Flexible copy modes
+      description: >-
+        Copy trades using balance-based or proportional allocation to match your
+        risk preferences.
+    - icon: /image/invest/en/benefits/cards/3/icon.svg
+      title: For active and passive traders
+      description: >-
+        B-Social supports both hands-on risk management and fully automated copy
+        trading.
+    - icon: /image/invest/en/benefits/cards/4/icon.svg
+      title: Provider monetisation
+      description: >-
+        Strategy providers can attract followers and earn performance-based fees
+        through verified strategies.
+    - icon: /image/invest/en/benefits/cards/5/icon.svg
+      title: Mobile-first access
+      description: >-
+        Access B-Social via dedicated iOS and Android apps to monitor and manage
+        copy trading anytime, anywhere.
+lead:
+  title: |
+    Take the lead with Blackwell Invest
+  subtitle: >-
+    Blackwell Invest connects followers and experienced traders through a
+    dedicated social trading app.
+  description: >-
+    Followers can automatically copy trades in real time across supported
+    instruments, while strategy providers can share their performance, grow
+    their audience, and earn performance-based rewards, with full transparency
+    and live tracking.
+howToStart:
+  title: How to start social trading
+  tabs:
+    - label: Followers
+      subtitle: Start social trading on Blackwell  Invest in 3 simple steps
+      steps:
+        - header: Open an account
+          description: Open a live Blackwell account and download the Blackwell Invest app.
+        - header: Choose your trader
+          description: >-
+            Browse verified strategy providers and review performance, drawdown,
+            and risk metrics.
+        - header: Stay in control
+          description: >-
+            Trades are copied automatically in real time. Monitor results and
+            adjust allocations or stop copying at any time.
+      buttonText: Start Social Trading
+      buttonLink: https://mau.blackwellglobal.com/register/
+    - label: Provider
+      subtitle: How to become a strategy  provider in 3 simple steps
+      steps:
+        - header: Open an account
+          description: >-
+            Open a live Blackwell account and register as a strategy provider on
+            Blackwell Invest.
+        - header: Share your strategy
+          description: >-
+            Trade normally while allowing followers to copy your positions in
+            real time.
+        - header: Grow your following
+          description: >-
+            Build a following based on transparent performance and earn
+            performance-based fees.
+      buttonText: Become a Provider
+      buttonLink: https://mau.blackwellglobal.com/register/
+leaderboard: {}
+banner:
+  title: Start social trading with Blackwell Invest
+  appStoreLink: https://apps.apple.com/gb/app/blackwell-invest/id1666036351
+  playStoreLink: https://blackwellglobal.com/wp-content/app/blackwellinvest-android.html
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: How profitable is social trading on Blackwell Invest?
+      answer: >-
+        Performance depends on the strategy provider you follow, market
+        conditions, and your risk settings. While some providers may deliver
+        consistent results, past performance is not a guarantee of future
+        returns, and losses can occur.
+    - question: How does social trading work on Blackwell Invest?
+      answer: >-
+        Blackwell Invest allows you to automatically replicate the trades of
+        selected strategy providers in real time. When a provider opens or
+        closes a trade, the same action is mirrored in your account based on
+        your chosen allocation.
+    - question: Is Blackwell Invest suitable for beginners?
+      answer: >-
+        Yes. Blackwell Invest can be suitable for beginners as it enables market
+        participation without active trading. However, users should understand
+        the risks involved and start with appropriate exposure levels.
+    - question: What risks are involved in social trading?
+      answer: >-
+        Social trading carries the same risks as trading, including market
+        volatility, drawdowns, potential losses, over-exposure to a single
+        strategy, and technical execution risks.
+    - question: What risks are involved in social trading?
+      answer: >-
+        Social trading carries the same risks as trading, including market
+        volatility, drawdowns, potential losses, over-exposure to a single
+        strategy, and technical execution risks.
+    - question: Can I lose money using Blackwell Invest?
+      answer: >-
+        Yes. Social trading does not eliminate risk. Market movements are
+        unpredictable, and losses may occur even when following experienced
+        strategy providers.
+    - question: How do I choose a strategy to copy?
+      answer: >-
+        When selecting a provider, consider long-term performance, drawdown
+        levels, risk profile, trading style, and consistency. Avoid relying
+        solely on short-term results.
+    - question: Can I stop copying a strategy at any time?
+      answer: >-
+        Yes. You can stop copying a strategy, close positions, or adjust your
+        copy settings at any time directly within the Blackwell Invest platform.
+    - question: What fees apply to Blackwell Invest social trading?
+      answer: >-
+        Fees may include spreads, commissions, and performance-based fees set by
+        strategy providers. Fee structures vary and should be reviewed before
+        copying any strategy.
