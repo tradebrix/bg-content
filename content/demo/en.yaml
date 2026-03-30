@@ -105,7 +105,7 @@ faq:
     - question: Does the demo reflect real market conditions?
       answer: >-
         Yes. Pricing is based on live market data, although execution is
-        simulated.
+        simulated, and funds are virtual.
     - question: Can I use MT4 and MT5 on demo?
       answer: Yes. Demo accounts are available on both MetaTrader 4 and MetaTrader 5.
     - question: How do I move from demo to live trading?
