@@ -9,9 +9,9 @@ hero:
   title: Commodities Trading
   subtitle: Trade a range of global commodity markets through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: /https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is commodities trading
   definition: >-
