@@ -13,7 +13,10 @@ hero:
 calculators:
   title: Trading calculator
   subtitle: Understand the key requirements of a trade before placing an order.
-  labels: []
+  labels:
+    - Calculate the margin required to open a position
+    - Understand how leverage affects margin and exposure
+    - Review indicative costs, including spreads and swaps
   calculatorInputs:
     tradingCalculatorTab: Trading Calculator
     profitCalculatorTab: Profit Calculator
@@ -46,10 +49,41 @@ calculators:
     resultsProfitHeader: Profit
     ctaButtonTab2:
       label: Start Trading
-      link: '#'
+      link: https://mau.blackwellglobal.com/register/
 howToUse:
   title: How to use the trading calculator
-  cards: []
+  cards:
+    - Select the instrument you want to trade
+    - Enter your lot size and account leverage
+    - Input the current bid and ask prices
+    - Choose your account currency
+    - Click Calculate to view estimated margin and costs
 faq:
   title: Frequently asked questions
-  questions: []
+  questions:
+    - question: What does the trading calculator show?
+      answer: >-
+        The trading calculator provides indicative calculations for margin
+        requirements, leverage impact, and estimated trading costs based on the
+        values entered.
+    - question: Are the trading calculator results accurate?
+      answer: >-
+        Results are indicative only and may differ from live trading conditions
+        due to market movement, liquidity, or execution factors.
+    - question: Does the trading calculator include spreads and swaps?
+      answer: >-
+        Indicative spreads and swap values may be included where applicable, but
+        live costs can vary.
+    - question: Can I use the trading calculator before opening an account?
+      answer: >-
+        Yes, the trading calculator can be used for reference purposes without
+        opening an account.
+    - question: How can I start trading with Blackwell?
+      answer: >-
+        You can start trading with Blackwell in 3 easy steps.Create your
+        Blackwell account, fund your account using your preferred payment
+        method, and access the trading platform.
+    - question: Which platforms can I trade on?
+      answer: >-
+        Trading is available on MetaTrader 4 and MetaTrader 5 across desktop,
+        web, and mobile devices.
