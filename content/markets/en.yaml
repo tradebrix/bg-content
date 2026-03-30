@@ -23,4 +23,17 @@ banner:
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 awards:
-  items: []
+  title: A standard of excellence
+  subtitle: >-
+    We are a brand built on trust. That is why we are proud to say our customer
+    service and reliability is second to none.
+  items:
+    - image: /image/markets/en/awards/items/0/image.svg
+      year: '2021'
+      title: "Best ECN Forex Broker\L | World Business Outlook Awards"
+    - image: /image/markets/en/awards/items/1/image.svg
+      year: '2019'
+      title: Best Online Forex Broker | Acquisition International
+    - image: /image/markets/en/awards/items/2/image.svg
+      year: '2021'
+      title: Most Trusted Financial Service Provider | Wealth & Finance International
