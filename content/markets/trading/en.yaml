@@ -9,9 +9,9 @@ hero:
   title: ETFs Trading
   subtitle: Trade key precious metals markets through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is ETFs trading?
   definition: >-
