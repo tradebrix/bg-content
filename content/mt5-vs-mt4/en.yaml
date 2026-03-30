@@ -1,0 +1,135 @@
+seo:
+  title: MT4 vs MT5 | Choose the Right Trading Platform | Blackwell
+  description: >-
+    MT4 vs MT5 comparison guide. Learn the differences between MetaTrader 4 and
+    MetaTrader 5, including features, markets, and trading tools.
+  noIndex: true
+  noFollow: true
+hero:
+  title: MT5 vs MT4
+  subtitle: >-
+    Compare MetaTrader 4 and MetaTrader 5 to find the platform that fits your
+    trading style and market needs.
+ecosystem:
+  title: The MetaTrader ecosystem
+  description: >-
+    For many traders, MetaTrader is the starting point.  It’s one of the most
+    widely used trading platforms globally, trusted for its stability,
+    execution, and flexibility across different market conditions.
+  descriptionGrey: >-
+    Over time, the platform has evolved to meet changing market needs. Today,
+    that evolution exists in two forms: MetaTrader 4 and MetaTrader 5.
+usage:
+  - title: 'MetaTrader 5: the platform built for today’s markets'
+    description: >-
+      As markets expanded and trading needs became more complex, MetaTrader 5
+      was introduced. MT5 extends beyond forex, offering access to a broader
+      range of asset classes and a more advanced analytical environment. It
+      introduces additional timeframes, deeper market visibility through Depth
+      of Market, and integrated tools such as an economic calendar.
+
+
+      Rather than replacing MT4, MT5 builds on its foundation, offering greater
+      flexibility for traders who want more depth, more markets, and more
+      control from a single platform.
+    conclusion: >-
+      For traders looking to trade across asset classes or apply more advanced
+      analysis, MT5 represents the natural progression.
+    image: /image/mt5-vs-mt4/en/usage/0/image.png
+  - title: 'MetaTrader 4: where many traders began'
+    description: >-
+      MetaTrader 4 remains a familiar environment for traders who value
+      simplicity and focus. It was built with forex trading at its core and
+      continues to be widely used for that reason.
+
+
+      MT4 provides the essential tools traders rely on: charting, indicators,
+      and support for automated strategies through Expert Advisors. Its
+      interface is straightforward, its performance is stable, and its ecosystem
+      is mature.
+    conclusion: >-
+      For traders who concentrate primarily on forex and prefer a streamlined
+      setup, MT4 continues to serve its purpose well.
+    image: /image/mt5-vs-mt4/en/usage/1/image.png
+difference:
+  headers:
+    feature: Feature
+    mt4: MetaTrader 4
+    mt5: MetaTrader 5
+  rows:
+    - feature: Market coverage
+      mt4: Forex & selected CFDs
+      mt5: Forex, indices, commodities, shares CFDs, bonds CFDs
+    - feature: Technical indicators
+      mt4: 30+
+      mt5: 38+
+    - feature: Timeframes
+      mt4: '9'
+      mt5: '21'
+    - feature: Order types
+      mt4: Standard
+      mt5: Extended order types
+    - feature: Depth of market
+      mt4: '"false"'
+      mt5: '"true"'
+    - feature: Automated trading
+      mt4: '"true"'
+      mt5: '"true"'
+    - feature: Economic calendar
+      mt4: '"false"'
+      mt5: '"true"'
+    - feature: One-click trading
+      mt4: '"true"'
+      mt5: '"true"'
+    - feature: Mobile & web access
+      mt4: '"true"'
+      mt5: '"true"'
+strategy:
+  title: Which platform fits your trading strategy?
+  column1:
+    text: >-
+      If your trading is focused, forex-driven, and built around established
+      strategies or Expert Advisors, MetaTrader 4 may feel familiar and
+      efficient.
+    image: /image/mt5-vs-mt4/en/strategy/column1/image.png
+  column2:
+    text: >-
+      If your trading involves multiple markets, deeper analysis, or a need for
+      broader market visibility, MetaTrader 5 offers the tools to support that
+      approach.
+    image: /image/mt5-vs-mt4/en/strategy/column2/image.png
+download:
+  title: Available on all devices
+  subtitle: >-
+    Both platforms are available on all major operating systems and devices.
+    Trade seamlessly across devices using the same account credentials.
+  image: /image/mt5-vs-mt4/en/download/image.png
+  ctaText: Visit Download Centre
+banner:
+  title: Trade on the platform that suits you
+  subtitle: Create an account in minutes or explore both platforms with a demo account.
+  primaryBtnText: Open Account
+  primaryBtnLink: https://mau.blackwellglobal.com/register/
+  secondaryBtnText: Try Demo Account
+  secondaryBtnLink: https://mau.blackwellglobal.com/register/
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: Can I use both MT4 and MT5 with Blackwell?
+      answer: >-
+        WebTrader is a browser-based trading platform powered by MetaQuotes
+        technology, allowing you to trade directly from your web browser without
+        downloading software.
+    - question: Is MT5 better than MT4?
+      answer: >-
+        MT5 offers more features and broader market access, but MT4 remains
+        popular for its simplicity. The best choice depends on your trading
+        style.
+    - question: Can I switch platforms later?
+      answer: >-
+        Yes. You can open additional accounts on a different platform at any
+        time.
+    - question: Are execution conditions the same on both platforms?
+      answer: >-
+        Both platforms operate within Blackwell’s execution environment,
+        offering reliable pricing and stable trade execution.
