@@ -1,0 +1,17 @@
+seo:
+  title: Fundamental Analysis | Blackwell
+  description: >-
+    Access in-depth fundamental analysis of forex and global markets. Understand
+    macroeconomic trends, central bank decisions, and market drivers.
+  noIndex: true
+  noFollow: true
+pageTitle: Fundamental Analysis
+pageSubtitle: >-
+  In-depth fundamental analysis covering central bank policy, inflation trends,
+  and macroeconomic developments shaping forex, commodities, and global markets.
+tabs:
+  - Latest Insights
+  - Central Banks
+  - Economic Indicators
+selectedArticles: []
+enableAlerts: true
