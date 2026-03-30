@@ -95,22 +95,17 @@ estimate:
     Estimates are indicative only and may vary based on trading activity,
     region, and partnership terms.
   buttonText: Start Earning Today
-  buttonLink: /login
+  buttonLink: https://mau.blackwellglobal.com/register/
 register:
   title: Start Your Partnership With Blackwell
   subtitle: Complete the form below and our partnerships team will be in touch.
   header: Already registered? Login here
   clickablePart: Login here
-  clickableLink: /login
+  clickableLink: https://mau.blackwellglobal.com/ib/apply/
   fullNameLabel: Full name*
   emailLabel: Email address*
   countryLabel: Country of Residence*
   phoneLabel: Mobile Number*
-  additionalInfoLabel: Add information
-  modelLabel: Partnership Model (IB, CPA, PAMM/MAM)
-  trafficSourceLabel: Traffic source (optional)
-  websiteLabel: Enter your website (optional)
-  commentLabel: Add Comment (optional)
   agreeTermsLabel: I agree to the terms and conditions.
   termsLinkText: terms and conditions.
   termsLinkHref: /terms
