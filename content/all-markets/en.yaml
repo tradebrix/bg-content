@@ -62,31 +62,6 @@ globalMarkets:
         movements.
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/7/icon.svg
-insights:
-  title: Instant market insight
-  subtitle: >-
-    Stay informed with market updates and analysis designed to support informed
-    trading decisions.
-  tabs:
-    - tabName: Forex
-      symbols: []
-    - tabName: Indices
-      symbols: []
-    - tabName: Commodities
-      symbols: []
-    - tabName: Shares
-      symbols: []
-    - tabName: Energies
-      symbols: []
-    - tabName: Metals
-      symbols: []
-  noteText: >-
-    Prices above are subject to our website terms and conditions , and prices
-    are indicative only. All shares prices are delayed by at least 15 mins.
-  noteLinkText: website terms and conditions
-  buttonText: See More
-  articlesTitle: Latest News & Analysis
-  selectedArticles: []
 tradeWithUs:
   title: Why trade with us?
   cards:
