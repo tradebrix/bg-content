@@ -11,9 +11,9 @@ hero:
     Access global currency markets with reliable execution, competitive pricing,
     and professional trading conditions.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is forex trading?
   definition: >-
