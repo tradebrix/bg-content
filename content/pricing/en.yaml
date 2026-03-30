@@ -75,6 +75,6 @@ banner:
     Open an account and start trading in minutes, or practise first with a
     risk-free demo.
   primaryBtnText: Open Account
-  primaryBtnLink: /login
+  primaryBtnLink: https://mau.blackwellglobal.com/login
   secondaryBtnText: Try Demo Account
-  secondaryBtnLink: /demo
+  secondaryBtnLink: https://mau.blackwellglobal.com/register/
