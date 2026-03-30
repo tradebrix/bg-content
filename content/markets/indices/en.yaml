@@ -11,9 +11,9 @@ hero:
     Access major equity indices across global markets through a single trading
     account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is indices trading
   definition: >-
