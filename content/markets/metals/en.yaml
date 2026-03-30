@@ -7,9 +7,9 @@ hero:
   title: Precious Metals Trading
   subtitle: Trade key precious metals markets through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is precious metals trading?
   definition: >-
@@ -29,7 +29,6 @@ articles:
     Explore the drivers behind gold, silver, and industrial metals, including
     inflation trends, dollar strength, and global demand cycles.
   selectedArticles: []
-
 faq:
   title: Frequently asked questions
   questions:
