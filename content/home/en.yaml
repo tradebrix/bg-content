@@ -31,31 +31,6 @@ markets:
     - title: Energies
       subtitle: Trade energy CFDs, including oil and other key markets.
       icon: /image/home/en/markets/cards/3/icon.svg
-insights:
-  title: Instant market insight
-  subtitle: >-
-    Stay informed with market updates and analysis designed to support informed
-    trading decisions.
-  tabs:
-    - tabName: Popular Markets
-      symbols: []
-    - tabName: Shares
-      symbols: []
-    - tabName: Forex
-      symbols: []
-    - tabName: Indices
-      symbols: []
-    - tabName: Metals
-      symbols: []
-    - tabName: Commodities
-      symbols: []
-  noteText: >-
-    Prices above are subject to our website terms and conditions , and prices
-    are indicative only. All shares prices are delayed by at least 15 mins.
-  noteLinkText: website terms and conditions
-  buttonText: See More
-  articlesTitle: Latest News & Analysis
-  selectedArticles: []
 trade:
   title: Trade on industry leading platforms
   subtitle: >-
