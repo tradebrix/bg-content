@@ -11,9 +11,9 @@ hero:
     Access global energy markets, including oil and gas, through a single
     trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
   title: What is energies trading?
   definition: >-
@@ -33,7 +33,6 @@ articles:
     Understand major, minor, and exotic currency pairs, market sessions,
     liquidity cycles, and the macroeconomic forces driving FX volatility.
   selectedArticles: []
-
 faq:
   title: Frequently asked questions
   questions:
