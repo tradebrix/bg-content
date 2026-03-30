@@ -1,0 +1,114 @@
+seo:
+  title: Free Demo Trading Account | Practice Trading with Blackwell
+  description: >-
+    Start a free demo trading account with Blackwell. Practise forex, indices,
+    and commodities using virtual funds in real market conditions.
+  noIndex: true
+  noFollow: true
+hero:
+  title: Practise trading with a demo account
+  subtitle: >
+    Experience Blackwell’s trading environment with a free demo account.
+    Practise strategies, explore markets, and get familiar with our platforms
+    using virtual funds.
+  buttonText: Open Account
+experience:
+  title: Experience Blackwell’s trading environment with a free demo account.
+  subtitle: >-
+    Explore markets, test strategies, and become familiar with our platforms
+    using virtual funds, in real market conditions.
+  cards:
+    - icon: /image/demo/en/experience/cards/0/icon.svg
+      title: Access global markets
+      description: >-
+        Trade forex, indices, commodities, and other instruments using the same
+        tools available on live accounts.
+    - icon: /image/demo/en/experience/cards/1/icon.svg
+      title: Trade without financial risk
+      description: >-
+        Practise in a simulated environment using virtual funds while tracking
+        real market prices.
+    - icon: /image/demo/en/experience/cards/2/icon.svg
+      title: Real-time pricing
+      description: >-
+        Market data is streamed live, allowing you to practise with realistic
+        spreads and execution behaviour.
+whatYouCanTrade:
+  title: What you can trade on demo
+  subtitle: 'Access the same markets available on live accounts, including:'
+  cards:
+    - icon: /image/demo/en/whatYouCanTrade/cards/0/icon.svg
+      title: Forex
+    - icon: /image/demo/en/whatYouCanTrade/cards/1/icon.svg
+      title: Indices
+    - icon: /image/demo/en/whatYouCanTrade/cards/2/icon.svg
+      title: Energies
+    - icon: /image/demo/en/whatYouCanTrade/cards/3/icon.svg
+      title: Precious metals
+    - icon: /image/demo/en/whatYouCanTrade/cards/4/icon.svg
+      title: Commodities
+    - icon: /image/demo/en/whatYouCanTrade/cards/5/icon.svg
+      title: ETFs
+    - icon: /image/demo/en/whatYouCanTrade/cards/6/icon.svg
+      title: CFD Shares
+  note: >-
+    Market pricing is streamed in real time, so you can practise under realistic
+    conditions.
+form:
+  header: Open a Demo Account
+  subheader: 30 days risk-free trading with $50,000 in virtual funds.
+  infoText: Username and password will be sent to this e-mail
+  note: >-
+    By clicking SUBMIT, I agree to the Disclosures and Privacy Policy and that
+    blackwellglobal.com may contact me by phone or email to provide information
+    about its products and services or to assist me with my demo account. I
+    understand that I may withdraw this consent at any time.
+  buttonText: Submit
+devices:
+  title: Trade across devices
+  subtitle: Your demo account works seamlessly across all supported platforms
+  labels:
+    - Desktop
+    - Web
+    - Mobile
+  cards:
+    - label: MetaTrader 4
+      description: >-
+        Practise trading on MT4 from your desktop, laptop, or mobile device with
+        full platform functionality.
+      buttonText: Open MT4 Demo Account
+    - label: MetaTrader 5
+      description: >-
+        Practise trading on MT5 from your desktop, laptop, or mobile device with
+        full platform functionality.
+      buttonText: Open MT5 Demo Account
+features:
+  title: What’s included in your demo account
+  labels:
+    - Virtual balance for risk-free trading
+    - Live pricing and execution simulation
+    - Ability to switch to a live account at any time
+    - Full access to charts, indicators, and tools
+banner:
+  title: Ready when you are
+  subtitle: >-
+    Opening a demo account takes just a few moments, or start live trading
+    directly with Blackwell.
+  primaryBtnText: Demo Account
+  secondaryBtnText: Start Live Trading
+  secondaryBtnLink: https://mau.blackwellglobal.com/register/
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: Is the demo account free?
+      answer: Yes. Blackwell demo accounts are free and require no deposit.
+    - question: Does the demo reflect real market conditions?
+      answer: >-
+        Yes. Pricing is based on live market data, although execution is
+        simulated, and funds are virtual.
+    - question: Can I use MT4 and MT5 on demo?
+      answer: Yes. Demo accounts are available on both MetaTrader 4 and MetaTrader 5.
+    - question: How do I move from demo to live trading?
+      answer: >-
+        You can open a live account at any time form your client area, and start
+        live trading.
