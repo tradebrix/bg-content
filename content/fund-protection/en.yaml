@@ -87,9 +87,9 @@ stats:
     Trade with confidence.
     Trade with Blackwell.
   bannerPrimaryButton: Open Account
-  bannerPrimaryLink: /login
+  bannerPrimaryLink: https://mau.blackwellglobal.com/register/
   bannerSecondaryButton: Try Demo Account
-  bannerSecondaryLink: /demo
+  bannerSecondaryLink: https://mau.blackwellglobal.com/register/
 faq:
   title: Fequently asked questions
   questions:
