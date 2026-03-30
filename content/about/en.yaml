@@ -107,7 +107,9 @@ cta:
     As markets evolve, Blackwell continues to invest in infrastructure,
     governance, and access — focused on consistency in an increasingly complex
     global environment.
-  bannerTitle: Trade confidently with Blackwell
+  bannerTitle: |-
+    Trade with confidence.
+    Trade with Blackwell.
   primaryButtonText: Open Account
   primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
