@@ -11,9 +11,9 @@ hero:
     Trade 2000+ instruments across major global markets, with competitive
     pricing and high speed execution.
   primaryButtonText: Open Account
-  primaryButtonLink: /login
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: /demo
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 globalMarkets:
   title: Trade across major global markets
   subtitle: Access 2000+ instruments through a single trading account.
@@ -103,5 +103,5 @@ steps:
       description: Deposit using one of our available funding methods.
     - header: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
-  buttonText: Open Account /login
-  buttonLink: /login
+  buttonText: Open Account
+  buttonLink: https://mau.blackwellglobal.com/register/
