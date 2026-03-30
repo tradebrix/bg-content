@@ -98,7 +98,7 @@ banner:
   secondaryBtnText: Start Live Trading
   secondaryBtnLink: https://mau.blackwellglobal.com/register/
 faq:
-  title: 'Frequently asked questions '
+  title: Frequently asked questions
   questions:
     - question: Is the demo account free?
       answer: Yes. Blackwell demo accounts are free and require no deposit.
