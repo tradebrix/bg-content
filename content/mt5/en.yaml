@@ -15,7 +15,11 @@ trade:
   subtitle: >-
     Access your Blackwell MT5 account on desktop, web, and mobile with full
     functionality across all devices.
-  labels: []
+  labels:
+    - Download MT5 on Mac OS
+    - Download MT5 on Windows
+    - Download from the App Store
+    - Get it from Google Play
   macosUrl: >-
     https://download.terminal.free/cdn/web/metaquotes.ltd/mt5/MetaTrader5.pkg.zip?utm_source=www.metatrader5.com&utm_campaign=download.mt5.macos
   windowsUrl: >-
@@ -69,10 +73,30 @@ steps:
     - title: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
   buttonText: Open Account
-  buttonLink: /login
+  buttonLink: https://mau.blackwellglobal.com/register/
 banner:
   title: Not sure if MT5 is right for you?
   subtitle: >-
     Compare MT4 and MT5 features to choose the platform that best suits your
     trading style.
   buttonText: Compare Platforms
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: What is MetaTrader 5?
+      answer: >-
+        MetaTrader 5 is a multi-asset trading platform offering advanced
+        charting, fast execution, and professional trading tools for global
+        markets.
+    - question: Which markets can I trade on MT5 with Blackwell?
+      answer: >-
+        You can trade forex, indices, commodities, precious metals, shares CFDs,
+        bonds CFDs, and more, depending on availability.
+    - question: Can I use MT5 on mobile?
+      answer: >-
+        Yes. MT5 is available on iOS and Android with full trading
+        functionality.
+    - question: Can I try MT5 before trading live?
+      answer: >-
+        Yes. You can open a demo account to practise trading in a risk-free
+        environment.
