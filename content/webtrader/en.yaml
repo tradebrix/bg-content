@@ -5,12 +5,78 @@ seo:
     Fast, secure, and accessible on any device.
   noIndex: true
   noFollow: true
-hero: {}
+hero:
+  title: WebTrader
+  subtitle: >
+    Trade directly from your browser using Blackwell’s WebTrader - no downloads,
+    no installations, just secure access to global markets wherever you are.
 features:
-  items: []
+  title: Browser-based access to global markets
+  subtitle: "Blackwell WebTrader allows you to access your trading account instantly from any modern web browser.\_Whether you’re on desktop, laptop, or tablet, you can monitor markets, manage positions, and execute trades without installing additional software."
+  button: Launch WebTrader
+  items:
+    - title: No downloads
+      description: >-
+        Access markets anywhere you have an internet connection. WebTrader runs
+        entirely in your browser, eliminating setup time and device limitations.
+    - title: Charting & analysis
+      description: >-
+        Analyse markets using a suite of technical indicators, drawing tools,
+        and multiple timeframes all within a clean, browser-based interface.
+    - title: Precision in execution
+      description: >-
+        Place orders quickly and efficiently with one-click trading
+        functionality designed for responsive execution.
+    - title: Risk management
+      description: >-
+        Set stop loss and take profit levels, manage open positions, and monitor
+        exposure with full control from a single screen.
 global:
-  items: []
+  title: Trade a wide selection of global instruments directly through WebTrader
+  items:
+    - title: Forex
+      description: >-
+        Major and minor currency pairs, traded with competitive pricing and
+        stable execution.
+    - title: Indices
+      description: >-
+        Trade leading global indices and gain exposure to regional and
+        international markets.
+    - title: Energies
+      description: >-
+        Access key energy markets, including oil and gas, with transparent
+        pricing.
+    - title: Precious Metals
+      description: >-
+        Trade gold, silver, and other metals as part of a diversified trading
+        approach.
+    - title: Commodities
+      description: A selection of hard and soft commodities across global markets.
+    - title: ETFs
+      description: Gain exposure to themed and sector-based ETFs through a single trade.
+    - title: CFD Shares
+      description: >-
+        Trade CFDs on selected global equities, with the ability to go long or
+        short.
 designedFor:
-  goals: []
+  title: Designed for efficient, disciplined trading
+  subtitle: >-
+    WebTrader provides the essential tools traders rely on, without unnecessary
+    complexity.
+  goals:
+    - text: Multiple chart types and timeframes
+    - text: Integrated order management
+    - text: Market, limit, and stop orders
+    - text: Real-time pricing and trade monitoring
+    - text: Secure session handling and encrypted data transmission
 steps:
-  steps: []
+  title: Start trading with Blackwell
+  buttonText: Open Account
+  buttonLink: https://mau.blackwellglobal.com/register/
+  steps:
+    - title: Open an account
+      description: Create your Blackwell trading account in just a few minutes.
+    - title: Fund your account
+      description: Deposit using one of our available funding methods.
+    - title: Start trading
+      description: Access global markets through Blackwell’s supported trading platforms.
