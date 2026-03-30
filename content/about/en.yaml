@@ -84,13 +84,13 @@ global:
   cards:
     - serviceName: Securities Commission
       countryName: The Bahamas
-      countryCode: SCB
+      countryCode: BS
     - serviceName: Financial Conduct Authority
       countryName: UK
-      countryCode: FCA
+      countryCode: UK
     - serviceName: Financial Services Commission
       countryName: Mauritius
-      countryCode: FSC
+      countryCode: MU
 industry:
   title: Industry Recognition
   subtitle: >-
