@@ -9,7 +9,9 @@ hero:
   title: Trusted. Secure. Global.
   subtitle: Trade the world's financial markets with Blackwell.
   primaryButtonText: Open Account
+  primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
+  secondaryButtonLink: https://mau.blackwellglobal.com/register/
 markets:
   title: Trade across major global markets
   subtitle: Access 2000+ instruments through a single trading account.
@@ -60,6 +62,7 @@ trade:
     Trade MT4 and MT5 give you everything you need to trade efficiently, from
     advanced charting to fast execution, across desktop and mobile.
   buttonText: Open Account
+  buttonLink: https://mau.blackwellglobal.com/register/
 whytrade:
   title: Why traders choose Blackwell
   subtitle: >-
@@ -99,6 +102,7 @@ cta:
   title: Apply in minutes. Start trading today.
   subtitle: Gain access to the fastest execution speed and no commissions.
   buttonText: Open Account
+  buttonLink: https://mau.blackwellglobal.com/register/
 trophies:
   title: Standard of excellence
   subtitle: >-
