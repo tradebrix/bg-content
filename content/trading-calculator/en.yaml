@@ -58,6 +58,29 @@ howToUse:
     - Input the current bid and ask prices
     - Choose your account currency
     - Click Calculate to view estimated margin and costs
+broker:
+  title: Trade with a broker you can trust
+  cards:
+    - icon: /image/economic-calendar/brokder1.svg
+      header: Regulated
+      description: Authorised and regulated across multiple jurisdictions.
+    - icon: /image/economic-calendar/brokder2.svg
+      header: 20+ of excellence
+      description: Supporting traders through changing market conditions.
+    - icon: /image/economic-calendar/brokder3.svg
+      header: Ultra-tight spreads
+      description: Competitive pricing sourced from established liquidity providers.
+    - icon: /image/economic-calendar/brokder4.svg
+      header: Fast execution
+      description: Low-latency infrastructure designed for speed, stability, and precision.
+    - icon: /image/economic-calendar/brokder5.svg
+      header: 24/5 support
+      description: Dedicated support available whenever markets are active.
+    - icon: /image/economic-calendar/brokder6.svg
+      header: Built for serious trading
+      description: >-
+        Reliable platforms, disciplined processes, & execution standards you can
+        depend on.
 faq:
   title: Frequently asked questions
   questions:
