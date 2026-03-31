@@ -14,5 +14,6 @@ tabs:
   - Central Banks
   - Economic Indicators
   - Geopolitics
-selectedArticles: []
+selectedArticles:
+  - 'Fear and Volatility: Trading Stock Indices Amid US-Iran Conflict'
 enableAlerts: true
