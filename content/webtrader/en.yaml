@@ -15,46 +15,57 @@ features:
   subtitle: "Blackwell WebTrader allows you to access your trading account instantly from any modern web browser.\_Whether you’re on desktop, laptop, or tablet, you can monitor markets, manage positions, and execute trades without installing additional software."
   button: Launch WebTrader
   items:
-    - title: No downloads
+    - icon: /image/webtrader/webtrader-feature-1.svg
+      title: No downloads
       description: >-
         Access markets anywhere you have an internet connection. WebTrader runs
         entirely in your browser, eliminating setup time and device limitations.
-    - title: Charting & analysis
+    - icon: /image/webtrader/webtrader-feature-1.svg
+      title: Charting & analysis
       description: >-
         Analyse markets using a suite of technical indicators, drawing tools,
         and multiple timeframes all within a clean, browser-based interface.
-    - title: Precision in execution
+    - icon: /image/webtrader/webtrader-feature-1.svg
+      title: Precision in execution
       description: >-
         Place orders quickly and efficiently with one-click trading
         functionality designed for responsive execution.
-    - title: Risk management
+    - icon: /image/webtrader/webtrader-feature-1.svg
+      title: Risk management
       description: >-
         Set stop loss and take profit levels, manage open positions, and monitor
         exposure with full control from a single screen.
 global:
   title: Trade a wide selection of global instruments directly through WebTrader
   items:
-    - title: Forex
+    - icon: /image/home/home-markets-forex.svg
+      title: Forex
       description: >-
         Major and minor currency pairs, traded with competitive pricing and
         stable execution.
-    - title: Indices
+    - icon: /image/home/home-markets-indices.svg
+      title: Indices
       description: >-
         Trade leading global indices and gain exposure to regional and
         international markets.
-    - title: Energies
+    - icon: /image/home/home-markets-commidities.svg
+      title: Energies
       description: >-
         Access key energy markets, including oil and gas, with transparent
         pricing.
-    - title: Precious Metals
+    - icon: /image/home/home-markets-metal.svg
+      title: Precious Metals
       description: >-
         Trade gold, silver, and other metals as part of a diversified trading
         approach.
-    - title: Commodities
+    - icon: /image/webtrader/webtrader-markets-commodities.svg
+      title: Commodities
       description: A selection of hard and soft commodities across global markets.
-    - title: ETFs
+    - icon: /image/webtrader/webtrader-markets-etfs.svg
+      title: ETFs
       description: Gain exposure to themed and sector-based ETFs through a single trade.
-    - title: CFD Shares
+    - icon: /image/webtrader/webtrader-markets-cfdshares.svg
+      title: CFD Shares
       description: >-
         Trade CFDs on selected global equities, with the ability to go long or
         short.
@@ -64,11 +75,16 @@ designedFor:
     WebTrader provides the essential tools traders rely on, without unnecessary
     complexity.
   goals:
-    - text: Multiple chart types and timeframes
-    - text: Integrated order management
-    - text: Market, limit, and stop orders
-    - text: Real-time pricing and trade monitoring
-    - text: Secure session handling and encrypted data transmission
+    - icon: /image/webtrader/webtrader-designed-for1.svg
+      text: Multiple chart types and timeframes
+    - icon: /image/webtrader/webtrader-designed-for2.svg
+      text: Integrated order management
+    - icon: /image/webtrader/webtrader-designed-for3.svg
+      text: Market, limit, and stop orders
+    - icon: /image/webtrader/webtrader-designed-for4.svg
+      text: Real-time pricing and trade monitoring
+    - icon: /image/webtrader/webtrader-designed-for5.svg
+      text: Secure session handling and encrypted data transmission
 steps:
   title: Start trading with Blackwell
   buttonText: Open Account
@@ -80,3 +96,23 @@ steps:
       description: Deposit using one of our available funding methods.
     - title: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
+faq:
+  title: Frequently asked questions
+  questions:
+    - question: What is WebTrader?
+      answer: >-
+        WebTrader is a browser-based trading platform powered by MetaQuotes
+        technology, allowing you to trade directly from your web browser without
+        downloading software.
+    - question: Do I need to install anything to use WebTrader?
+      answer: >-
+        No. WebTrader runs entirely in your browser and requires no
+        installation.
+    - question: Which markets can I trade on WebTrader?
+      answer: >-
+        Depending on your account type, you can trade forex, indices,
+        commodities, precious metals, shares CFDs, and bonds CFDs.
+    - question: Is WebTrader secure?
+      answer: >-
+        Yes. WebTrader uses encrypted connections and secure login protocols to
+        protect your account and trading activity.
