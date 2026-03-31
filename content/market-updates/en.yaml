@@ -15,5 +15,6 @@ tabs:
   - Commodities
   - Energy
   - Indices
-selectedArticles: []
+selectedArticles:
+  - Oil Prices Defy 2026 Projections Amid US-Iran Conflict
 enableAlerts: true
