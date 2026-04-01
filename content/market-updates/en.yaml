@@ -10,7 +10,7 @@ pageSubtitle: >-
   Real-time analysis and structured insights designed to support informed
   trading decisions.
 tabs:
-  - Forex News
+  - Forex
   - Metals
   - Commodities
   - Energy
@@ -18,4 +18,5 @@ tabs:
 selectedArticles:
   - Oil Prices Defy 2026 Projections Amid US-Iran Conflict
   - The Pull and Push on the Thai Baht in 2026
+  - Factors Impacting the Vietnamese Dong in 2026
 enableAlerts: true
