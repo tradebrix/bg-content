@@ -1,0 +1,11 @@
+{
+  "title": "Help Centre",
+  "subtitle": "Get the answers, tools, and support you need to trade with confidence.",
+  "searchPlaceholder": "Search by keyword...",
+  "seo": {
+    "title": "Blackwell Help Center | Trading Support, Guides & FAQs",
+    "description": "Find answers to your trading questions with Blackwell’s Help Center. Explore FAQs, platform guides, and support resources for a seamless trading experience.",
+    "noIndex": true,
+    "noFollow": true
+  }
+}
