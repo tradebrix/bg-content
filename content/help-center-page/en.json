@@ -349,6 +349,109 @@
           }
         ]
       }
+    },
+    {
+      "discriminant": "category",
+      "value": {
+        "name": "About Blackwell",
+        "sections": [
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Client Funds",
+              "questions": [
+                {
+                  "question": "Are my funds separated from Blackwell’s own money?",
+                  "answer": "Yes. Client funds are held in segregated accounts and are kept separate from Blackwell’s operational capital."
+                },
+                {
+                  "question": "Where are client funds held?",
+                  "answer": "Client funds are held in segregated accounts with established tier-1 banking institutions, separate from Blackwell’s operational capital."
+                },
+                {
+                  "question": "What protections are in place in case of a dispute?",
+                  "answer": "Blackwell operates under regulatory frameworks that define how client funds are handled and protected, including procedures for dispute resolution and client asset safeguarding."
+                },
+                {
+                  "question": "Can I withdraw my funds at any time?",
+                  "answer": "Withdrawals are available in line with account terms and standard processing times."
+                },
+                {
+                  "question": "What happens to my money if Blackwell stops operating?",
+                  "answer": "Segregated client funds are protected from company creditors and would be returned to clients following applicable procedures.\n"
+                },
+                {
+                  "question": "Does Blackwell use my money for trading or hedging?",
+                  "answer": "No. Client funds are not used for company trading, hedging, or operational purposes.\n"
+                },
+                {
+                  "question": "Can I lose more than my deposited funds?",
+                  "answer": "Blackwell applies risk management controls designed to prevent accounts from falling below zero. However, extreme market conditions may impact execution, and clients should always manage risk appropriately."
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Legal ",
+              "questions": [
+                {
+                  "question": "What is your Anti-Money Laundering (AML) policy?",
+                  "answer": "Our AML policy ensures that we comply with the anti-money laundering framework set forth by the Financial Action Task Force (FATF) and the rules of our regulators. In order to prevent money laundering conducted by individuals and organisations, we have structured and strict guidelines put in place. "
+                },
+                {
+                  "question": "Where can I view your privacy policy?",
+                  "answer": "The privacy policy and other legal documents are available on our Legal page.\n",
+                  "actionText": "View Legal Documents"
+                },
+                {
+                  "question": "Where can I find your terms and conditions?",
+                  "answer": "Check out our legal page for the terms and conditions.\n",
+                  "actionText": "View Legal Documents"
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "About Blackwell",
+              "questions": [
+                {
+                  "question": "What is Blackwell?",
+                  "answer": "Blackwell is a global financial services provider offering access to forex, indices, commodities, and other markets. The company operates with a focus on transparency, disciplined execution, and long-term client relationships."
+                },
+                {
+                  "question": "How long has Blackwell been operating?",
+                  "answer": "Blackwell was founded in 2003 and has since expanded internationally, building a presence across multiple regions and markets over the past two decades."
+                },
+                {
+                  "question": "Where does Blackwell operate globally?",
+                  "answer": "Blackwell has a global presence with clients worldwide, supported by regional expertise to provide localized service and support."
+                },
+                {
+                  "question": "What markets can I trade with Blackwell?",
+                  "answer": "Blackwell provides access to a wide range of markets, including forex, indices, commodities, and other financial instruments through its trading platforms.\n\n",
+                  "actionText": "View All Markets"
+                },
+                {
+                  "question": "Is Blackwell a regulated broker?",
+                  "answer": "Yes. Blackwell operates under multiple regulatory frameworks across different jurisdictions, ensuring client protection and adherence to financial standards."
+                },
+                {
+                  "question": "How does Blackwell operate as a company?",
+                  "answer": "Blackwell follows a structured approach focused on professional trading infrastructure, disciplined internal processes, and experienced market-focused teams to ensure consistent service quality."
+                },
+                {
+                  "question": "Has Blackwell received any industry recognition?",
+                  "answer": "Yes. Blackwell has received multiple awards and recognitions for its services, reflecting its commitment to reliability, execution quality, and client support."
+                }
+              ]
+            }
+          }
+        ]
+      }
     }
   ],
   "seo": {
