@@ -16,14 +16,14 @@
               "questions": [
                 {
                   "question": "How do I open a live account?",
-                  "answer": "Opening a live account is easy, and can be done by following these easy steps:\n\n1- Fill out the account opening application form here.\n2- Verify your email.\n3- Access your client area and open a live trading account from there.",
-                  "actionText": "here.",
+                  "answer": "Opening a live account is easy, and can be done by following these easy steps:\n\n1- Fill out the account opening application \n2- Verify your email.\n3- Access your client area and open a live trading account from there.\n",
+                  "actionText": "Open Account",
                   "actionUrl": "https://mau.blackwellglobal.com/register/"
                 },
                 {
                   "question": "Can I open multiple trading accounts?",
-                  "answer": "Yes, you can open more than one trading account. You can easily do so by logging in to your Client Portal and open an additional trading account here.",
-                  "actionText": "Client Portal",
+                  "answer": "Yes, you can open more than one trading account. You can easily do so by logging in to your Client Portal and open an additional trading account here.\n",
+                  "actionText": "Login",
                   "actionUrl": "https://mau.blackwellglobal.com/login"
                 },
                 {
@@ -32,17 +32,19 @@
                 },
                 {
                   "question": "How long does it take to open an account?",
-                  "answer": "Account opening is instant, once you fill your application, you will receive your verification email and will be able to login to your portal immediately.",
-                  "actionText": "application",
+                  "answer": "Account opening is instant, once you fill your application, you will receive your verification email and will be able to login to your portal immediately.\n",
+                  "actionText": "Open Account",
                   "actionUrl": "https://mau.blackwellglobal.com/register/"
                 },
                 {
                   "question": "Can I open a Demo Account?",
-                  "answer": "Yes, you can open a free demo trading account with Blackwell."
+                  "answer": "Yes, you can open a free demo trading account with Blackwell.\n",
+                  "actionText": "Open Demo Account",
+                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
                 },
                 {
                   "question": "How can I open a Demo account?",
-                  "answer": "Opening a Demo trading account is simple and can be done in 2 easy steps.\n\n1- Login to your Client Portal.\n2- Click on Open a Demo account \n\nYou will then receive your Demo trading account details.",
+                  "answer": "Opening a Demo trading account is simple and can be done in 2 easy steps.\n\n1- Login to your Client Portal.\n2- Click on Open a Demo account \n\nYou will then receive your Demo trading account details.\n\n",
                   "actionText": "Login",
                   "actionUrl": "https://mau.blackwellglobal.com/login"
                 },
@@ -68,8 +70,8 @@
                 },
                 {
                   "question": "I forgot my Blackwell Client Portal password, how can I reset it?",
-                  "answer": "To reset your Client Portal password, simply click on the \"Forgot Password\" button on the Blackwell Login page, and enter your registered email address. You will then be sent a password reset email to create a new password for your account. ",
-                  "actionText": "Login page",
+                  "answer": "To reset your Client Portal password, simply click on the \"Forgot Password\" button on the Blackwell Login page, and enter your registered email address. You will then be sent a password reset email to create a new password for your account. \n",
+                  "actionText": "Reset Password",
                   "actionUrl": "https://mau.blackwellglobal.com/login"
                 },
                 {
@@ -95,7 +97,257 @@
       "value": {
         "name": "Funds",
         "icon": "/image/help-center/icons/en/categories/1/value/icon.svg",
-        "sections": []
+        "sections": [
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Deposits",
+              "questions": [
+                {
+                  "question": "How do I deposit funds to my account?",
+                  "answer": "You can initiate funding within your Client Portal by selecting \"Funds\", then \"Deposit Funds\". Choose the trading account number and continue to select your desired method.\n"
+                },
+                {
+                  "question": "What deposit methods do you offer?",
+                  "answer": "We accept various funding options, including bank transfer, credit/debit card, Neteller, and more. \n\nLog in to your Client Portal to see the available deposit options or contact us for further information. \n\nPlease note that the payment methods can vary for different countries and regulations.\n"
+                },
+                {
+                  "question": "What are the processing times for deposits?",
+                  "answer": "The estimated transaction time depends on the funding method. Most methods we accept are instant, apart from Swift, which typically takes between 3-7 business days.\n"
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Withdrawals",
+              "questions": [
+                {
+                  "question": "Do you charge fees for deposits and withdrawals?",
+                  "answer": "We don’t charge fees for deposits or withdrawals. However, you may be subject to charges from third-party providers."
+                },
+                {
+                  "question": "How long do withdrawals take?",
+                  "answer": "Withdrawals are usually processed within 24 hours. We cannot guarantee the same day receipt of funds as it depends on the withdrawal method chosen.\n\nIt can take between 1-7 business days to receive your funds.\n\nThe company cannot be held liable for any deposit/withdrawal processing delays that are subject to payment systems.\n"
+                },
+                {
+                  "question": "How do I withdraw funds from my account? ",
+                  "answer": "To withdraw funds from your trading account, log in to your Client Portal, select \"Funds\", then choose \"Withdraw Funds\". Complete the steps by selecting the trading account, withdrawal method and amount. "
+                },
+                {
+                  "question": "Can I make a withdrawal using a different payment method? ",
+                  "answer": "No, all withdrawals must be transferred to the originating deposit method. "
+                },
+                {
+                  "question": "Can I see a list of all my deposit and withdrawal transactions?",
+                  "answer": "Yes, you can see all your withdrawals and deposits within your Client Portal. \n\nTo see your transaction history, navigate to \"Funds\", then \"Transaction History\".\n\nThe Transaction history screen will show all previous deposits and withdrawals.\n"
+                },
+                {
+                  "question": "Can I withdraw to a different source than what I deposited with?",
+                  "answer": "Please note that we follow the back-to-the-source policy, which means the funds must go back to the same payment method."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "category",
+      "value": {
+        "name": "Platforms",
+        "icon": "/image/help-center/icons/en/categories/2/value/icon.svg",
+        "sections": [
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "MetaTrader 5",
+              "questions": [
+                {
+                  "question": "What is MetaTrader 5?",
+                  "answer": "MetaTrader 5 is a multi-asset trading platform offering advanced charting, fast execution, and professional trading tools for global markets."
+                },
+                {
+                  "question": "How to open MT5 trading account?",
+                  "answer": "To create a MetaTrader 5 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Live Account\", then choose MT5 as your platform.\n\n",
+                  "actionText": "Open Live Account",
+                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=live"
+                },
+                {
+                  "question": "Which markets can I trade on MT5 with Blackwell?",
+                  "answer": "You can trade forex, indices, commodities, precious metals, shares CFDs, energy, and more, depending on availability.\n\n",
+                  "actionText": "View All Markets"
+                },
+                {
+                  "question": "Can I try MT5 before trading live?",
+                  "answer": "Yes. You can open a demo account to practise trading in a risk-free environment.\n\nTo create a MetaTrader 5 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Demo Account\", then choose MT5 as your platform.",
+                  "actionText": "Open Demo Account",
+                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
+                },
+                {
+                  "question": "Can I use MT5 on mobile?",
+                  "answer": "Yes. MT5 is available on iOS and Android with full trading functionality.\n\n",
+                  "actionText": "Visit Download Centre"
+                },
+                {
+                  "question": "Can I use both MT4 and MT5 with Blackwell?",
+                  "answer": "Yes. You can open accounts on both platforms, depending on availability."
+                },
+                {
+                  "question": "Is MT5 better than MT4?",
+                  "answer": "MT5 offers more features and broader market access, but MT4 remains popular for its simplicity. The best choice depends on your trading style.",
+                  "actionText": "Compare Platforms"
+                },
+                {
+                  "question": "Can I switch platforms later?",
+                  "answer": "You can not switch platforms using the same trading account. However, you can open additional accounts on a different platform at any time."
+                },
+                {
+                  "question": "Are execution conditions the same on both platforms?",
+                  "answer": "Both platforms operate within Blackwell’s execution environment, offering reliable pricing and stable trade execution."
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "MetaTrader 4",
+              "questions": [
+                {
+                  "question": "What is MetaTrader 4?",
+                  "answer": "MetaTrader 4 is a widely used trading platform focused on forex and CFD trading, known for its simplicity and stability."
+                },
+                {
+                  "question": "Which markets can I trade on MT4 with Blackwell?",
+                  "answer": "MT4 provides access to forex and selected CFD markets, subject to availability."
+                },
+                {
+                  "question": "Can I use MT4 on mobile?",
+                  "answer": "Yes. MT4 is available on both iOS and Android devices.\n",
+                  "actionText": "Visit Download Centre"
+                },
+                {
+                  "question": "Can I try MT4 before trading live?",
+                  "answer": "Yes. A demo account is available to practise trading in a risk-free environment.\n\nTo create a MetaTrader 4 demo account, login to your Client Portal, navigate to \"Accounts\", select \"Open Demo Account\", then choose MT4 as your platform.",
+                  "actionText": "Open Demo Account",
+                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
+                },
+                {
+                  "question": "How to open MT4 live trading account?",
+                  "answer": "To create a MetaTrader 4 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Live Account\", then choose MT4 as your platform.",
+                  "actionText": "Open Live Account",
+                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
+                },
+                {
+                  "question": "Can I use both MT4 and MT5 with Blackwell?",
+                  "answer": "Yes. You can open accounts on both platforms, depending on availability."
+                },
+                {
+                  "question": "Is MT5 better than MT4?",
+                  "answer": "MT5 offers more features and broader market access, but MT4 remains popular for its simplicity. The best choice depends on your trading style.\n\n",
+                  "actionText": "Compare Platforms"
+                },
+                {
+                  "question": "Can I switch platforms later?",
+                  "answer": "You can not switch platforms using the same trading account. However, you can open additional accounts on a different platform at any time.\n"
+                },
+                {
+                  "question": "Are execution conditions the same on both platforms?",
+                  "answer": "Both platforms operate within Blackwell’s execution environment, offering reliable pricing and stable trade execution.\n"
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "WebTrader",
+              "questions": [
+                {
+                  "question": "What is WebTrader?",
+                  "answer": "WebTrader is a browser-based trading platform powered by MetaQuotes technology, allowing you to trade directly from your web browser without downloading software.\n\n",
+                  "actionText": "Explore WebTrader"
+                },
+                {
+                  "question": "Do I need to install anything to use WebTrader?",
+                  "answer": "No. WebTrader runs entirely in your browser and requires no installation."
+                },
+                {
+                  "question": "Which markets can I trade on WebTrader?",
+                  "answer": "Depending on your account type, you can trade forex, indices, commodities, precious metals, shares CFDs, and ETFs.\n"
+                },
+                {
+                  "question": "Is WebTrader secure?",
+                  "answer": "Yes. WebTrader uses encrypted connections and secure login protocols to protect your account and trading activity."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "category",
+      "value": {
+        "name": "Blackwell Invest",
+        "icon": "/image/help-center/icons/en/categories/3/value/icon.svg",
+        "sections": [
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Blackwell Invest ",
+              "questions": [
+                {
+                  "question": "What is Blackwell Invest?",
+                  "answer": "Blackwell Invest is a social trading platform that allows you to follow experienced traders and automatically copy their strategies in real time, directly into your own trading account."
+                },
+                {
+                  "question": "How can I access Blackwell Invest?",
+                  "answer": "You can access Blackwell Invest by downloading the mobile app on iOS or Android. Once registered and logged in, you can browse available strategy providers and start copying trades.\n\n",
+                  "actionText": "Download Blackwell Invest "
+                },
+                {
+                  "question": "Do I need trading experience to use Blackwell Invest?",
+                  "answer": "No prior trading experience is required. However, it is important to understand basic trading risks and choose strategies that align with your risk tolerance and financial goals."
+                },
+                {
+                  "question": "How profitable is social trading on Blackwell Invest?",
+                  "answer": "Performance depends on the strategy provider you follow, market conditions, and your risk settings. While some providers may deliver consistent results, past performance is not a guarantee of future returns, and losses can occur."
+                },
+                {
+                  "question": "How does social trading work on Blackwell Invest?",
+                  "answer": "Blackwell Invest allows you to automatically replicate the trades of selected strategy providers in real time. When a provider opens or closes a trade, the same action is mirrored in your account based on your chosen allocation."
+                },
+                {
+                  "question": "Is Blackwell Invest suitable for beginners?",
+                  "answer": "Yes. Blackwell Invest can be suitable for beginners as it enables market participation without active trading. However, users should understand the risks involved and start with appropriate exposure levels."
+                },
+                {
+                  "question": "What risks are involved in social trading?",
+                  "answer": "Social trading carries the same risks as trading, including market volatility, drawdowns, potential losses, over-exposure to a single strategy, and technical execution risks."
+                },
+                {
+                  "question": "Can I lose money using Blackwell Invest?",
+                  "answer": "Yes. Social trading does not eliminate risk. Market movements are unpredictable, and losses may occur even when following experienced strategy providers."
+                },
+                {
+                  "question": "How do I choose a strategy to copy?",
+                  "answer": "When selecting a provider, consider long-term performance, drawdown levels, risk profile, trading style, and consistency. Avoid relying solely on short-term results."
+                },
+                {
+                  "question": "Can I stop copying a strategy at any time?",
+                  "answer": "Yes. You can stop copying a strategy, close positions, or adjust your copy settings at any time directly within the Blackwell Invest platform."
+                },
+                {
+                  "question": "What fees apply to Blackwell Invest social trading?",
+                  "answer": "Fees may include spreads, commissions, and performance-based fees set by strategy providers. Fee structures vary and should be reviewed before copying any strategy."
+                }
+              ]
+            }
+          }
+        ]
       }
     }
   ],
