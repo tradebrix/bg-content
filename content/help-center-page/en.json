@@ -2,6 +2,103 @@
   "title": "Help Centre",
   "subtitle": "Get the answers, tools, and support you need to trade with confidence.",
   "searchPlaceholder": "Search by keyword...",
+  "categories": [
+    {
+      "discriminant": "category",
+      "value": {
+        "name": "Account Management",
+        "icon": "/image/help-center/icons/en/categories/0/value/icon.svg",
+        "sections": [
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Account Opening",
+              "questions": [
+                {
+                  "question": "How do I open a live account?",
+                  "answer": "Opening a live account is easy, and can be done by following these easy steps:\n\n1- Fill out the account opening application form here.\n2- Verify your email.\n3- Access your client area and open a live trading account from there.",
+                  "actionText": "here.",
+                  "actionUrl": "https://mau.blackwellglobal.com/register/"
+                },
+                {
+                  "question": "Can I open multiple trading accounts?",
+                  "answer": "Yes, you can open more than one trading account. You can easily do so by logging in to your Client Portal and open an additional trading account here.",
+                  "actionText": "Client Portal",
+                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                },
+                {
+                  "question": "What are the documents needed to open an account?",
+                  "answer": "As part of our compliance process, we are required to verify your identity. \n\nBefore we activate your trading account, we will need following documents: \n\n• Proof of identity: A valid passport, national ID card, driving licene or any government issued document. \n• Proof of address: Acceptable documents include utility bills, local authority tax bills, or bank statements. The document must be in your name and no older than 6 months (3 months for South Africa resident). Proof of residence issued on PO boxes will NOT be accepted. \n\nPlease be advised that documents must be clear and readable with no flash or obstruction. \n\nCropped, blurred or low quality/resolution documents are not acceptable. Documents must also be in good condition with no sign of damage or alteration."
+                },
+                {
+                  "question": "How long does it take to open an account?",
+                  "answer": "Account opening is instant, once you fill your application, you will receive your verification email and will be able to login to your portal immediately.",
+                  "actionText": "application",
+                  "actionUrl": "https://mau.blackwellglobal.com/register/"
+                },
+                {
+                  "question": "Can I open a Demo Account?",
+                  "answer": "Yes, you can open a free demo trading account with Blackwell."
+                },
+                {
+                  "question": "How can I open a Demo account?",
+                  "answer": "Opening a Demo trading account is simple and can be done in 2 easy steps.\n\n1- Login to your Client Portal.\n2- Click on Open a Demo account \n\nYou will then receive your Demo trading account details.",
+                  "actionText": "Login",
+                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                },
+                {
+                  "question": "Does a Demo account expire?",
+                  "answer": "Yes, demo accounts on both MT4 and MT5 do expire, if you do not place any trades for 30 days. "
+                }
+              ]
+            }
+          },
+          {
+            "discriminant": "section",
+            "value": {
+              "name": "Account Support",
+              "questions": [
+                {
+                  "question": "How do I close my account?",
+                  "answer": "To close your trading account, please use your registered email address and send an official request for account closure to support@blackwellglobal.com"
+                },
+                {
+                  "question": "Can I suspend my trading account?",
+                  "answer": "To suspend your trading account, please email support@blackwellglobal.com from your registered email address to request an account suspension. \n\nPlease provide your trading account number and the reason you wish to suspend your trading account with us."
+                },
+                {
+                  "question": "I forgot my Blackwell Client Portal password, how can I reset it?",
+                  "answer": "To reset your Client Portal password, simply click on the \"Forgot Password\" button on the Blackwell Login page, and enter your registered email address. You will then be sent a password reset email to create a new password for your account. ",
+                  "actionText": "Login page",
+                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                },
+                {
+                  "question": "How can I update my details?",
+                  "answer": "If you wish to update your address, phone number or any other personal details, please send an email from your registered email address to support@blackwellglobal.com.\n\nIf you wish to update your address specifically, please include a proof of address document in the email. Our client support team will contact you as soon as possible."
+                },
+                {
+                  "question": "Can I change my leverage?",
+                  "answer": "To make a changes to your account leverage please email your account number and desired leverage from your registered email address to support@blackwellglobal.com."
+                },
+                {
+                  "question": "Can I use the same trading account on multiple platforms?",
+                  "answer": "No, account types and platforms are not interchangeable. Each platform requires a specific account. For example you can not use an MT4 account on the MT5 platform. You must use an MT4 account with MT4 platform and an MT5 account with the MT5 platform.\n\nHowever, you can open multiple trading accounts, on different platforms, each with its unique logins."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "discriminant": "category",
+      "value": {
+        "name": "Funds",
+        "icon": "/image/help-center/icons/en/categories/1/value/icon.svg",
+        "sections": []
+      }
+    }
+  ],
   "seo": {
     "title": "Blackwell Help Center | Trading Support, Guides & FAQs",
     "description": "Find answers to your trading questions with Blackwell’s Help Center. Explore FAQs, platform guides, and support resources for a seamless trading experience.",
