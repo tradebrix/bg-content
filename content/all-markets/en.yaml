@@ -56,12 +56,6 @@ globalMarkets:
         short.
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/6/icon.svg
-    - title: CFD Bonds
-      description: >-
-        Access bond markets through CFDs, offering exposure to interest rate
-        movements.
-      buttonText: See More
-      icon: /image/all-markets/en/globalMarkets/cards/7/icon.svg
 tradeWithUs:
   title: Why trade with us?
   cards:
