@@ -20,17 +20,17 @@ features:
       description: >-
         Access markets anywhere you have an internet connection. WebTrader runs
         entirely in your browser, eliminating setup time and device limitations.
-    - icon: /image/webtrader/webtrader-feature-1.svg
+    - icon: /image/webtrader/webtrader-feature-2.svg
       title: Charting & analysis
       description: >-
         Analyse markets using a suite of technical indicators, drawing tools,
         and multiple timeframes all within a clean, browser-based interface.
-    - icon: /image/webtrader/webtrader-feature-1.svg
+    - icon: /image/webtrader/webtrader-feature-3.svg
       title: Precision in execution
       description: >-
         Place orders quickly and efficiently with one-click trading
         functionality designed for responsive execution.
-    - icon: /image/webtrader/webtrader-feature-1.svg
+    - icon: /image/webtrader/webtrader-feature-4.svg
       title: Risk management
       description: >-
         Set stop loss and take profit levels, manage open positions, and monitor
