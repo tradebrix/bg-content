@@ -353,7 +353,7 @@
     {
       "discriminant": "category",
       "value": {
-        "name": "About Blackwell",
+        "name": "About",
         "sections": [
           {
             "discriminant": "section",
@@ -416,7 +416,7 @@
           {
             "discriminant": "section",
             "value": {
-              "name": "About Blackwell",
+              "name": "Blackwell",
               "questions": [
                 {
                   "question": "What is Blackwell?",
