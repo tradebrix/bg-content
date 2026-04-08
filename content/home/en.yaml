@@ -6,14 +6,14 @@ seo:
   noIndex: true
   noFollow: true
 hero:
-  title: Trusted. Secure. Global.
+  title: 'Trade Smarter. Access Everything. '
   subtitle: Trade the world's financial markets with Blackwell.
   primaryButtonText: Open Account
   primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 markets:
-  title: Trade across major global markets
+  title: Own the Market
   subtitle: Access 2000+ instruments through a single trading account.
   buttonText: View All Markets
   cards:
