@@ -45,8 +45,8 @@ models:
         - Transparent reporting
         - Scalable client management
     - icon: /image/partners/en/models/cards/1/icon.svg
-      header: Affiliate / CPA
-      description: For performance-driven partners and digital marketers.
+      header: CPA
+      description: For acquisition partners and digital marketers.
       labels:
         - Flexible CPA structures
         - Conversion-optimized funnels
