@@ -59,7 +59,7 @@ difference:
   rows:
     - feature: Market coverage
       mt4: Forex & selected CFDs
-      mt5: Forex, indices, commodities, shares CFDs, bonds CFDs
+      mt5: Forex, indices, commodities, equities CFDs, ETFs
     - feature: Technical indicators
       mt4: 30+
       mt5: 38+
