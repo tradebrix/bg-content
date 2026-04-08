@@ -83,7 +83,8 @@ strategic:
     - icon: /image/partners/en/strategic/cards/4/icon.svg
       header: Efficient onboarding & account setup
       description: A streamlined process designed to get you live quickly and correctly.
-    - header: New Box
+    - header: Tailored commission structures
+      description: Flexible payout models built around your traffic profile and volume.
 estimate:
   title: Estimate your partnership earnings
   subtitle: Indicative estimates based on trading activity and partnership structure.
