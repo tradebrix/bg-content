@@ -196,7 +196,7 @@
               "questions": [
                 {
                   "question": "What is WebTrader?",
-                  "answer": "WebTrader is a browser-based trading platform powered by MetaQuotes technology, allowing you to trade directly from your web browser without downloading software.\n\n",
+                  "answer": "WebTrader is a browser-based trading platform powered by MetaQuotes, allowing you to trade directly from your web browser without downloading software.\n\n",
                   "actionText": "Explore WebTrader"
                 },
                 {
@@ -205,7 +205,7 @@
                 },
                 {
                   "question": "Which markets can I trade on WebTrader?",
-                  "answer": "Depending on your account type, you can trade forex, indices, commodities, precious metals, shares CFDs, and ETFs.\n"
+                  "answer": "Depending on your account type, you can trade forex, indices, commodities, precious metals, equities CFDs, and ETFs.\n"
                 },
                 {
                   "question": "Is WebTrader secure?",
