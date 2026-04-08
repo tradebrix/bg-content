@@ -47,9 +47,9 @@ tools:
 features:
   - title: Designed for speed and stability
     subtitle: >-
-      Blackwell’s MT5 infrastructure is optimised for low latency, consistent
-      execution, and platform reliability even during periods of heightened
-      market activity.
+      MT5's infrastructure is optimised for low latency, consistent execution,
+      and platform reliability even during periods of heightened market
+      activity.
     labels:
       - Fast order execution
       - Stable trade environment
