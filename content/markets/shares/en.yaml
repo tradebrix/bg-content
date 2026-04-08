@@ -13,9 +13,9 @@ hero:
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 whatIs:
-  title: What is CFD shares trading?
+  title: What is equities CFD trading?
   definition: >-
-    CFD shares trading allows participants to trade price movements in
+    Equities CFD trading allows participants to trade price movements in
     individual company shares without owning the underlying equity.
 
 
@@ -25,10 +25,10 @@ whatIs:
 why:
   title: Why trade CFDs with Blackwell
 articles:
-  title: Guide to trading shares
+  title: Guide to trading equities
   subtitle: >-
-    Discover how earnings, valuation metrics, and sector rotation influence
-    individual equity CFDs.
+    Discover how earnings, valuation metrics, and broader macroeconomic factors
+    influence individual equity CFDs.
   selectedArticles: []
 faq:
   title: Frequently asked questions
