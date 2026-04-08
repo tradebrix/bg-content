@@ -61,7 +61,7 @@ operate:
   stats:
     - value: 1M+
       label: Clients worldwide
-    - value: 90+
+    - value: 175+
       label: Countries served
     - value: '8'
       label: Global Offices
