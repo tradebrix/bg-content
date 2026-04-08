@@ -106,7 +106,7 @@ faq:
       answer: >-
         Yes. Pricing is based on live market data, although execution is
         simulated, and funds are virtual.
-    - question: Can I use MT5 on demo?
+    - question: Can I use MT5 on a demo account?
       answer: Yes. Demo accounts are available on MetaTrader 5.
     - question: How do I move from demo to live trading?
       answer: >-
