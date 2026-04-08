@@ -7,9 +7,7 @@ seo:
   noFollow: true
 hero:
   title: Indices Trading
-  subtitle: >-
-    Access major equity indices across global markets through a single trading
-    account.
+  subtitle: Access major indices across global markets through a single trading account.
   primaryButtonText: Open Account
   primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
