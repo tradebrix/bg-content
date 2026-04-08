@@ -172,7 +172,7 @@
                 },
                 {
                   "question": "Which markets can I trade on MT5 with Blackwell?",
-                  "answer": "You can trade forex, indices, commodities, precious metals, shares CFDs, energy, and more, depending on availability.\n\n",
+                  "answer": "You can trade forex, indices, commodities, precious metals, equities CFDs, energy, and more.\n\n",
                   "actionText": "View All Markets"
                 },
                 {
@@ -185,23 +185,6 @@
                   "question": "Can I use MT5 on mobile?",
                   "answer": "Yes. MT5 is available on iOS and Android with full trading functionality.\n\n",
                   "actionText": "Visit Download Centre"
-                },
-                {
-                  "question": "Can I use both MT4 and MT5 with Blackwell?",
-                  "answer": "Yes. You can open accounts on both platforms, depending on availability."
-                },
-                {
-                  "question": "Is MT5 better than MT4?",
-                  "answer": "MT5 offers more features and broader market access, but MT4 remains popular for its simplicity. The best choice depends on your trading style.",
-                  "actionText": "Compare Platforms"
-                },
-                {
-                  "question": "Can I switch platforms later?",
-                  "answer": "You can not switch platforms using the same trading account. However, you can open additional accounts on a different platform at any time."
-                },
-                {
-                  "question": "Are execution conditions the same on both platforms?",
-                  "answer": "Both platforms operate within Blackwell’s execution environment, offering reliable pricing and stable trade execution."
                 }
               ]
             }
