@@ -18,6 +18,19 @@ history:
       focus was on serving a mix of private and professional clients with
       trading solutions.
     icon: /image/about/en/history/0/icon.svg
+  - year: '2011'
+    title: Cyprus Expansion
+    description: >-
+      Gaining traction, Blackwell Global expands into Europe with an office in
+      Cyprus.
+  - year: '2015'
+    title: Hong Kong Expansion
+    description: >-
+      Blackwell's Hong Kong office further extends its presence in Asia’s top
+      financial centres.
+  - year: '2017'
+    title: Cambodia Expansion
+    description: Blackwell saw the launch of its new office in Phnom Penh.
   - year: '2016'
     title: UK Expansion
     description: >-
@@ -25,14 +38,14 @@ history:
       This step was taken to provide UK clients with a higher standard of
       governance, senior oversight, and compliance with strict regulatory
       frameworks.
-    icon: /image/about/en/history/1/icon.svg
+    icon: /image/about/en/history/4/icon.svg
   - year: '2017'
     title: Global Sponsorships
     description: >-
       Blackwell entered a strategic partnership with the Premier League’s
       Everton Football Club. This move was intended to align the brand with
       values of heritage, resilience, and high-level performance.
-    icon: /image/about/en/history/2/icon.svg
+    icon: /image/about/en/history/5/icon.svg
   - year: '2020'
     title: Institutional Expansion
     description: >-
@@ -40,7 +53,7 @@ history:
       division was specifically designed to provide professional and
       institutional clients with enhanced liquidity access and scalable trading
       infrastructure.
-    icon: /image/about/en/history/3/icon.svg
+    icon: /image/about/en/history/6/icon.svg
   - year: '2021'
     title: Expanding Our Global Footprint
     description: >-
@@ -48,7 +61,7 @@ history:
       Commission of The Bahamas (SCB). This expansion was aimed at strengthening
       its international operational footprint and supporting clients across
       multiple jurisdictions.
-    icon: /image/about/en/history/4/icon.svg
+    icon: /image/about/en/history/7/icon.svg
 historyToday:
   header: Today
   description: >-
