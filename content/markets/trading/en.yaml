@@ -50,8 +50,8 @@ faq:
         platform.
     - question: What platforms can I trade ETFs on?
       answer: >-
-        ETFs trading is available on MetaTrader 4 and MetaTrader 5 across
-        desktop, web, and mobile.
+        ETFs trading is available on MetaTrader 5 across desktop, web, and
+        mobile.
     - question: What affects ETF prices?
       answer: >-
         ETF prices are influenced by the performance of the underlying assets,
