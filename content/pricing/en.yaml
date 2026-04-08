@@ -12,9 +12,8 @@ hero:
     execution and established trading infrastructure.
 fees:
   title: Simple account fees
-  subtitle: >
-    We keep account costs clear and straightforward. No unnecessary charges -
-    only transparent rules where fees apply.
+  subtitle: |
+    We keep account costs clear and straightforward. No unnecessary charges.
   setupHeader: Setup
   setupValue: No setup fee
   maintenanceHeader: Maintenance
