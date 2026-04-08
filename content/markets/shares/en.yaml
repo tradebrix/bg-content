@@ -33,11 +33,11 @@ articles:
 faq:
   title: Frequently asked questions
   questions:
-    - question: What are CFD shares?
+    - question: What are equities CFDs?
       answer: >-
-        CFD shares allow traders to speculate on share price movements without
-        owning the underlying stock.
-    - question: Which shares can I trade with Blackwell?
+        Equities CFDs allow traders to speculate on share price movements
+        without owning the underlying stock.
+    - question: Which equities can I trade with Blackwell?
       answer: >-
         Blackwell offers access to selected global equities across major
         markets.
