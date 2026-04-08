@@ -50,7 +50,7 @@ whatYouCanTrade:
     - icon: /image/demo/en/whatYouCanTrade/cards/5/icon.svg
       title: ETFs
     - icon: /image/demo/en/whatYouCanTrade/cards/6/icon.svg
-      title: CFD Shares
+      title: Equities CFDs
   note: >-
     Market pricing is streamed in real time, so you can practise under realistic
     conditions.
