@@ -48,7 +48,7 @@ globalMarkets:
       description: Gain exposure to themed and sector-based ETFs through a single trade.
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/5/icon.svg
-    - title: CFD Shares
+    - title: Equities CFDs
       description: >-
         Trade CFDs on selected global equities, with the ability to go long or
         short.
@@ -61,16 +61,14 @@ tradeWithUs:
       title: Lightning-fast execution
       description: Low-latency infrastructure designed for speed, stability, and precision.
     - icon: /image/all-markets/en/tradeWithUs/cards/1/icon.svg
-      title: Ultra-tight spreads
+      title: Ultra-tight spreads. Zero commission Trading
       description: Competitive pricing sourced from established liquidity providers.
     - icon: /image/all-markets/en/tradeWithUs/cards/2/icon.svg
       title: 24/7 professional support
       description: Dedicated support available whenever markets are active.
     - icon: /image/all-markets/en/tradeWithUs/cards/3/icon.svg
-      title: Built for serious trading
-      description: >-
-        Reliable platforms, disciplined processes, and execution standards you
-        can depend on.
+      title: Reliable trading platforms
+      description: Institutional infrastructure and execution standards you can depend on.
 pricing:
   title: Competitive pricing
   subtitle: Blackwell provides competitive spreads across major global indices.
