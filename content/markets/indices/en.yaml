@@ -51,7 +51,3 @@ faq:
       answer: >-
         Indices trading is available on MetaTrader 5 across desktop, web, and
         mobile.
-    - question: What affects index prices?
-      answer: >-
-        Index prices are influenced by economic data, corporate earnings,
-        interest rates, and overall market sentiment.
