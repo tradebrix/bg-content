@@ -34,7 +34,7 @@ experience:
         Market data is streamed live, allowing you to practise with realistic
         spreads and execution behaviour.
 whatYouCanTrade:
-  title: What you can trade on demo
+  title: What you can trade on a demo account
   subtitle: 'Access the same markets available on live accounts, including:'
   cards:
     - icon: /image/demo/en/whatYouCanTrade/cards/0/icon.svg
