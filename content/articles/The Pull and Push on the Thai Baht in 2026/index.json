@@ -1,5 +1,9 @@
 {
   "locale": "en",
+  "seo": {
+    "noIndex": false,
+    "noFollow": false
+  },
   "date": "2026-03-18T18:05",
   "image": "/image/articles/The Pull and Push on the Thai Baht in 2026/image.jpg",
   "type": "Forex",
