@@ -62,7 +62,7 @@ models:
     Partnership structures are customized based on region, traffic profile, and
     regulatory considerations.
 strategic:
-  title: Success partners
+  title: Our partners benefit from
   cards:
     - icon: /image/partners/en/strategic/cards/0/icon.svg
       header: Marketing & conversion support
@@ -83,6 +83,7 @@ strategic:
     - icon: /image/partners/en/strategic/cards/4/icon.svg
       header: Efficient onboarding & account setup
       description: A streamlined process designed to get you live quickly and correctly.
+    - header: New Box
 estimate:
   title: Estimate your partnership earnings
   subtitle: Indicative estimates based on trading activity and partnership structure.
