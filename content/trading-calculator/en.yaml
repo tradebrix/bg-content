@@ -77,10 +77,8 @@ broker:
       header: 24/5 support
       description: Dedicated support available whenever markets are active.
     - icon: /image/economic-calendar/brokder6.svg
-      header: Built for serious trading
-      description: >-
-        Reliable platforms, disciplined processes, & execution standards you can
-        depend on.
+      header: Reliable trading platforms
+      description: Institutional infrastructure and execution standards you can depend on.
 faq:
   title: Frequently asked questions
   questions:
