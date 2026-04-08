@@ -5,7 +5,7 @@ seo:
   noFollow: true
 hero:
   title: Precious Metals Trading
-  subtitle: Trade key precious metals markets through a single trading account.
+  subtitle: Trade precious metals markets through a single trading account.
   primaryButtonText: Open Account
   primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
@@ -18,9 +18,7 @@ whatIs:
 
 
     These markets are often influenced by macroeconomic conditions, interest
-    rates, inflation expectations, and geopolitical developments. Precious
-    metals are commonly traded for diversification and as a way to gain exposure
-    to global market sentiment.
+    rates, inflation expectations, and geopolitical developments. 
 why:
   title: Why trade Metals with Blackwell
 articles:
