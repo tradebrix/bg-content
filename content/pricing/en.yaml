@@ -30,8 +30,8 @@ fees:
 market:
   title: Market pricing and spreads
   subtitle: >
-    Blackwell provides competitive spreads across forex, indices, and
-    commodities, supported by reliable execution and established liquidity
+    Blackwell provides competitive spreads across forex, indices, equities CFDs,
+    and commodities, supported by reliable execution and established liquidity
     relationships.
   topNote: The tables below show indicative spreads across selected instruments.
   bottomNote: Pricing may vary depending on market conditions and liquidity.
@@ -51,7 +51,7 @@ market:
       subTabs: []
     - name: Commodities
       subTabs: []
-    - name: Shares
+    - name: Equities CFDs
       subTabs: []
     - name: Energies
       subTabs: []
