@@ -79,8 +79,8 @@ operate:
   caption: We prioritise long-term client relationships over short-term volume.
   captionHighlight: client relationships
 global:
-  title: Globally regulated
-  subtitle: We’re regulated in multiple regions worldwide, keeping your funds secure.
+  title: Regulated globally
+  subtitle: Regulated in multiple regions worldwide.
   cards:
     - serviceName: Securities Commission
       countryName: The Bahamas
@@ -92,10 +92,11 @@ global:
       countryName: Mauritius
       countryCode: MU
 industry:
-  title: Industry Recognition
+  title: Global regulation. Global Awards.
   subtitle: >-
-    Our industry recognition reflects a sustained commitment to excellence,
-    operational discipline, and the standards that define long-term performance.
+    Blackwell's industry recognition reflects a sustained commitment to
+    excellence and the standards that define long-term performance in financial
+    markets.
   items: []
   buttonText: View all
 map:
