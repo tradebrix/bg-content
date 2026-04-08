@@ -50,7 +50,7 @@
                 },
                 {
                   "question": "Does a Demo account expire?",
-                  "answer": "Yes, demo accounts on both MT4 and MT5 do expire, if you do not place any trades for 30 days. "
+                  "answer": "Yes, demo accounts on MT5 do expire, if you do not place any trades for 30 days. "
                 }
               ]
             }
@@ -81,10 +81,6 @@
                 {
                   "question": "Can I change my leverage?",
                   "answer": "To make a changes to your account leverage please email your account number and desired leverage from your registered email address to support@blackwellglobal.com."
-                },
-                {
-                  "question": "Can I use the same trading account on multiple platforms?",
-                  "answer": "No, account types and platforms are not interchangeable. Each platform requires a specific account. For example you can not use an MT4 account on the MT5 platform. You must use an MT4 account with MT4 platform and an MT5 account with the MT5 platform.\n\nHowever, you can open multiple trading accounts, on different platforms, each with its unique logins."
                 }
               ]
             }
