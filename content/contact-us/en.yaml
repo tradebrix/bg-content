@@ -34,15 +34,7 @@ getInTouch:
   subheader: >-
     Blackwell Global has offices stationed across the globe, providing our
     clients with the services they deserve.
-  labels:
-    - icon: /icon/en/getInTouch/labels/0/icon.svg
-      title: Office
-      content: >-
-        12th Floor, Tower 1, NeXteracom, Rue du Savoir, Cybercity, Ebene,
-        Republic of Mauritius
-    - icon: /icon/en/getInTouch/labels/1/icon.svg
-      title: Phone
-      content: '+442037699881'
+  labels: []
   formTitle: Contact Us
   formFirstName: First Name
   formLastName: Last Name
