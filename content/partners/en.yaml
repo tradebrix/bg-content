@@ -53,7 +53,7 @@ models:
         - Real-time tracking
     - icon: /image/partners/en/models/cards/2/icon.svg
       header: PAMM / MAM
-      description: For professional traders and capital managers.
+      description: For experienced traders and capital managers.
       labels:
         - Automated profit distribution
         - Flexible allocation models
