@@ -213,56 +213,6 @@
           {
             "discriminant": "section",
             "value": {
-              "name": "MetaTrader 4",
-              "questions": [
-                {
-                  "question": "What is MetaTrader 4?",
-                  "answer": "MetaTrader 4 is a widely used trading platform focused on forex and CFD trading, known for its simplicity and stability."
-                },
-                {
-                  "question": "Which markets can I trade on MT4 with Blackwell?",
-                  "answer": "MT4 provides access to forex and selected CFD markets, subject to availability."
-                },
-                {
-                  "question": "Can I use MT4 on mobile?",
-                  "answer": "Yes. MT4 is available on both iOS and Android devices.\n",
-                  "actionText": "Visit Download Centre"
-                },
-                {
-                  "question": "Can I try MT4 before trading live?",
-                  "answer": "Yes. A demo account is available to practise trading in a risk-free environment.\n\nTo create a MetaTrader 4 demo account, login to your Client Portal, navigate to \"Accounts\", select \"Open Demo Account\", then choose MT4 as your platform.",
-                  "actionText": "Open Demo Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
-                },
-                {
-                  "question": "How to open MT4 live trading account?",
-                  "answer": "To create a MetaTrader 4 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Live Account\", then choose MT4 as your platform.",
-                  "actionText": "Open Live Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
-                },
-                {
-                  "question": "Can I use both MT4 and MT5 with Blackwell?",
-                  "answer": "Yes. You can open accounts on both platforms, depending on availability."
-                },
-                {
-                  "question": "Is MT5 better than MT4?",
-                  "answer": "MT5 offers more features and broader market access, but MT4 remains popular for its simplicity. The best choice depends on your trading style.\n\n",
-                  "actionText": "Compare Platforms"
-                },
-                {
-                  "question": "Can I switch platforms later?",
-                  "answer": "You can not switch platforms using the same trading account. However, you can open additional accounts on a different platform at any time.\n"
-                },
-                {
-                  "question": "Are execution conditions the same on both platforms?",
-                  "answer": "Both platforms operate within Blackwell’s execution environment, offering reliable pricing and stable trade execution.\n"
-                }
-              ]
-            }
-          },
-          {
-            "discriminant": "section",
-            "value": {
               "name": "WebTrader",
               "questions": [
                 {
