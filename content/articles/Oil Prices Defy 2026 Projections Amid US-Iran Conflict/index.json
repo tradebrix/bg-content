@@ -1,5 +1,9 @@
 {
   "locale": "en",
+  "seo": {
+    "noIndex": false,
+    "noFollow": false
+  },
   "date": "2026-03-24T17:21",
   "image": "/image/articles/Oil Prices Defy 2026 Projections Amid US-Iran Conflict/image.png",
   "type": "Energy",
