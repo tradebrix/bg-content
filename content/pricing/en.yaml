@@ -20,7 +20,6 @@ fees:
   maintenanceHeader: Maintenance
   maintenanceValue: No fees
   tableHeader1: Account Service
-  tableHeader2: Fee
   rows:
     - service: Opening an account
       fee: Free
