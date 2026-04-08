@@ -7,14 +7,14 @@ seo:
   noFollow: true
 hero:
   title: 'Trade Smarter. Access Everything. '
-  subtitle: Trade the world's financial markets with Blackwell.
+  subtitle: Access the world's financial markets with Blackwell.
   primaryButtonText: Open Account
   primaryButtonLink: https://mau.blackwellglobal.com/register/
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 markets:
-  title: Own the Market
-  subtitle: Access 2000+ instruments through a single trading account.
+  title: Trade major global markets
+  subtitle: Multi asset trading with a single account.
   buttonText: View All Markets
   cards:
     - title: Forex
@@ -34,36 +34,33 @@ markets:
 trade:
   title: Trade on industry leading platforms
   subtitle: >-
-    Trade MT4 and MT5 give you everything you need to trade efficiently, from
-    advanced charting to fast execution, across desktop and mobile.
+    MT4, MT5 and Blackwell Trader give you everything you need to trade
+    efficiently, from advanced charting to fast execution, across desktop and
+    mobile.
   buttonText: Open Account
   buttonLink: https://mau.blackwellglobal.com/register/
 whytrade:
-  title: Why traders choose Blackwell
+  title: 20 years of industry excellence
   subtitle: >-
-    Blackwell combines operational longevity, disciplined infrastructure, and
-    global market access within a structured, regulated trading environment.
+    Blackwell combines global regulation, deep infrastructure, and global
+    financial market access to clients worldwide.
   cards:
-    - title: 15+ years of industry presence
-      description: >-
-        A sustained track record built on consistency, operational discipline,
-        and long-term client relationships.
+    - title: 20+ years of industry presence
+      description: Since 2003 we've been offering our traders premium trading conditions.
     - title: Institutional-grade infrastructure
-      description: >-
-        Execution supported by structured systems built for stability across
-        market conditions.
-    - title: Transparent cost structure
-      description: Clear pricing across asset classes with no hidden adjustments.
+      description: Execution supported by interbank liquidity and DMA market access.
+    - title: Transparent pricing
+      description: Clear pricing across asset classes with no hidden costs.
     - title: Global market access
       description: >-
-        Trade forex, indices, commodities, metals, and shares from a unified
-        environment.
+        Trade forex, indices, commodities, metals, and equities from a single
+        platform.
 stats:
-  title: Experience that stands the test of time
+  title: Trusted. Secure. Global.
   subtitle: >-
-    Built on decades of industry experience, Blackwell has established a legacy
-    of disciplined growth, operational resilience, and trusted client
-    relationships across global markets.
+    Built on decades of industry experience, Blackwell has established a brand
+    as a leading financial services provider, with trusted client relationships
+    across the world.
   items:
     - value: '2003'
       label: Established
