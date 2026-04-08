@@ -78,6 +78,4 @@ faq:
         Open a trading account, fund it using your preferred payment method, and
         access global markets through our trading platforms.
     - question: Which platforms can I trade on?
-      answer: >-
-        You can trade on MetaTrader 4 and MetaTrader 5, available on desktop,
-        web, and mobile.
+      answer: You can trade on MetaTrader 5, available on desktop, web, and mobile.
