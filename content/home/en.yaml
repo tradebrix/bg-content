@@ -20,16 +20,16 @@ markets:
     - title: Forex
       subtitle: Trade 50+ forex pairs with tight spreads and fast execution.
       icon: /image/home/en/markets/cards/0/icon.svg
-    - title: Metals
-      subtitle: Trade gold and silver with deep liquidity and consistent pricing.
+    - title: Commodities
+      subtitle: Trade commodities with deep liquidity and consistent pricing.
       icon: /image/home/en/markets/cards/1/icon.svg
     - title: Indices
       subtitle: >-
         Trade major global indices with competitive spreads and reliable
         execution.
       icon: /image/home/en/markets/cards/2/icon.svg
-    - title: Energies
-      subtitle: Trade energy CFDs, including oil and other key markets.
+    - title: Equities & ETFs
+      subtitle: Trade global equities, ETFs and fixed income products.
       icon: /image/home/en/markets/cards/3/icon.svg
 trade:
   title: Trade on industry leading platforms
