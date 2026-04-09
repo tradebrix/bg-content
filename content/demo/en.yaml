@@ -44,11 +44,11 @@ whatYouCanTrade:
     - icon: /image/demo/en/whatYouCanTrade/cards/2/icon.svg
       title: Energies
     - icon: /image/demo/en/whatYouCanTrade/cards/3/icon.svg
-      title: Precious metals
+      title: ETFs
     - icon: /image/demo/en/whatYouCanTrade/cards/4/icon.svg
       title: Commodities
     - icon: /image/demo/en/whatYouCanTrade/cards/5/icon.svg
-      title: ETFs
+      title: Precious metals
     - icon: /image/demo/en/whatYouCanTrade/cards/6/icon.svg
       title: Equities CFDs
   note: >-
