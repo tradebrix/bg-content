@@ -34,9 +34,8 @@ markets:
 trade:
   title: Trade on industry leading platforms
   subtitle: >-
-    MT4, MT5 and Blackwell Trader give you everything you need to trade
-    efficiently, from advanced charting to fast execution, across desktop and
-    mobile.
+    MT5 and Blackwell Trader give you everything you need to trade efficiently,
+    from advanced charting to fast execution, across desktop and mobile.
   buttonText: Open Account
   buttonLink: https://mau.blackwellglobal.com/register/
 whytrade:
@@ -68,7 +67,7 @@ stats:
       label: Clients
     - value: 175+
       label: Countries
-    - value: '10'
+    - value: '8'
       label: Offices
 cta:
   title: Apply in minutes. Start trading today.
@@ -81,9 +80,6 @@ trophies:
     A brand built on trust. Blackwell is proud to say our customer service and
     reliability is second to none.
   items:
-    - image: /image/home/en/trophies/items/0/image.svg
-      text: "Best ECN Forex Broker\LWorld Business Outlook Awards, 2021"
-    - image: /image/home/en/trophies/items/1/image.svg
-      text: Best Online Forex Broker Acquisition International, 2019
-    - image: /image/home/en/trophies/items/2/image.svg
-      text: Most Trusted Financial Service Provider Wealth & Finance, 2019
+    - text: "Best ECN Forex Broker\LWorld Business Outlook Awards, 2021"
+    - text: Best Online Forex Broker Acquisition International, 2019
+    - text: Most Trusted Financial Service Provider Wealth & Finance, 2019
