@@ -1,0 +1,124 @@
+seo:
+  noIndex: true
+  noFollow: true
+hero:
+  title: Multi-Asset Prime Brokerage Tailored for Professionals
+  subtitle: >-
+    BGI Prime delivers high-touch execution and investment services to private
+    and institutional clients. Trusted by HNWIs, family offices, fund managers,
+    and financial institutions worldwide.
+  buttonText: Contact Us
+marketAccess:
+  title: Global Multi-Asset Market Access
+  subtitle: >-
+    BGI Prime provides access to a broad range of global asset classes,
+    supporting both listed and OTC instruments across major financial markets.
+  rows:
+    - header: Equities
+      subheader: >-
+        Global equity market access supporting portfolio allocation and
+        execution efficiency.
+    - header: Foreign Exchange
+      subheader: >-
+        Seamless access to global currency markets with competitive pricing and
+        institutional liquidity.
+    - header: Futures And Listed Derivatives
+      subheader: >-
+        Comprehensive futures and derivatives trading across all major global
+        exchanges and asset classes.
+    - header: Options
+      subheader: >-
+        Sophisticated options trading strategies and robust risk management
+        tools for global markets.
+    - header: Securities Financing
+      subheader: >-
+        Flexible securities lending and customized financing solutions to
+        optimize your capital efficiency.
+    - header: Commodities
+      subheader: >-
+        Broad exposure to global commodity markets including energy, precious
+        metals, and agriculture.
+solutions:
+  title: Tailored Solutions For Every Client
+  subtitle: >-
+    From high-net-worth individuals to institutional investors, BGI Prime
+    customizes its solutions to meet each client's specific trading and
+    execution needs.
+  row1:
+    title: Private Clients
+    labels:
+      - High-net-worth individuals
+      - Executives managing international portfolios
+      - UBOs and principals requiring structured oversight
+    buttonText: Contact Us
+  row2:
+    title: Institutional Clients
+    labels:
+      - Family offices
+      - Investment firms
+      - Fund managers
+      - Brokerages
+      - Regional and international banks
+    buttonText: Contact Us
+capabilities:
+  title: Global Institutional Capabilities
+  cards:
+    - title: Market Access & Institutional Brokerage
+      description: >-
+        Access to global listed and OTC markets through established
+        counterparties and resilient infrastructure.
+    - title: B2B Liquidity & Technology Services
+      description: >-
+        Institutional liquidity, pricing, and execution supported by FIX
+        connectivity and advanced pricing infrastructure.
+    - title: Portfolio Servicing & Financing
+      description: >-
+        Portfolio servicing and financing focused on margin efficiency, capital
+        optimisation, and structured risk management.
+    - title: Prime Services Trading Desk
+      description: >-
+        High-touch and electronic execution delivered by experienced dealers for
+        complex and time-sensitive trading.
+    - title: Investment Management Services
+      description: >-
+        Regulated investment management via managed account structures and
+        in-house strategies, supported by institutional reporting.
+    - title: Execution Services
+      description: >-
+        Institutional execution across global markets, delivered through
+        advanced trading technology and experienced execution teams.
+  bottomRow:
+    title: Precision. Access. Discretion.
+    subtitle: Direct dealer access for execution, market colour, and timing decisions.
+    labels:
+      - VWAP / TWAP strategies
+      - Auction participation
+      - Block & high-touch execution
+    cardTopText: OUR DEALERS' AVERAGE RESPONSE TIME
+    cardBottomText: 7 seconds
+stats:
+  header: Regulated. Reliable. Responsible.
+  subheader: >-
+    BGI Prime is globally regulated with strong counterparty risk controls,
+    compliance, and robust governance to protect client assets.
+  items:
+    - value: '4'
+      label: Continents
+    - value: 20+
+      label: Years of Industry Experience
+    - value: '8'
+      label: Global Offices
+contactUs:
+  title: Contact Us
+  subtitle: Contact BGI Prime to discuss institutional access and execution.
+  form:
+    namePlaceholder: Full Name*
+    emailPlaceholder: Email*
+    serviceInterestPlaceholder: Service of Interest*
+    messagePlaceholder: Message*
+    submitButtonText: Contact Us
+  popup:
+    title: Thank you for contacting BGI Prime
+    subtitle: >-
+      Your enquiry has been received and will be reviewed by our institutional
+      team. A member of our team will be in touch shortly.
