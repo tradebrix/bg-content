@@ -39,13 +39,7 @@ market:
   tableHeader3: Average Spread
   tabs:
     - name: Forex
-      subTabs:
-        - name: Major Pairs
-          symbols: []
-        - name: Minor Pairs
-          symbols: []
-        - name: Exotic Pairs
-          symbols: []
+      subTabs: []
     - name: Indices
       subTabs: []
     - name: Commodities
@@ -68,7 +62,7 @@ builtfor:
     - label: Stable trading environment during active sessions
     - label: Pricing sourced from established liquidity relationships
 banner:
-  title: You’re trading starts here
+  title: Your trading starts here
   subtitle: >-
     Open an account and start trading in minutes, or practise first with a
     risk-free demo.
