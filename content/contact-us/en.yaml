@@ -30,7 +30,6 @@ assistance:
 getInTouch:
   title: Get in touch.
   subtitle: Fill out the form and we will get back to you within 24 hours.
-  labels: []
   formTitle: Contact Us
   formFirstName: First Name
   formLastName: Last Name
