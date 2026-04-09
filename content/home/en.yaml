@@ -66,9 +66,9 @@ stats:
       label: Established
     - value: 1M+
       label: Clients
-    - value: 90+
+    - value: 175+
       label: Countries
-    - value: '8'
+    - value: '10'
       label: Offices
 cta:
   title: Apply in minutes. Start trading today.
