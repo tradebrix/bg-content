@@ -81,6 +81,9 @@ trophies:
     A brand built on trust. Blackwell is proud to say our customer service and
     reliability is second to none.
   items:
-    - text: "Best ECN Forex Broker\LWorld Business Outlook Awards, 2021"
-    - text: Best Online Forex Broker Acquisition International, 2019
-    - text: Most Trusted Financial Service Provider Wealth & Finance, 2019
+    - image: /image/home/en/trophies/items/0/image.svg
+      text: "Best ECN Forex Broker\LWorld Business Outlook Awards, 2021"
+    - image: /image/home/en/trophies/items/1/image.svg
+      text: Best Online Forex Broker Acquisition International, 2019
+    - image: /image/home/en/trophies/items/2/image.svg
+      text: Most Trusted Financial Service Provider Wealth & Finance, 2019
