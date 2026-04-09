@@ -30,10 +30,6 @@ assistance:
 getInTouch:
   title: Get in touch.
   subtitle: Fill out the form and we will get back to you within 24 hours.
-  header: Our Office
-  subheader: >-
-    Blackwell Global has offices stationed across the globe, providing our
-    clients with the services they deserve.
   labels: []
   formTitle: Contact Us
   formFirstName: First Name
