@@ -21,11 +21,13 @@ history:
   - year: '2011'
     title: Cyprus Expansion
     description: Gaining traction, Blackwell expands into Europe with an office in Cyprus.
+    icon: /image/about/en/history/1/icon.svg
   - year: '2015'
     title: Hong Kong Expansion
     description: >-
       Blackwell's Hong Kong office further extends its presence in Asia’s top
       financial centres.
+    icon: /image/about/en/history/2/icon.svg
   - year: '2016'
     title: UK Expansion
     description: >-
@@ -37,6 +39,7 @@ history:
   - year: '2017'
     title: Cambodia Expansion
     description: Blackwell saw the launch of its new office in Phnom Penh.
+    icon: /image/about/en/history/4/icon.svg
   - year: '2017'
     title: Global Sponsorships
     description: >-
@@ -73,7 +76,7 @@ operate:
       label: Clients worldwide
     - value: 175+
       label: Countries served
-    - value: '8'
+    - value: '10'
       label: Global Offices
   title2: How we operate
   subtitle: >-
