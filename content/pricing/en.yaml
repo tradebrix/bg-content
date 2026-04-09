@@ -50,8 +50,6 @@ market:
       subTabs: []
     - name: Metals
       subTabs: []
-    - name: ETFs
-      subTabs: []
 builtfor:
   title: Built for consistent execution
   subtitle: >-
