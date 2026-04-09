@@ -26,9 +26,6 @@ history:
     description: >-
       Blackwell's Hong Kong office further extends its presence in Asia’s top
       financial centres.
-  - year: '2017'
-    title: Cambodia Expansion
-    description: Blackwell saw the launch of its new office in Phnom Penh.
   - year: '2016'
     title: UK Expansion
     description: >-
@@ -36,7 +33,10 @@ history:
       This step was taken to provide UK clients with a higher standard of
       governance, senior oversight, and compliance with strict regulatory
       frameworks.
-    icon: /image/about/en/history/4/icon.svg
+    icon: /image/about/en/history/3/icon.svg
+  - year: '2017'
+    title: Cambodia Expansion
+    description: Blackwell saw the launch of its new office in Phnom Penh.
   - year: '2017'
     title: Global Sponsorships
     description: >-
@@ -116,7 +116,7 @@ cta:
   title: Looking Ahead
   description: >-
     As markets evolve, Blackwell continues to invest in infrastructure,
-    governance, and access — focused on consistency across financial markets.
+    governance, and access,  focused on consistency across financial markets.
   bannerTitle: |-
     Trade with confidence.
     Trade with Blackwell.
