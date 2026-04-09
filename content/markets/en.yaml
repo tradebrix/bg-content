@@ -14,7 +14,7 @@ cards:
     title: 24/7 professional support
     description: Dedicated support teams available 24/5, whenever markets are open.
 banner:
-  title: You’re trading starts here
+  title: Your trading starts here
   subtitle: >-
     Open an account and start trading in minutes, or practise first with a
     risk-free demo.
@@ -23,10 +23,11 @@ banner:
   secondaryButtonText: Try Demo Account
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 awards:
-  title: A standard of excellence
+  title: Global regulation. Global Awards.
   subtitle: >-
-    We are a brand built on trust. That is why we are proud to say our customer
-    service and reliability is second to none.
+    Blackwell's industry recognition reflects a sustained commitment to
+    excellence and the standards that define long-term performance in financial
+    markets.
   items:
     - image: /image/markets/en/awards/items/0/image.svg
       year: '2021'
