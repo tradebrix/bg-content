@@ -1,9 +1,13 @@
 {
   "locale": "en",
+  "seo": {
+    "noIndex": false,
+    "noFollow": false
+  },
+  "title": "How AI is Changing the Way We Trade",
   "date": "2026-03-19T17:50",
   "image": "/image/articles/how-ai-is-changing-the-way-we-trade-copy/image.jpg",
   "type": "Insights",
-  "author": "Blackwell Research Team",
-  "description": "AI is transforming trading by combining speed, data analysis, and automation to enhance decision-making. This article explores how AI-driven tools outperform traditional methods, reduce human error, and help traders build smarter, more efficient strategies.",
-  "title": "How AI is Changing the Way We Trade"
+  "author": "Blackwell Research Team ",
+  "description": "AI is transforming trading by combining speed, data analysis, and automation to enhance decision-making. This article explores how AI-driven tools outperform traditional methods, reduce human error, and help traders build smarter, more efficient strategies."
 }
