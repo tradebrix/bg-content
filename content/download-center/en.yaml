@@ -41,7 +41,9 @@ trade:
     description: >-
       Monitor markets, manage positions, and place trades using MetaTrader
       mobile trading apps.
+    iosLabel: MT5 for iOS
     iosLink: https://apps.apple.com/us/app/metatrader-5/id413251709
+    androidLabel: MT5 for Android
     androidLink: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5
   card2:
     title: Trade from your browser
