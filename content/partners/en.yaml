@@ -37,9 +37,7 @@ models:
   cards:
     - icon: /image/partners/en/models/cards/0/icon.svg
       header: Introducing Broker (IB)
-      description: >-
-        For partners focused on long-term client relationships and recurring
-        revenue.
+      description: For partners focused on client relationships and recurring revenue.
       labels:
         - Revenue share structure
         - Transparent reporting
