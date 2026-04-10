@@ -108,6 +108,3 @@ register:
   emailLabel: Email address*
   countryLabel: Country of Residence*
   phoneLabel: Mobile Number*
-  agreeTermsLabel: I agree to the terms and conditions.
-  termsLinkText: terms and conditions.
-  termsLinkHref: /terms
