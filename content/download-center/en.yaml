@@ -35,31 +35,6 @@ mt5Download:
       header: GET IT ON
       title: Google Play
       link: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5
-mt4Download:
-  title: Download MT4
-  description: >-
-    The industry standard for forex and CFD trading. Renowned for its
-    user-friendly interface and highly customizable features for traders of all
-    levels.
-  cards:
-    - icon: desktop
-      header: DOWNLOAD
-      title: MT4 for Windows
-      link: >-
-        https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download
-    - icon: apple
-      header: DOWNLOAD
-      title: MT4 for Mac OS
-      link: >-
-        https://download.terminal.free/cdn/web/metaquotes.software.corp/mt4/MetaTrader4.pkg.zip?utm_source=www.metatrader4.com&utm_campaign=download.mt4.macos
-    - icon: apple
-      header: DOWNLOAD FROM
-      title: App Store
-      link: https://apps.apple.com/us/app/metatrader-4/id496212596
-    - icon: desktop
-      header: GET IT ON
-      title: Google Play
-      link: https://play.google.com/store/apps/details?id=net.metaquotes.metatrader4
 trade:
   card1:
     title: Trade on the move
