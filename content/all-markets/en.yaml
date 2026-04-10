@@ -14,7 +14,7 @@ hero:
   secondaryButtonLink: https://mau.blackwellglobal.com/register/
 globalMarkets:
   title: Trade across major global markets
-  subtitle: Access 2000+ instruments through a single trading account.
+  subtitle: Access global instruments through a single trading account.
   cards:
     - title: Forex
       description: >
@@ -41,7 +41,7 @@ globalMarkets:
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/3/icon.svg
     - title: Commodities
-      description: A selection of hard and soft commodities across global markets.
+      description: Trade commodities across global markets.
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/4/icon.svg
     - title: ETFs
@@ -61,7 +61,7 @@ tradeWithUs:
       title: Lightning-fast execution
       description: Low-latency infrastructure designed for speed, stability, and precision.
     - icon: /image/all-markets/en/tradeWithUs/cards/1/icon.svg
-      title: Low spreads. Zero commissions
+      title: Low spreads. Zero commissions.
       description: Competitive pricing sourced from established liquidity providers.
     - icon: /image/all-markets/en/tradeWithUs/cards/2/icon.svg
       title: 24/7 professional support
@@ -79,7 +79,7 @@ pricing:
       symbols: []
     - tabName: Commodities
       symbols: []
-    - tabName: Equities
+    - tabName: Shares
       symbols: []
     - tabName: Energies
       symbols: []
