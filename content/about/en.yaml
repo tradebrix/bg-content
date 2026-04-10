@@ -91,19 +91,6 @@ operate:
       description: Experienced, market focused teams
   caption: We prioritise long-term client relationships.
   captionHighlight: client relationships
-global:
-  title: Regulated globally
-  subtitle: Regulated in multiple regions worldwide.
-  cards:
-    - serviceName: Securities Commission
-      countryName: The Bahamas
-      countryCode: BS
-    - serviceName: Financial Conduct Authority
-      countryName: UK
-      countryCode: UK
-    - serviceName: Financial Services Commission
-      countryName: Mauritius
-      countryCode: MU
 industry:
   title: Global regulation. Global Awards.
   subtitle: >-
