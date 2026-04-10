@@ -1,0 +1,13 @@
+{
+  "title": "Platform tutorials",
+  "description": "Learn how to set up, navigate, and trade efficiently using MT5 platform.",
+  "watchButtonText": "Watch Now",
+  "recentPublishedText": "Latest Videos",
+  "videos": [],
+  "seo": {
+    "title": "MT5 Tutorials for Beginners | Trading Platform Guides | Blackwell",
+    "description": "Learn how to use MT5 with simple tutorials. From placing trades to using indicators, access complete platform guides for all levels.",
+    "noIndex": true,
+    "noFollow": true
+  }
+}
