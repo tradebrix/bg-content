@@ -74,12 +74,6 @@ steps:
       description: Access global markets through Blackwell’s supported trading platforms.
   buttonText: Open Account
   buttonLink: https://mau.blackwellglobal.com/register/
-banner:
-  title: Not sure if MT5 is right for you?
-  subtitle: >-
-    Compare MT4 and MT5 features to choose the platform that best suits your
-    trading style.
-  buttonText: Compare Platforms
 faq:
   title: Frequently asked questions
   questions:
