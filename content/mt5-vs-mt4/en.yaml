@@ -90,13 +90,13 @@ strategy:
       If your trading is focused, forex-driven, and built around established
       strategies or Expert Advisors, MetaTrader 4 may feel familiar and
       efficient.
-    image: /image/mt5-vs-mt4/en/strategy/column1/image.png
+    image: /image/mt5-vs-mt4/en/strategy/column1/image.svg
   column2:
     text: >-
       If your trading involves multiple markets, deeper analysis, or a need for
       broader market visibility, MetaTrader 5 offers the tools to support that
       approach.
-    image: /image/mt5-vs-mt4/en/strategy/column2/image.png
+    image: /image/mt5-vs-mt4/en/strategy/column2/image.svg
 download:
   title: Available on all devices
   subtitle: >-
@@ -105,7 +105,7 @@ download:
   image: /image/mt5-vs-mt4/en/download/image.png
   ctaText: Visit Download Centre
 banner:
-  title: Trade on the platform that suits you
+  title: Your trading starts here
   subtitle: Create an account in minutes or explore MT5 with a demo account.
   primaryBtnText: Open Account
   primaryBtnLink: https://mau.blackwellglobal.com/register/
