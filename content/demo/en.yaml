@@ -72,11 +72,6 @@ devices:
     - Web
     - Mobile
   cards:
-    - label: MetaTrader 4
-      description: >-
-        Practise trading on MT4 from your desktop, laptop, or mobile device with
-        full platform functionality.
-      buttonText: Open MT4 Demo Account
     - label: MetaTrader 5
       description: >-
         Practise trading on MT5 from your desktop, laptop, or mobile device with
