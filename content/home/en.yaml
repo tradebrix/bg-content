@@ -67,7 +67,7 @@ stats:
       label: Clients
     - value: 175+
       label: Countries
-    - value: '8'
+    - value: '10'
       label: Offices
 cta:
   title: Apply in minutes. Start trading today.
