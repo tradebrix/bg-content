@@ -38,7 +38,7 @@ calculators:
     lotSizeDefault: '1'
     bidPriceDefault: '64.185'
     openPriceDefault: '64.185'
-    closePriceDefault: '1:200'
+    closePriceDefault: '64.187'
     resultsTradingHeaders:
       contractSize: Contract size
       swapLong: Swap long
