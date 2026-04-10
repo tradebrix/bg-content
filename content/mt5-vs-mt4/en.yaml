@@ -113,22 +113,4 @@ banner:
   secondaryBtnLink: https://mau.blackwellglobal.com/register/
 faq:
   title: Frequently asked questions
-  questions:
-    - question: Can I use both MT4 and MT5 with Blackwell?
-      answer: >-
-        WebTrader is a browser-based trading platform powered by MetaQuotes
-        technology, allowing you to trade directly from your web browser without
-        downloading software.
-    - question: Is MT5 better than MT4?
-      answer: >-
-        MT5 offers more features and broader market access, but MT4 remains
-        popular for its simplicity. The best choice depends on your trading
-        style.
-    - question: Can I switch platforms later?
-      answer: >-
-        Yes. You can open additional accounts on a different platform at any
-        time.
-    - question: Are execution conditions the same on both platforms?
-      answer: >-
-        Both platforms operate within Blackwell’s execution environment,
-        offering reliable pricing and stable trade execution.
+  questions: []
