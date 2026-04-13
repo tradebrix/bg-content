@@ -1,7 +1,11 @@
 {
   "locale": "en",
+  "seo": {
+    "noIndex": false,
+    "noFollow": false
+  },
+  "title": "How Does a Central Bank Rate Hike Impact Different Markets",
   "type": "Central Banks",
   "image": "/image/articles/how-does-a-central-bank-rate-hike-impact-different-markets-copy/image.jpg",
-  "description": "Central banks play a critical role in shaping economic stability by adjusting interest rates to control inflation and growth. This article explains how rate cuts and hikes impact the economy and ripple across forex, stocks, commodities, and other financial markets.",
-  "title": "How Does a Central Bank Rate Hike Impact Different Markets"
+  "description": "Central banks play a critical role in shaping economic stability by adjusting interest rates to control inflation and growth. This article explains how rate cuts and hikes impact the economy and ripple across forex, stocks, commodities, and other financial markets."
 }
