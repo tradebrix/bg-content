@@ -1,7 +1,11 @@
 {
   "locale": "en",
+  "seo": {
+    "noIndex": false,
+    "noFollow": false
+  },
+  "title": "How to Trade the 3 White Soldiers",
   "type": "Candlesticks",
   "image": "/image/articles/how-to-trade-the-3-white-soldiers-copy/image.jpg",
-  "description": "The Three White Soldiers is a powerful bullish reversal pattern that signals a shift from selling pressure to strong buying momentum. This article explains how to identify, confirm, and trade the pattern effectively, along with its advantages and limitations.",
-  "title": "How to Trade the 3 White Soldiers"
+  "description": "The Three White Soldiers is a powerful bullish reversal pattern that signals a shift from selling pressure to strong buying momentum. This article explains how to identify, confirm, and trade the pattern effectively, along with its advantages and limitations."
 }
