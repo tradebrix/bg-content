@@ -1,8 +1,10 @@
 {
   "locale": "en",
   "seo": {
-    "noIndex": false,
-    "noFollow": false
+    "title": "USD/THB Outlook 2026: Thai Baht Surge, BoT Intervention & Trading Opportunities",
+    "description": "The Thai baht surged over 9% against the USD, prompting Bank of Thailand intervention. Explore USD/THB outlook, key drivers, and trading strategies for 2026.",
+    "noIndex": true,
+    "noFollow": true
   },
   "title": "The Pull and Push on the Thai Baht in 2026",
   "date": "2026-03-18T18:05",
