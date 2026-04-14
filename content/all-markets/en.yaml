@@ -79,7 +79,7 @@ pricing:
       symbols: []
     - tabName: Commodities
       symbols: []
-    - tabName: Shares
+    - tabName: Equities
       symbols: []
     - tabName: Energies
       symbols: []
