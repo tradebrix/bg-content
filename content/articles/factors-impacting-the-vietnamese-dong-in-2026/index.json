@@ -1,11 +1,14 @@
 {
   "locale": "en",
   "seo": {
-    "noIndex": false,
-    "noFollow": false
+    "title": "Factors Impacting the Vietnamese Dong in 2026",
+    "description": "The Thai baht’s sharp appreciation has triggered central bank intervention, political tension, and rising market volatility. Discover the forces driving USD/THB movements and what forex traders should monitor to navigate this complex currency dynamic.",
+    "noIndex": true,
+    "noFollow": true
   },
   "title": "Factors Impacting the Vietnamese Dong in 2026",
   "date": "2026-03-17T10:44",
+  "image": "/image/articles/factors-impacting-the-vietnamese-dong-in-2026/image.png",
   "type": "Forex",
   "author": "Blackwell Research Team",
   "description": "The Thai baht’s sharp appreciation has triggered central bank intervention, political tension, and rising market volatility. This article explores the forces driving USD/THB movements and what forex traders should monitor to navigate this complex currency dynamic."
