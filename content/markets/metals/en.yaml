@@ -27,6 +27,10 @@ articles:
     Explore the drivers behind gold, silver, and industrial metals, including
     inflation trends, dollar strength, and global demand cycles.
   selectedArticles: []
+  selectedLearnArticles:
+    - how-does-a-central-bank-rate-hike-impact-different-markets-copy
+    - cfd-trading-explained-opportunities-leverage-and-the-risks-you-must-manage
+    - simplest-guide-to-trading-the-golden-cross-pattern
 faq:
   title: Frequently asked questions
   questions:
