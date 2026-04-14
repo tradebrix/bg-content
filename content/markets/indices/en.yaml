@@ -31,6 +31,10 @@ articles:
     Explore how major indices are structured, what moves them, and how macro
     trends, earnings cycles, and risk sentiment shape price action.
   selectedArticles: []
+  selectedLearnArticles:
+    - what-moves-the-ftse-100-key-drivers-behind-the-uk-s-leading-index
+    - 5-companies-that-impact-the-nasdaq-100
+    - trading-stock-indices-amid-us-iran-conflict
 faq:
   title: Fequently asked questions
   questions:
