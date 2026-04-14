@@ -56,7 +56,7 @@ broker:
       header: Fast execution
       description: Low-latency infrastructure designed for speed, stability, and precision.
     - icon: /image/economic-calendar/en/broker/cards/4/icon.svg
-      header: 24/7 support
+      header: 24/5 support
       description: Dedicated support available whenever markets are active.
     - icon: /image/economic-calendar/en/broker/cards/5/icon.svg
       header: Reliable trading platform
