@@ -1,7 +1,13 @@
 {
   "locale": "en",
+  "seo": {
+    "title": "5 Popular Exotic Currency Pairs in the Forex Market",
+    "description": "Exotic currency pairs offer high volatility and unique trading opportunities, but come with increased risk due to lower liquidity and wider spreads. This article explores key exotic pairs and the economic factors that drive their price movements.",
+    "noIndex": true,
+    "noFollow": true
+  },
+  "title": "5 Popular Exotic Currency Pairs in the Forex Market",
   "type": "Forex",
   "image": "/image/articles/5-popular-exotic-currency-pairs-in-the-forex-market-copy/image.jpg",
-  "description": "Exotic currency pairs offer high volatility and unique trading opportunities, but come with increased risk due to lower liquidity and wider spreads. This article explores key exotic pairs and the economic factors that drive their price movements.",
-  "title": "5 Popular Exotic Currency Pairs in the Forex Market"
+  "description": "Exotic currency pairs offer high volatility and unique trading opportunities, but come with increased risk due to lower liquidity and wider spreads. This article explores key exotic pairs and the economic factors that drive their price movements."
 }
