@@ -30,6 +30,10 @@ articles:
     Discover how earnings, valuation metrics, and broader macroeconomic factors
     influence individual equity CFDs.
   selectedArticles: []
+  selectedLearnArticles:
+    - how-to-overcome-fomo-in-trading
+    - what-are-financial-market-cycles
+    - maximizing-trading-efficiency-applying-the-80-20-rule-in-trading
 faq:
   title: Frequently asked questions
   questions:
