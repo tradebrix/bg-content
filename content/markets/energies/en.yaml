@@ -33,6 +33,10 @@ articles:
     Understand gas and oil benchmarks, commodity price drivers, and the
     geopolitical forces shaping global energy volatility.
   selectedArticles: []
+  selectedLearnArticles:
+    - how-oil-prices-impact-forex-trading
+    - why-should-energy-traders-know-about-rbob
+    - maximizing-trading-efficiency-applying-the-80-20-rule-in-trading
 faq:
   title: Frequently asked questions
   questions:
