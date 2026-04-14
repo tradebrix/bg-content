@@ -2,11 +2,12 @@
   "locale": "en",
   "seo": {
     "title": "Too Much Market Noise? Learn About These Charts and Indicators",
-    "noIndex": false,
-    "noFollow": false
+    "description": "High market volatility can create noise that makes trading decisions difficult. This article explores how traders can filter out noise using alternative chart types, key indicators, and smarter strategies to stay focused on the underlying trend.",
+    "noIndex": true,
+    "noFollow": true
   },
   "title": "Too Much Market Noise? Learn About These Charts and Indicators",
   "type": "Technical Indicators",
-  "image": "/image/articles/too-much-market-noise-learn-about-these-charts-and-indicators-copy/image.jpg",
+  "image": "/image/articles/too-much-market-noise-learn-about-these-charts-and-indicators/image.png",
   "description": "High market volatility can create noise that makes trading decisions difficult. This article explores how traders can filter out noise using alternative chart types, key indicators, and smarter strategies to stay focused on the underlying trend."
 }
