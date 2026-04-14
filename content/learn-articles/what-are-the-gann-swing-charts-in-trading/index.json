@@ -2,11 +2,12 @@
   "locale": "en",
   "seo": {
     "title": "What are the Gann Swing Charts in Trading?",
-    "noIndex": false,
-    "noFollow": false
+    "description": "Gann Swing Charts help traders filter out market noise and focus on true price movements by identifying swing highs and lows. This article explains how the method works, how trends are formed, and how traders can use it to improve entry, exit, and risk management decisions.",
+    "noIndex": true,
+    "noFollow": true
   },
   "title": "What are the Gann Swing Charts in Trading?",
   "type": "Technical Indicators",
-  "image": "/image/articles/what-are-the-gann-swing-charts-in-trading/image.jpg",
+  "image": "/image/articles/what-are-the-gann-swing-charts-in-trading/image.png",
   "description": "Gann Swing Charts help traders filter out market noise and focus on true price movements by identifying swing highs and lows. This article explains how the method works, how trends are formed, and how traders can use it to improve entry, exit, and risk management decisions."
 }
