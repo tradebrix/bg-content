@@ -1,7 +1,13 @@
 {
   "locale": "en",
+  "seo": {
+    "title": "How to use the VWAP technical indicator",
+    "description": "The Volume Weighted Average Price (VWAP) is a powerful intraday indicator that combines price and volume to reveal the true average price of an asset. Widely used by traders and institutions, VWAP helps identify trends, key levels, and optimal entry and exit points. Learn how to use VWAP in your trading strategy.",
+    "noIndex": true,
+    "noFollow": true
+  },
+  "title": "Easy Guide to the VWAP Technical Indicator",
   "type": "Technical Indicators",
-  "image": "/image/articles/easy-guide-to-the-vwap-technical-indicator-copy/image.jpg",
-  "description": "The Volume Weighted Average Price (VWAP) is a powerful intraday indicator that combines price and volume to reveal the true average price of an asset. Widely used by traders and institutions, VWAP helps identify trends, key levels, and optimal entry and exit points",
-  "title": "Easy Guide to the VWAP Technical Indicator"
+  "image": "/image/articles/easy-guide-to-the-vwap-technical-indicator-copy/image.png",
+  "description": "The Volume Weighted Average Price (VWAP) is a powerful intraday indicator that combines price and volume to reveal the true average price of an asset. Widely used by traders and institutions, VWAP helps identify trends, key levels, and optimal entry and exit points"
 }
