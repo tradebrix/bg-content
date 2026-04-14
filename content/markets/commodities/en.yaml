@@ -29,6 +29,10 @@ articles:
     Understand how supply, demand, geopolitical events, and global economic
     activity influence commodity prices.
   selectedArticles: []
+  selectedLearnArticles:
+    - how-oil-prices-impact-forex-trading
+    - why-traders-need-to-know-about-leading-and-lagging-indicators
+    - beginner-vs-professional-traders-what-sets-them-apart-in-forex-trading
 faq:
   title: Frequently asked questions
   questions:
