@@ -50,13 +50,13 @@ calculators:
       label: Start Trading
       link: https://mau.blackwellglobal.com/register/
 howToUse:
-  title: How to use the trading calculator
+  title: How to use the profit calculator
   cards:
     - Select the instrument you want to trade
-    - Enter your lot size and account leverage
-    - Input the current bid and ask prices
-    - Choose your account currency
-    - Click Calculate to view estimated margin and costs
+    - Enter your open and close prices
+    - Choose your trade direction (buy or sell)
+    - Enter your lot size and account currency
+    - Click Calculate to view estimated profit or loss
 broker:
   title: Trade with a broker you can trust
   cards:
@@ -81,23 +81,26 @@ broker:
 faq:
   title: Frequently asked questions
   questions:
-    - question: What does the trading calculator show?
+    - question: What does the profit calculator show?
       answer: >-
-        The trading calculator provides indicative calculations for margin
-        requirements, leverage impact, and estimated trading costs based on the
-        values entered.
-    - question: Are the trading calculator results accurate?
+        The profit calculator estimates potential profit or loss based on price
+        movement, position size, and trade direction.
+    - question: Does the profit calculator reflect live market prices?
       answer: >-
-        Results are indicative only and may differ from live trading conditions
-        due to market movement, liquidity, or execution factors.
-    - question: Does the trading calculator include spreads and swaps?
+        Prices used in the calculator are indicative. Actual prices may differ
+        at the time of execution.
+    - question: Can the profit calculator be used for all instruments?
       answer: >-
-        Indicative spreads and swap values may be included where applicable, but
-        live costs can vary.
-    - question: Can I use the trading calculator before opening an account?
+        The profit calculator can be used across supported instruments available
+        on the trading platform.
+    - question: Can I use the profit calculator before opening an account?
       answer: >-
-        Yes, the trading calculator can be used for reference purposes without
+        Yes, the profit calculator can be used for reference purposes without
         opening an account.
+    - question: Is the profit calculator trading advice?
+      answer: >-
+        No. The profit calculator is provided for informational purposes only
+        and should not be considered trading advice.
     - question: How can I start trading with Blackwell?
       answer: >-
         You can start trading with Blackwell in 3 easy steps. Create your
