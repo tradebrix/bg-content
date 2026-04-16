@@ -24,8 +24,23 @@ what:
       title: Direct access to live pricing
     - icon: /image/api-trading/en/what/cards/3/icon.svg
       title: Integration with custom analytics systems
+  note: >-
+    API trading is commonly used for algorithmic strategies, portfolio
+    automation, and advanced execution workflows.
 build:
-  cards: []
+  header: Build, automate, and execute through secure API connectivity.
+  title: >-
+    Designed for systematic traders, developers, and institutions requiring
+    direct market access and execution control.
+  cards:
+    - icon: /image/api-trading/en/build/cards/0/icon.svg
+      title: Live market data
+    - icon: /image/api-trading/en/build/cards/1/icon.svg
+      title: Automated order execution
+    - icon: /image/api-trading/en/build/cards/2/icon.svg
+      title: Institution-grade infrastructure
+    - icon: /image/api-trading/en/build/cards/3/icon.svg
+      title: Dedicated technical support
 how:
   cards: []
   containers: []
