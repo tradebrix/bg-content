@@ -30,13 +30,6 @@ calculators:
     lotSizeDefault: '1'
     openPriceDefault: '64.185'
     closePriceDefault: '64.187'
-    resultsTradingHeaders:
-      contractSize: Contract size
-      swapLong: Swap long
-      pointValue: Point value
-      swapShort: Swap short
-      spread: Spread
-      margin: Margin
     resultsProfitHeader: Profit
     ctaButtonTab2:
       label: Start Trading
