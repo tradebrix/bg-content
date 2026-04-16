@@ -20,7 +20,6 @@ calculators:
     instrumentLabel: Instrument
     lotSizeLabel: Lot size
     currencyLabel: Currency
-    bidPriceLabel: Bid price
     openPriceLabel: Open price
     closePriceLabel: Close price
     buttonLabel: Calculate
