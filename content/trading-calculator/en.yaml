@@ -7,11 +7,12 @@ seo:
   noFollow: true
 hero:
   title: Profit Calculator
-calculators:
-  title: Profit calculator
   subtitle: >-
     Estimate potential profit or loss based on price movement, position size,
     and trade direction before placing a trade.
+calculators:
+  title: Profit calculator
+  subtitle: ' '
   labels:
     - Estimate potential profit or loss on a trade
     - Compare outcomes across different instruments
