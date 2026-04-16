@@ -17,7 +17,6 @@ calculators:
     - Compare outcomes across different instruments
     - Assess how price movement impacts your position
   calculatorInputs:
-    profitCalculatorTab: Profit Calculator
     instrumentLabel: Instrument
     leverageLabel: Leverage
     lotSizeLabel: Lot size
