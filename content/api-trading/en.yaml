@@ -118,7 +118,21 @@ env:
     Execution quality remains consistent with Blackwell’s standard trading
     environment.
 started:
-  steps: []
+  title: Getting started with API trading
+  steps:
+    - title: Open an account
+      description: Open and verify a live trading account with Blackwell.
+    - title: Request API access
+      description: Apply for API credentials through your account manager or support team.
+    - title: Generate API credentials
+      description: Receive secure authentication keys and integration documentation.
+    - title: Connect and test
+      description: >-
+        Integrate your system in a demo environment before deploying to live
+        trading.
+    - title: Deploy
+      description: Begin automated execution under your configured strategy parameters.
+  image: /image/api-trading/en/started/image.svg
 market:
   cards: []
 banner: {}
