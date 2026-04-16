@@ -114,4 +114,11 @@ banner:
   secondaryBtnLink: https://mau.blackwellglobal.com/register/
 faq:
   title: Frequently asked questions
-  questions: []
+  questions:
+    - question: Which platform can I trade on with Blackwell?
+      answer: You can trade on MetaTrader 5, or Blackwell Trader.
+    - question: Is MT5 better than MT4?
+      answer: >-
+        MT5 offers more features and broader market access, but MT4 remains
+        popular for its simplicity. The best choice depends on your trading
+        style.
