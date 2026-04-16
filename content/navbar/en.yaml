@@ -1,4 +1,3 @@
-locale: en
 showExtraLogo: false
 sections:
   - name: About
@@ -190,9 +189,9 @@ sections:
             description: Get in touch with our global support teams.
             icon: /icon/navbar/about-contact.svg
 primaryButtonText: Login
-primaryButtonUrl: https://mau.blackwellglobal.com/login
+primaryButtonUrl: https://secure.blackwellglobal.bs/login
 secondaryButtonText: Start Trading
-secondaryButtonUrl: https://mau.blackwellglobal.com/register/
+secondaryButtonUrl: https://secure.blackwellglobal.bs/register/
 topHeader:
   blackwellTab: Blackwell
   primeTab: BGI Prime
