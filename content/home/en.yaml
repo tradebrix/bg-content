@@ -9,9 +9,9 @@ hero:
   title: 'Trade Smarter. Access Everything. '
   subtitle: Access the world's financial markets with Blackwell.
   primaryButtonText: Open Account
-  primaryButtonLink: https://mau.blackwellglobal.com/register/
+  primaryButtonLink: https://secure.blackwellglobal.bs/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: https://mau.blackwellglobal.com/register/
+  secondaryButtonLink: https://secure.blackwellglobal.bs/register/
 markets:
   title: Trade major global markets
   subtitle: Multi asset trading with a single account.
@@ -37,7 +37,7 @@ trade:
     MT5 and Blackwell Trader give you everything you need to trade efficiently,
     from advanced charting to fast execution, across desktop and mobile.
   buttonText: Open Account
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
 whytrade:
   title: 20 years of industry excellence
   subtitle: >-
@@ -73,7 +73,7 @@ cta:
   title: Apply in minutes. Start trading today.
   subtitle: Gain access to fast execution and no hidden fees.
   buttonText: Open Account
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
 trophies:
   title: Leading standard of excellence
   subtitle: >-
