@@ -27,7 +27,6 @@ calculators:
     instruments: []
     currencyDefault: USD
     currencies: []
-    askPriceDefault: '64.186'
     lotSizeDefault: '1'
     bidPriceDefault: '64.185'
     openPriceDefault: '64.185'
