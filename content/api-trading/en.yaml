@@ -42,7 +42,13 @@ build:
     - icon: /image/api-trading/en/build/cards/3/icon.svg
       title: Dedicated technical support
 how:
-  cards: []
+  title: How it works
+  subtitle: 'Blackwell’s API provides secure endpoints that allow your system to:'
+  cards:
+    - image: /image/api-trading/en/how/cards/0/image.svg
+      title: Retrieve live price feeds
+    - image: /image/api-trading/en/how/cards/1/image.svg
+      title: Access historical market data
   containers: []
 who:
   title: Who is API trading designed for?
