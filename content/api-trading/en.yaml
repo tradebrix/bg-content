@@ -175,4 +175,11 @@ market:
         Trade CFDs on selected global equities, with the ability to go long or
         short.
       buttonText: See More
-banner: {}
+banner:
+  title: Ready to automate your trading?
+  subtitle: >-
+    Connect to Blackwell’s secure API infrastructure and deploy your strategy
+    with confidence.
+  primaryBtnText: Open Account
+  primaryBtnLink: https://mau.blackwellglobal.com/login
+  secondaryBtnText: Contact Support
