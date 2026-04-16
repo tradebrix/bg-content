@@ -50,6 +50,8 @@ how:
     - image: /image/api-trading/en/how/cards/1/image.svg
       title: Access historical market data
     - image: /image/api-trading/en/how/cards/2/image.svg
+      title: Send and manage trade orders
+    - image: /image/api-trading/en/how/cards/3/image.svg
       title: Monitor open positions and account balances
   containers:
     - text: >-
