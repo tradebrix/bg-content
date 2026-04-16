@@ -72,7 +72,7 @@ sections:
             url: /markets/commodities
             description: Trade energies, metals, and agricultural goods.
             icon: /icon/navbar/trade-commodities.svg
-      - name: NEWS & ANALYSIS
+      - name: News & Analysis
         links:
           - title: Market Updates
             url: /market-updates
@@ -106,7 +106,7 @@ sections:
             icon: /icon/navbar/trade-vps.svg
   - name: Learn
     subsections:
-      - name: KNOWLEDGE HUB
+      - name: Knowledge Hub
         links:
           - title: Technical Indicators
             url: /technical-indicators
