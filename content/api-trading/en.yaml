@@ -105,7 +105,18 @@ why:
         Encrypted communication protocols and controlled authentication
         mechanisms.
 env:
-  labels: []
+  title: Execution environment
+  subtitle: >-
+    API orders are processed within Blackwell’s established execution
+    infrastructure.
+  labels:
+    - Competitive pricing across asset classes
+    - Reliable order processing
+    - Access to global markets
+    - Structured risk and compliance oversight
+  note: >-
+    Execution quality remains consistent with Blackwell’s standard trading
+    environment.
 started:
   steps: []
 market:
