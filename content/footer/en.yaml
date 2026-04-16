@@ -1,0 +1,88 @@
+locale: en
+sections:
+  - name: Quick Links
+    links:
+      - title: Open Live Account
+        url: "#"
+      - title: Client Login
+        url: "#"
+      - title: Open Demo Account
+        url: "/demo"
+      - title: Partner Login
+        url: "/partners"
+      - title: Contact Us
+        url: "/contact-us"
+  - name: Platforms
+    links:
+      - title: MT5
+        url: "/mt5"
+      - title: Blackwell Invest
+        url: "/invest"
+      - title: MT5 vs MT4
+        url: "/mt5-vs-mt4"
+  - name: Markets
+    links:
+      - title: Forex
+        url: "/forex"
+      - title: Precious Metals
+        url: "/metals"
+      - title: Energies
+        url: "/energies"
+      - title: Commodities
+        url: "/commodities"
+      - title: ETFs
+        url: "/trading"
+  - name: Company
+    links:
+      - title: About Blackwell
+        url: about
+      - title: BGI Prime
+        url: "/prime"
+      - title: Awards and Recognitions
+        url: "/awards"
+      - title: Legal Documents
+        url: "/terms-and-policies"
+socialMedia:
+  - icon: "/icon/social-media/facebook.svg"
+    link: "#"
+  - icon: "/icon/social-media/instagram.svg"
+    link: "#"
+  - icon: "/icon/social-media/linkedin.svg"
+    link: "#"
+  - icon: "/icon/social-media/x.svg"
+    link: "#"
+  - icon: "/icon/social-media/youtube.svg"
+    link: "#"
+regulations:
+  - countryCode: GB
+    countryName: United Kingdom
+    address: |
+      107 Cheapside, London, EC2V 6DN, United Kingdom.
+    regulatedBy: Regulated by FCA
+  - countryCode: BS
+    countryName: The Bahamas
+    address: |
+      201 Church Street, Sandyport, Nassau, NP, The Bahamas.
+    regulatedBy: Regulated by SCB
+  - countryCode: HK
+    countryName: Hong Kong
+    address: |
+      26/F, Overseas Trust Bank Building, 160 Gloucester Road, Wanchai, Hong Kong.
+    regulatedBy: Regulated by SFC
+  - countryCode: MU
+    countryName: Mauritius
+    address: |
+      12th Floor, Tower 1, NeXteracom, Rue du Savoir, Cybercity, Ebene, Republic of Mauritius
+    regulatedBy: Regulated by FSC
+longDescription: |
+  Blackwell Global Investments Limited is a limited liability company registered in The Bahamas with its registered office at 201 Church Street, Sandyport, Nassau, NP, The Bahamas. Company Number 201732 B. Blackwell Global Investments Limited is authorised and regulated by the Securities Commission of The Bahamas, certificate number SIA-F215. TIN. 109226376
+
+  Forex and CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 66.00% of retail investor accounts lose money when trading CFDs. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. 
+
+  The information on this site is not directed at residents of the United States, Belgium, New Zealand, and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
+rights: "© Copyright 2023 Blackwell Global Investments Limited. All rights reserved."
+links:
+  - title: Legal Documents
+    url: "https://www.blackwellglobal.com/legals/"
+  - title: Privacy Policy
+    url: "https://www.blackwellglobal.com/wp-content/uploads/2021/10/Privacy-Policy-BHS-EN-V1.1.pdf"
