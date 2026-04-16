@@ -9,9 +9,9 @@ hero:
   title: Commodities Trading
   subtitle: Trade a range of global commodity markets through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: /https://mau.blackwellglobal.com/register/
+  primaryButtonLink: https://secure.blackwellglobal.bs/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: https://mau.blackwellglobal.com/register/
+  secondaryButtonLink: https://secure.blackwellglobal.bs/register/
 whatIs:
   title: What is commodities trading
   definition: >-
@@ -32,7 +32,7 @@ articles:
   selectedLearnArticles:
     - how-oil-prices-impact-forex-trading
     - why-traders-need-to-know-about-leading-and-lagging-indicators
-    - beginner-vs-professional-traders-what-sets-them-apart-in-forex-trading
+    - what-are-financial-market-cycles
 faq:
   title: Frequently asked questions
   questions:
