@@ -1,0 +1,208 @@
+locale: en
+showExtraLogo: false
+sections:
+  - name: About
+    subsections:
+      - name: Company
+        links:
+          - title: About
+            url: /about
+            description: Learn about Blackwell's history and mission.
+            icon: /icon/navbar/about-about.svg
+          - title: BGI Prime
+            url: /prime
+            description: Access institutional-grade liquidity and technology.
+            icon: /icon/navbar/about-prime.svg
+          - title: Partnerships
+            url: /partners
+            description: Institutional opportunities for IBs and Affiliates.
+            icon: /icon/navbar/about-partnership.svg
+          - title: Contact Us
+            url: /contact-us
+            description: Get in touch with our global support teams.
+            icon: /icon/navbar/about-contact.svg
+      - name: WHY TRADE WITH US
+        links:
+          - title: Pricing
+            url: /pricing
+            description: Competitive spreads and transparent pricing structure.
+            icon: /icon/navbar/about-pricing.svg
+          - title: Awards and recognitions
+            url: /awards
+            description: Celebrating our commitment to excellence in trading.
+            icon: /icon/navbar/about-award.svg
+      - name: Corporate
+        links:
+          - title: Legal Documents
+            url: /terms-and-policies
+            description: Review our client agreements and key policies.
+            icon: /icon/navbar/about-doc.svg
+  - name: Trade
+    subsections:
+      - name: Markets
+        links:
+          - title: All Markets
+            url: /all-markets
+            description: Explore all available trading instruments and markets.
+            icon: /icon/navbar/trade-all-markets.svg
+          - title: Forex
+            url: /markets/forex
+            description: Trade 60+ currency pairs with ultra-low spreads.
+            icon: /icon/navbar/trade-forex.svg
+          - title: Indices
+            url: /markets/indices
+            description: Access global markets via major stock indices.
+            icon: /icon/navbar/trade-indices.svg
+          - title: Energies
+            url: /markets/energies
+            description: Trade crude oil, natural gas, and energy commodities.
+            icon: /icon/navbar/trade-energies.svg
+          - title: Equities CFDs
+            url: /markets/shares
+            description: Trade CFDs on thousands of global stocks.
+            icon: /icon/navbar/trade-shares.svg
+          - title: Precious Metals
+            url: /markets/metals
+            description: Trade gold, silver, platinum, and palladium.
+            icon: /icon/navbar/trade-metals.svg
+          - title: ETFs
+            url: /markets/trading
+            description: Access exchange-traded funds across markets.
+            icon: /icon/navbar/trade-etfs.svg
+          - title: Commodities
+            url: /markets/commodities
+            description: Trade energies, metals, and agricultural goods.
+            icon: /icon/navbar/trade-commodities.svg
+      - name: NEWS & ANALYSIS
+        links:
+          - title: Market Updates
+            url: /market-updates
+            description: Daily insights into market moves and trends.
+            icon: /icon/navbar/trade-market.svg
+          - title: Fundamental Analysis
+            url: /fundamental-analysis
+            description: In-depth economic reports and analysis.
+            icon: /icon/navbar/trade-analysis.svg
+          - title: Daily Market Brief
+            url: /daily-market-brief
+            description: Key market updates for the day ahead.
+            icon: /icon/navbar/trade-daily-market.svg
+          - title: Special Reports
+            url: /special-reports
+            description: Expert insights on key market events.
+            icon: /icon/navbar/trade-special-reports.svg
+      - name: Trading Tools
+        links:
+          - title: Economic Calendar
+            url: /economic-calendar
+            description: Track market-moving global events.
+            icon: /icon/navbar/trade-calendar.svg
+          - title: Trading Calculators
+            url: /trading-calculator
+            description: Manage your trading risks and profits.
+            icon: /icon/navbar/trade-calculator.svg
+          - title: API Trading
+            url: /en/api-trading
+            description: Integrate your systems for automated trading.
+            icon: /icon/navbar/trade-vps.svg
+  - name: Learn
+    subsections:
+      - name: KNOWLEDGE HUB
+        links:
+          - title: Technical Indicators
+            url: /technical-indicators
+            description: Practice trading with risk-free virtual funds.
+            icon: /icon/navbar/learn-technical.svg
+          - title: Trading Strategies
+            url: /trading-strategies
+            description: Practice trading with risk-free virtual funds.
+            icon: /icon/navbar/learn-strategy.svg
+          - title: Beginners Guide
+            url: /beginnersGuide
+            description: Start your trading journey with core basics.
+            icon: /icon/navbar/learn-guide.svg
+          - title: Video Library
+            url: /videoLibrary
+            description: Watch expert-led tutorials and guides.
+            icon: /icon/navbar/learn-play.svg
+          - title: Ebooks
+            url: /ebooks
+            description: Download comprehensive strategy guides.
+            icon: /icon/navbar/learn-ebook.svg
+      - name: Discover More
+        links:
+          - title: Demo Account
+            url: /demo
+            description: Practice trading with risk-free virtual funds.
+            icon: /icon/navbar/learn-demo.svg
+  - name: Platforms
+    subsections:
+      - name: Trading Platforms
+        links:
+          - title: MetaTrader 5
+            url: /mt5
+            description: The multi-asset institutional platform.
+            icon: /icon/navbar/platform-mt5.svg
+          - title: WebTrader
+            url: /webtrader
+            description: Trade directly in your browser.
+            icon: /icon/navbar/platform-webtrader.svg
+          - title: Blackwell Invest
+            url: /invest
+            description: The ultimate social trading App.
+            icon: /icon/navbar/platform-blackwellinvest.svg
+      - name: Discover More
+        links:
+          - title: MT4 vs MT5
+            url: /mt5-vs-mt4
+            description: Compare MetaTrader platforms and find your fit.
+            icon: /icon/navbar/platform-mt4-vs-mt5.svg
+          - title: API Trading
+            url: /en/api-trading
+            description: Build automated strategies with our trading APIs.
+            icon: /icon/navbar/platfrom-api-trading.svg
+          - title: Demo Account
+            url: /demo
+            description: Practice trading with risk-free virtual funds.
+            icon: /icon/navbar/platfrom-demo.svg
+          - title: Download Centre
+            url: /download-center
+            description: Access all platform installers and tools.
+            icon: /icon/navbar/platform-download.svg
+          - title: Platform Tutorials
+            url: /platform-tutorials
+            description: Step-by-step guides for MT4, MT5, and WebTrader.
+            icon: /icon/navbar/platform-tutorial.svg
+  - name: Help
+    subsections:
+      - name: Help & Support
+        links:
+          - title: Help Centre
+            url: /help-center
+            description: Find answers to frequently asked questions.
+            icon: /icon/navbar/help-help.svg
+          - title: Glossary
+            url: /glossary
+            description: Learn common trading terms and definitions.
+            icon: /icon/navbar/help-glossary.svg
+          - title: Contact Us
+            url: /contact-us
+            description: Get in touch with our global support teams.
+            icon: /icon/navbar/about-contact.svg
+primaryButtonText: Login
+primaryButtonUrl: https://mau.blackwellglobal.com/login
+secondaryButtonText: Start Trading
+secondaryButtonUrl: https://mau.blackwellglobal.com/register/
+topHeader:
+  blackwellTab: Blackwell
+  primeTab: BGI Prime
+  supportText: Support
+  languages:
+    - code: EN
+      flag: gb
+    - code: AR
+      flag: ae
+    - code: FR
+      flag: fr
+    - code: ES
+      flag: es
