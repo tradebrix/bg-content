@@ -111,7 +111,7 @@ stats:
       label: Continents
     - value: 20+
       label: Years of Industry Experience
-    - value: '8'
+    - value: '10'
       label: Global Offices
 contactUs:
   title: Contact Us
