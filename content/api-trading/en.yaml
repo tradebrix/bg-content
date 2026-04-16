@@ -49,6 +49,8 @@ how:
       title: Retrieve live price feeds
     - image: /image/api-trading/en/how/cards/1/image.svg
       title: Access historical market data
+    - image: /image/api-trading/en/how/cards/2/image.svg
+      title: Monitor open positions and account balances
   containers: []
 who:
   title: Who is API trading designed for?
