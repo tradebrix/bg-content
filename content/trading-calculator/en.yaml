@@ -1,22 +1,21 @@
 seo:
-  title: Trading Calculators | Blackwell
+  title: Profit Calculators | Blackwell
   description: >-
-    Use advanced trading calculators to plan your trades, calculate margin
-    requirements, and estimate potential profit or loss instantly.
+    Estimate potential profit or loss based on price movement, position size,
+    and trade direction before placing a trade.
   noIndex: true
   noFollow: true
 hero:
-  title: Trading Calculators
-  subtitle: >-
-    Use advanced trading calculators to plan your trades, calculate margin
-    requirements, and estimate potential profit or loss instantly.
+  title: Profit Calculator
 calculators:
-  title: Trading calculator
-  subtitle: Understand the key requirements of a trade before placing an order.
+  title: Profit calculator
+  subtitle: >-
+    Estimate potential profit or loss based on price movement, position size,
+    and trade direction before placing a trade.
   labels:
-    - Calculate the margin required to open a position
-    - Understand how leverage affects margin and exposure
-    - Review indicative costs, including spreads and swaps
+    - Estimate potential profit or loss on a trade
+    - Compare outcomes across different instruments
+    - Assess how price movement impacts your position
   calculatorInputs:
     tradingCalculatorTab: Trading Calculator
     profitCalculatorTab: Profit Calculator
