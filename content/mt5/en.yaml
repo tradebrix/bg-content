@@ -73,7 +73,7 @@ steps:
     - title: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
   buttonText: Open Account
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
 faq:
   title: Frequently asked questions
   questions:
