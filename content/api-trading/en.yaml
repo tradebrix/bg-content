@@ -51,7 +51,13 @@ how:
       title: Access historical market data
     - image: /image/api-trading/en/how/cards/2/image.svg
       title: Monitor open positions and account balances
-  containers: []
+  containers:
+    - text: >-
+        Orders submitted via API are processed using the same pricing and
+        execution framework available on our standard trading platforms.
+    - text: >-
+        Execution speed and reliability depend on system configuration,
+        connectivity, and market conditions.
 who:
   title: Who is API trading designed for?
   image: /image/api-trading/en/who/image.svg
