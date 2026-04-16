@@ -72,7 +72,38 @@ who:
     API trading is suitable for clients who require control over execution logic
     and integration flexibility.
 why:
-  cards: []
+  title: Why trade via API with Blackwell
+  cards:
+    - icon: /image/api-trading/en/why/cards/0/icon.svg
+      title: Direct infrastructure access
+      description: >-
+        Connect directly to Blackwell's pricing and execution environment
+        without intermediary interfaces.
+    - icon: /image/api-trading/en/why/cards/1/icon.svg
+      title: Automation capability
+      description: >-
+        Deploy rule-based or algorithmic strategies with consistent execution
+        logic.
+    - icon: /image/api-trading/en/why/cards/2/icon.svg
+      title: Real-time market data
+      description: >-
+        Access streaming quotes and historical datasets for backtesting and
+        analytics.
+    - icon: /image/api-trading/en/why/cards/3/icon.svg
+      title: Execution control
+      description: >-
+        Define order parameters programmatically, including size, timing, and
+        execution instructions.
+    - icon: /image/api-trading/en/why/cards/4/icon.svg
+      title: Platform flexibility
+      description: >-
+        Integrate with proprietary systems or supported third-party
+        environments.
+    - icon: /image/api-trading/en/why/cards/5/icon.svg
+      title: Secure connectivity
+      description: >-
+        Encrypted communication protocols and controlled authentication
+        mechanisms.
 env:
   labels: []
 started:
