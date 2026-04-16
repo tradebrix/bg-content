@@ -28,7 +28,6 @@ calculators:
     currencyDefault: USD
     currencies: []
     lotSizeDefault: '1'
-    bidPriceDefault: '64.185'
     openPriceDefault: '64.185'
     closePriceDefault: '64.187'
     resultsTradingHeaders:
