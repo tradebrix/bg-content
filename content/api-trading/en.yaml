@@ -45,7 +45,18 @@ how:
   cards: []
   containers: []
 who:
-  labels: []
+  title: Who is API trading designed for?
+  image: /image/api-trading/en/who/image.svg
+  header: 'API connectivity is typically used by:'
+  labels:
+    - Algorithmic traders running systematic strategies
+    - High-frequency and quantitative traders
+    - Institutional participants
+    - Developers building proprietary trading interfaces
+    - Portfolio managers requiring automated allocation
+  footer: >-
+    API trading is suitable for clients who require control over execution logic
+    and integration flexibility.
 why:
   cards: []
 env:
