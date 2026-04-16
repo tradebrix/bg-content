@@ -18,7 +18,6 @@ calculators:
     - Assess how price movement impacts your position
   calculatorInputs:
     instrumentLabel: Instrument
-    leverageLabel: Leverage
     lotSizeLabel: Lot size
     askPriceLabel: Ask price
     currencyLabel: Currency
