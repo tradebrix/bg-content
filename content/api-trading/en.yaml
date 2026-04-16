@@ -134,5 +134,45 @@ started:
       description: Begin automated execution under your configured strategy parameters.
   image: /image/api-trading/en/started/image.svg
 market:
-  cards: []
+  title: Available markets via API
+  subtitle: 'Blackwell’s API supports trading across eligible asset classes, including:'
+  cards:
+    - icon: /image/api-trading/en/market/cards/0/icon.svg
+      title: Forex
+      description: >-
+        Major and minor currency pairs, traded with competitive pricing and
+        stable execution.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/1/icon.svg
+      title: Indices
+      description: >-
+        Trade leading global indices and gain exposure to regional and
+        international markets.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/2/icon.svg
+      title: Energies
+      description: >-
+        Access key energy markets, including oil and gas, with transparent
+        pricing.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/3/icon.svg
+      title: Precious Metals
+      description: >-
+        Trade gold, silver, and other metals as part of a diversified trading
+        approach.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/4/icon.svg
+      title: Commodities
+      description: A selection of hard and soft commodities across global markets.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/5/icon.svg
+      title: ETFs
+      description: Gain exposure to themed and sector-based ETFs through a single trade.
+      buttonText: See More
+    - icon: /image/api-trading/en/market/cards/6/icon.svg
+      title: Equities CFDs
+      description: >-
+        Trade CFDs on selected global equities, with the ability to go long or
+        short.
+      buttonText: See More
 banner: {}
