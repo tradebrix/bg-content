@@ -109,9 +109,9 @@ banner:
   title: Your trading starts here
   subtitle: Create an account in minutes or explore MT5 with a demo account.
   primaryBtnText: Open Account
-  primaryBtnLink: https://mau.blackwellglobal.com/register/
+  primaryBtnLink: https://secure.blackwellglobal.bs/register/
   secondaryBtnText: Try Demo Account
-  secondaryBtnLink: https://mau.blackwellglobal.com/register/
+  secondaryBtnLink: https://secure.blackwellglobal.bs/register/
 faq:
   title: Frequently asked questions
   questions:
