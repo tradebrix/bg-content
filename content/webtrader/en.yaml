@@ -88,7 +88,7 @@ designedFor:
 steps:
   title: Start trading with Blackwell
   buttonText: Open Account
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
   steps:
     - title: Open an account
       description: Create your Blackwell trading account in just a few minutes.
