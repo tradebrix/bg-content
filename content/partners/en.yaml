@@ -96,13 +96,13 @@ estimate:
     Estimates are indicative only and may vary based on trading activity,
     region, and partnership terms.
   buttonText: Start Earning Today
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
 register:
   title: Start Your Partnership With Blackwell
   subtitle: Complete the form below and our partnerships team will be in touch.
   header: Already registered? Login here
   clickablePart: Login here
-  clickableLink: https://mau.blackwellglobal.com/ib/apply/
+  clickableLink: https://secure.blackwellglobal.bs/login
   fullNameLabel: Full name*
   emailLabel: Email address*
   countryLabel: Country of Residence*
