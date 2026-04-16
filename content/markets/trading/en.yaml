@@ -31,7 +31,10 @@ articles:
     Understand how exchange-traded funds provide diversified exposure across
     sectors, regions, commodities, and asset classes.
   selectedArticles: []
-  selectedLearnArticles: []
+  selectedLearnArticles:
+    - what-are-financial-market-cycles
+    - too-much-market-noise-learn-about-these-charts-and-indicators
+    - maximizing-trading-efficiency-applying-the-80-20-rule-in-trading
 faq:
   title: Frequently asked questions
   questions:
