@@ -19,7 +19,6 @@ calculators:
   calculatorInputs:
     instrumentLabel: Instrument
     lotSizeLabel: Lot size
-    askPriceLabel: Ask price
     currencyLabel: Currency
     bidPriceLabel: Bid price
     openPriceLabel: Open price
