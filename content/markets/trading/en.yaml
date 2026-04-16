@@ -9,9 +9,9 @@ hero:
   title: ETFs Trading
   subtitle: Trade exchange-traded funds (ETFs) through a single trading account.
   primaryButtonText: Open Account
-  primaryButtonLink: https://mau.blackwellglobal.com/register/
+  primaryButtonLink: https://secure.blackwellglobal.bs/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: https://mau.blackwellglobal.com/register/
+  secondaryButtonLink: https://secure.blackwellglobal.bs/register/
 whatIs:
   title: What is ETFs trading?
   definition: >-
@@ -31,6 +31,7 @@ articles:
     Understand how exchange-traded funds provide diversified exposure across
     sectors, regions, commodities, and asset classes.
   selectedArticles: []
+  selectedLearnArticles: []
 faq:
   title: Frequently asked questions
   questions:
