@@ -12,15 +12,15 @@ legalDocuments:
     - documents:
         - name: Terms and Conditions
           file: /documents/en/legalDocuments/tabs/0/documents/0/file.pdf
-        - name: Terms of Business
-          file: /documents/en/legalDocuments/tabs/0/documents/1/file.pdf
         - name: Privacy Policy
-          file: /documents/en/legalDocuments/tabs/0/documents/2/file.pdf
+          file: /documents/en/legalDocuments/tabs/0/documents/1/file.pdf
         - name: Risk Warning Notice
-          file: /documents/en/legalDocuments/tabs/0/documents/3/file.pdf
+          file: /documents/en/legalDocuments/tabs/0/documents/2/file.pdf
         - name: Conflict of Interest
-          file: /documents/en/legalDocuments/tabs/0/documents/4/file.pdf
+          file: /documents/en/legalDocuments/tabs/0/documents/3/file.pdf
         - name: General Regulatory Information
-          file: /documents/en/legalDocuments/tabs/0/documents/5/file.pdf
+          file: /documents/en/legalDocuments/tabs/0/documents/4/file.pdf
         - name: Payment Services Notice
+          file: /documents/en/legalDocuments/tabs/0/documents/5/file.pdf
+        - name: Terms of Business
           file: /documents/en/legalDocuments/tabs/0/documents/6/file.pdf
