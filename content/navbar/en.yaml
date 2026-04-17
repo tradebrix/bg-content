@@ -160,10 +160,6 @@ sections:
             url: /download-center
             description: Access all platform installers and tools.
             icon: /icon/navbar/platform-download.svg
-          - title: Platform Tutorials
-            url: /platform-tutorials
-            description: Step-by-step guides for MT4, MT5, and WebTrader.
-            icon: /icon/navbar/platform-tutorial.svg
   - name: Help
     subsections:
       - name: Help & Support
