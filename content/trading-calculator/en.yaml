@@ -20,14 +20,11 @@ calculators:
   calculatorInputs:
     instrumentLabel: Instrument
     lotSizeLabel: Lot size
-    currencyLabel: Currency
     openPriceLabel: Open price
     closePriceLabel: Close price
     buttonLabel: Calculate
     instrumentDefault: XBRUSD
     instruments: []
-    currencyDefault: USD
-    currencies: []
     lotSizeDefault: '1'
     openPriceDefault: '64.185'
     closePriceDefault: '64.187'
