@@ -39,17 +39,39 @@ market:
   tableHeader3: Average Spread
   tabs:
     - name: Forex
-      subTabs: []
+      subTabs:
+        - symbols:
+            - symbol: AUDUSD
+            - symbol: EURUSD
+            - symbol: GBPUSD
+            - symbol: USDCHF
+            - symbol: USDJPY
     - name: Indices
-      subTabs: []
-    - name: Commodities
-      subTabs: []
+      subTabs:
+        - symbols:
+            - symbol: .DE40
+            - symbol: .UK100
+            - symbol: .US100
+            - symbol: .US30
+            - symbol: .US500
     - name: Equities CFDs
-      subTabs: []
+      subTabs:
+        - symbols:
+            - symbol: AAPL
+            - symbol: AMZN
+            - symbol: MSFT
+            - symbol: NVDA
+            - symbol: TSLA
     - name: Energies
-      subTabs: []
+      subTabs:
+        - symbols:
+            - symbol: .UKOil
+            - symbol: .USOil
     - name: Metals
-      subTabs: []
+      subTabs:
+        - symbols:
+            - symbol: XAUUSD
+            - symbol: XAGUSD
 builtfor:
   title: Built for consistent execution
   subtitle: >-
