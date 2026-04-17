@@ -74,17 +74,72 @@ pricing:
   subtitle: Blackwell provides competitive spreads across major global markets.
   tabs:
     - tabName: Forex
-      symbols: []
+      symbols:
+        - name: Australian Dollar vs US Dollar
+          code: AUDUSD
+          minSpread: '0.51'
+        - name: Euro vs US Dollar
+          code: EURUSD
+          minSpread: '0.425'
+        - name: British Pound vs US Dollar
+          code: GBPUSD
+          minSpread: '0.68'
+        - name: US Dollar vs Swiss Franc
+          code: USDCHF
+          minSpread: '0.85'
+        - name: US Dollar vs Japanese Yen
+          code: USDJPY
+          minSpread: '0.425'
     - tabName: Indices
-      symbols: []
-    - tabName: Commodities
-      symbols: []
+      symbols:
+        - name: Germany 40 (DAX)
+          code: .DE40
+          minSpread: '0.6375'
+        - name: UK 100 (FTSE 100)
+          code: .UK100
+          minSpread: '0.51'
+        - name: US 100 (Nasdaq 100)
+          code: .US100
+          minSpread: '0.34'
+        - name: US 30 (Dow Jones)
+          code: .US30
+          minSpread: '1.02'
+        - name: US 500 (S&P 500)
+          code: .US500
+          minSpread: '0.1955'
+    - tabName: Energy
+      symbols:
+        - name: Brent Crude Oil
+          code: .UKOil
+          minSpread: '0.0255'
+        - name: WTI Crude Oil
+          code: .USOil
+          minSpread: '0.0255'
     - tabName: Equities
-      symbols: []
-    - tabName: Energies
-      symbols: []
+      symbols:
+        - name: Apple Inc.
+          code: AAPL
+          minSpread: '0.0051'
+        - name: Amazon.com Inc.
+          code: AMZN
+          minSpread: '0.034'
+        - name: Microsoft Corporation
+          code: MSFT
+          minSpread: '0.034'
+        - name: NVIDIA Corporation
+          code: NVDA
+          minSpread: '0.0255'
+        - name: Tesla Inc.
+          code: TSLA
+          minSpread: '0.0425'
     - tabName: Metals
-      symbols: []
+      symbols:
+        - name: Gold (USD)
+          code: XAUUSD
+          minSpread: '0.2125'
+        - name: Silver (USD)
+          code: XAGUSD
+          minSpread: '0.03825'
 steps:
   cards:
     - header: Open an account
