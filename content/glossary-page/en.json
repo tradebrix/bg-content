@@ -1,0 +1,22 @@
+{
+  "heroTitle": "Trading terms glossary",
+  "knowledgeTitle": "Essential Knowledge",
+  "section1": "Understanding trading terminology is essential at every stage of the trading journey. Whether you are learning the basics or refining your market knowledge, having clarity on key terms helps you make more informed decisions.",
+  "section2": "Our glossary provides clear, concise explanations of commonly used trading and financial market terms, designed to support both new and experienced traders.",
+  "searchHint": "Search for a term...",
+  "allTab": "All",
+  "banner": {
+    "title": "Your trading starts here",
+    "subtitle": "Open an account and start trading in minutes, or practise first with a risk-free demo.",
+    "primaryBtnText": "Open Account",
+    "primaryBtnLink": "https://secure.blackwellglobal.bs/register/",
+    "secondaryBtnText": "Try Demo Account",
+    "secondaryBtnLink": "https://secure.blackwellglobal.bs/register/"
+  },
+  "seo": {
+    "title": "Glossary of Trading Terms and Definitions | Blackwell",
+    "description": "Explore a complete glossary of trading terms and definitions. Learn key concepts like leverage, margin, spreads, and more to improve your trading knowledge.",
+    "noIndex": true,
+    "noFollow": true
+  }
+}
