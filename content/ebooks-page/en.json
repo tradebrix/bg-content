@@ -1,0 +1,26 @@
+{
+  "title": "Blackwell eBooks",
+  "subtitle": "Our library of eBooks covers everything you need to know about trading. Whether you're a novice or an expert, our eBooks will help you enhance your knowledge.",
+  "allEbooksTabLabel": "All ebooks",
+  "downloadButtonText": "Download",
+  "downloadForm": {
+    "header": "Download eBook",
+    "subheader": "Get instant access to trading insights",
+    "firstNameLabel": "First Name",
+    "firstNameHint": "John",
+    "lastNameLabel": "Last Name",
+    "lastNameHint": "Doe",
+    "countryLabel": "Country",
+    "phoneLabel": "Phone Number",
+    "emailLabel": "Email Address",
+    "emailHint": "john.doe@example.com",
+    "cancelText": "Cancel",
+    "downloadNowText": "Download Now"
+  },
+  "seo": {
+    "title": "eBooks | Free Forex and Trading Education | Blackwell",
+    "description": "Enhance your trading education and skills with Blackwell's educational resources and e-Books. Our library of eBooks covers everything you need to know about trading. Whether you're a novice or an expert, our eBooks will help you enhance your knowledge. Learn forex trading for free.",
+    "noIndex": true,
+    "noFollow": true
+  }
+}
