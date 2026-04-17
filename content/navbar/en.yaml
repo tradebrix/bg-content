@@ -116,14 +116,6 @@ sections:
             url: /trading-strategies
             description: Practice trading with risk-free virtual funds.
             icon: /icon/navbar/learn-strategy.svg
-          - title: Beginners Guide
-            url: /beginnersGuide
-            description: Start your trading journey with core basics.
-            icon: /icon/navbar/learn-guide.svg
-          - title: Video Library
-            url: /videoLibrary
-            description: Watch expert-led tutorials and guides.
-            icon: /icon/navbar/learn-play.svg
           - title: Ebooks
             url: /ebooks
             description: Download comprehensive strategy guides.
