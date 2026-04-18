@@ -43,80 +43,80 @@ market:
         - name: Major Pairs
           symbols:
             - symbol: AUDUSD
-              minSpread: "0.51"
-              avgSpread: "1.02"
+              minSpread: '0.51'
+              avgSpread: '1.02'
             - symbol: EURUSD
-              minSpread: "0.425"
-              avgSpread: "1.105"
+              minSpread: '0.425'
+              avgSpread: '1.105'
             - symbol: GBPUSD
-              minSpread: "0.68"
-              avgSpread: "1.615"
+              minSpread: '0.68'
+              avgSpread: '1.615'
             - symbol: USDCHF
-              minSpread: "0.85"
-              avgSpread: "1.105"
+              minSpread: '0.85'
+              avgSpread: '1.105'
             - symbol: USDJPY
-              minSpread: "0.425"
-              avgSpread: "0.68"
+              minSpread: '0.425'
+              avgSpread: '0.68'
     - name: Indices
       subTabs:
         - name: Global Indices
           symbols:
-            - symbol: Germany 40 (DAX)
-              minSpread: "0.6375"
-              avgSpread: "1.241"
-            - symbol: UK 100 (FTSE 100)
-              minSpread: "0.51"
-              avgSpread: "0.68"
-            - symbol: US 100 (Nasdaq 100)
-              minSpread: "0.34"
-              avgSpread: "1.139"
-            - symbol: US 30 (Dow Jones)
-              minSpread: "1.02"
-              avgSpread: "2.805"
-            - symbol: US 500 (S&P 500)
-              minSpread: "0.1955"
-              avgSpread: "0.901"
+            - symbol: .DE40
+              minSpread: '0.6375'
+              avgSpread: '1.241'
+            - symbol: .UK100
+              minSpread: '0.51'
+              avgSpread: '0.68'
+            - symbol: .US100
+              minSpread: '0.34'
+              avgSpread: '1.139'
+            - symbol: .US30
+              minSpread: '1.02'
+              avgSpread: '2.805'
+            - symbol: .US500
+              minSpread: '0.1955'
+              avgSpread: '0.901'
     - name: Commodities
       subTabs: []
     - name: Equities CFDs
       subTabs:
         - name: US Equities
           symbols:
-            - symbol: Apple Inc.
-              minSpread: "0.0051"
-              avgSpread: "0.0255"
-            - symbol: Amazon.com Inc.
-              minSpread: "0.034"
-              avgSpread: "0.0595"
-            - symbol: Microsoft Corporation
-              minSpread: "0.034"
-              avgSpread: "0.068"
-            - symbol: NVIDIA Corporation
-              minSpread: "0.0255"
-              avgSpread: "0.0425"
-            - symbol: Tesla Inc.
-              minSpread: "0.0425"
-              avgSpread: "0.085"
+            - symbol: AAPL
+              minSpread: '0.0051'
+              avgSpread: '0.0255'
+            - symbol: AMZN
+              minSpread: '0.034'
+              avgSpread: '0.0595'
+            - symbol: MSFT
+              minSpread: '0.034'
+              avgSpread: '0.068'
+            - symbol: NVDA
+              minSpread: '0.0255'
+              avgSpread: '0.0425'
+            - symbol: TSLA
+              minSpread: '0.0425'
+              avgSpread: '0.085'
     - name: Energies
       subTabs:
         - name: Crude Oil
           symbols:
-            - symbol: Brent Crude Oil
-              minSpread: "0.0255"
-              avgSpread: "0.051"
-            - symbol: WTI Crude Oil
-              minSpread: "0.0255"
-              avgSpread: "0.0595"
+            - symbol: .UKOil
+              minSpread: '0.0255'
+              avgSpread: '0.051'
+            - symbol: .USOil
+              minSpread: '0.0255'
+              avgSpread: '0.0595'
     - name: Metals
       subTabs:
         - name: Precious
           symbols:
-            - symbol: Gold (USD)
-              minSpread: "0.03825"
-              avgSpread: "0.0425"
-            - symbol: Silver (USD)
-              minSpread: "0.2125"
-              avgSpread: "0.4335"
+            - symbol: XAUUSD
+              minSpread: '0.03825'
+              avgSpread: '0.0425'
+            - symbol: XAGUSD
+              minSpread: '0.2125'
+              avgSpread: '0.4335'
 builtfor:
   title: Built for consistent execution
   subtitle: >-
