@@ -79,7 +79,7 @@ howToStart:
             Trades are copied automatically in real time. Monitor results and
             adjust allocations or stop copying at any time.
       buttonText: Start Social Trading
-      buttonLink: https://mau.blackwellglobal.com/register/
+      buttonLink: https://secure.blackwellglobal.bs/register/
     - label: Provider
       subtitle: How to become a strategy  provider in 3 simple steps
       steps:
@@ -96,7 +96,7 @@ howToStart:
             Build a following based on transparent performance and earn
             performance-based fees.
       buttonText: Become a Provider
-      buttonLink: https://mau.blackwellglobal.com/register/
+      buttonLink: https://secure.blackwellglobal.bs/register/
 banner:
   title: Start social trading with Blackwell Invest
   appStoreLink: https://apps.apple.com/gb/app/blackwell-invest/id1666036351
