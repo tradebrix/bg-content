@@ -18,13 +18,13 @@
                   "question": "How do I open a live account?",
                   "answer": "Opening a live account is easy, and can be done by following these easy steps:\n\n1- Fill out the account opening application \n2- Verify your email.\n3- Access your client area and open a live trading account from there.\n",
                   "actionText": "Open Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/register/"
+                  "actionUrl": "https://secure.blackwellglobal.bs/register/"
                 },
                 {
                   "question": "Can I open multiple trading accounts?",
                   "answer": "Yes, you can open more than one trading account. You can easily do so by logging in to your Client Portal and open an additional trading account here.\n",
                   "actionText": "Login",
-                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                  "actionUrl": "https://secure.blackwellglobal.bs/login"
                 },
                 {
                   "question": "What are the documents needed to open an account?",
@@ -34,19 +34,19 @@
                   "question": "How long does it take to open an account?",
                   "answer": "Account opening is instant, once you fill your application, you will receive your verification email and will be able to login to your portal immediately.\n",
                   "actionText": "Open Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/register/"
+                  "actionUrl": "https://secure.blackwellglobal.bs/register/"
                 },
                 {
                   "question": "Can I open a Demo Account?",
                   "answer": "Yes, you can open a free demo trading account with Blackwell.\n",
                   "actionText": "Open Demo Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
+                  "actionUrl": "https://secure.blackwellglobal.bs/accounts/new?scope=demo"
                 },
                 {
                   "question": "How can I open a Demo account?",
-                  "answer": "Opening a Demo trading account is simple and can be done in 2 easy steps.\n\n1- Login to your Client Portal.\n2- Click on Open a Demo account \n\nYou will then receive your Demo trading account details.\n\n",
+                  "answer": "Opening a Demo trading account is simple and can be done in 2 easy steps.\n\n1- Login to your Client Portal.\n2- Click on Open a Demo account \n\nYou will then receive your Demo trading account details.\n",
                   "actionText": "Login",
-                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                  "actionUrl": "https://secure.blackwellglobal.bs/accounts/new?scope=demo"
                 },
                 {
                   "question": "Does a Demo account expire?",
@@ -72,7 +72,7 @@
                   "question": "I forgot my Blackwell Client Portal password, how can I reset it?",
                   "answer": "To reset your Client Portal password, simply click on the \"Forgot Password\" button on the Blackwell Login page, and enter your registered email address. You will then be sent a password reset email to create a new password for your account. \n",
                   "actionText": "Reset Password",
-                  "actionUrl": "https://mau.blackwellglobal.com/login"
+                  "actionUrl": "https://secure.blackwellglobal.bs/login"
                 },
                 {
                   "question": "How can I update my details?",
@@ -101,11 +101,15 @@
               "questions": [
                 {
                   "question": "How do I deposit funds to my account?",
-                  "answer": "You can initiate funding within your Client Portal by selecting \"Funds\", then \"Deposit Funds\". Choose the trading account number and continue to select your desired method.\n"
+                  "answer": "You can initiate funding within your Client Portal by selecting \"Funds\", then \"Deposit Funds\". Choose the trading account number and continue to select your desired method.\n\n",
+                  "actionText": "Deposit",
+                  "actionUrl": "https://secure.blackwellglobal.bs/funds/deposit/"
                 },
                 {
                   "question": "What deposit methods do you offer?",
-                  "answer": "We accept various funding options, including bank transfer, credit/debit card, Neteller, and more. \n\nLog in to your Client Portal to see the available deposit options or contact us for further information. \n\nPlease note that the payment methods can vary for different countries and regulations.\n"
+                  "answer": "We accept various funding options, including bank transfer, credit/debit card, Neteller, and more. \n\nLog in to your Client Portal to see the available deposit options or contact us for further information. \n\nPlease note that the payment methods can vary for different countries and regulations.\n\n",
+                  "actionText": "Login",
+                  "actionUrl": "https://secure.blackwellglobal.bs/login"
                 },
                 {
                   "question": "What are the processing times for deposits?",
@@ -168,7 +172,7 @@
                   "question": "How to open MT5 trading account?",
                   "answer": "To create a MetaTrader 5 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Live Account\", then choose MT5 as your platform.\n\n",
                   "actionText": "Open Live Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=live"
+                  "actionUrl": "https://secure.blackwellglobal.bs/accounts/new?scope=live"
                 },
                 {
                   "question": "Which markets can I trade on MT5 with Blackwell?",
@@ -179,7 +183,7 @@
                   "question": "Can I try MT5 before trading live?",
                   "answer": "Yes. You can open a demo account to practise trading in a risk-free environment.\n\nTo create a MetaTrader 5 account, login to your Client Portal, navigate to \"Accounts\", select \"Open Demo Account\", then choose MT5 as your platform.",
                   "actionText": "Open Demo Account",
-                  "actionUrl": "https://mau.blackwellglobal.com/accounts/new?scope=demo"
+                  "actionUrl": "https://secure.blackwellglobal.bs/accounts/new?scope=demo"
                 },
                 {
                   "question": "Can I use MT5 on mobile?",
