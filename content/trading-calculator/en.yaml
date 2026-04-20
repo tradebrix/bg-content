@@ -38,7 +38,7 @@ howToUse:
     - Select the instrument you want to trade
     - Enter your open and close prices
     - Choose your trade direction (buy or sell)
-    - Enter your lot size and account currency
+    - Enter your lot size
     - Click Calculate to view estimated profit or loss
 broker:
   title: Trade with a broker you can trust
