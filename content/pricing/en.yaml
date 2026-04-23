@@ -77,7 +77,23 @@ market:
               minSpread: '0.1955'
               avgSpread: '0.901'
     - name: Commodities
-      subTabs: []
+      subTabs:
+        - name: Energy
+          symbols:
+            - symbol: .UKOil
+              minSpread: '0.0255'
+              avgSpread: '0.051'
+            - symbol: .USOil
+              minSpread: '0.0255'
+              avgSpread: '0.0595'
+        - name: Metals
+          symbols:
+            - symbol: XAUUSD
+              minSpread: '0.03825'
+              avgSpread: '0.0425'
+            - symbol: XAGUSD
+              minSpread: '0.2125'
+              avgSpread: '0.4335'
     - name: Equities CFDs
       subTabs:
         - name: US Equities
@@ -97,26 +113,6 @@ market:
             - symbol: TSLA
               minSpread: '0.0425'
               avgSpread: '0.085'
-    - name: Energies
-      subTabs:
-        - name: Crude Oil
-          symbols:
-            - symbol: .UKOil
-              minSpread: '0.0255'
-              avgSpread: '0.051'
-            - symbol: .USOil
-              minSpread: '0.0255'
-              avgSpread: '0.0595'
-    - name: Metals
-      subTabs:
-        - name: Precious
-          symbols:
-            - symbol: XAUUSD
-              minSpread: '0.03825'
-              avgSpread: '0.0425'
-            - symbol: XAGUSD
-              minSpread: '0.2125'
-              avgSpread: '0.4335'
 builtfor:
   title: Built for consistent execution
   subtitle: >-
