@@ -24,7 +24,32 @@ calculators:
     closePriceLabel: Close price
     buttonLabel: Calculate
     instrumentDefault: XBRUSD
-    instruments: []
+    instruments:
+      - XBRUSD
+      - XTIUSD
+      - XNGUSD
+      - EURUSD
+      - GBPUSD
+      - AUDUSD
+      - NZDUSD
+      - USDCAD
+      - UK100
+      - US100
+      - US30
+      - US500
+      - DE30
+      - AU200
+      - EU50
+      - FR40
+      - JP225
+      - XAUUSD
+      - XAGUSD
+      - XPTUSD
+      - AAPL
+      - AMZN
+      - MSFT
+      - NVDA
+      - TSLA
     lotSizeDefault: '1'
     openPriceDefault: '64.185'
     closePriceDefault: '64.187'
