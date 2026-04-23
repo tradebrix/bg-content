@@ -107,14 +107,6 @@ pricing:
         - name: US 500 (S&P 500)
           code: .US500
           minSpread: '0.1955'
-    - tabName: Energy
-      symbols:
-        - name: Brent Crude Oil
-          code: .UKOil
-          minSpread: '0.0255'
-        - name: WTI Crude Oil
-          code: .USOil
-          minSpread: '0.0255'
     - tabName: Equities
       symbols:
         - name: Apple Inc.
@@ -132,7 +124,7 @@ pricing:
         - name: Tesla Inc.
           code: TSLA
           minSpread: '0.0425'
-    - tabName: Metals
+    - tabName: Commodities
       symbols:
         - name: Gold (USD)
           code: XAUUSD
@@ -140,6 +132,12 @@ pricing:
         - name: Silver (USD)
           code: XAGUSD
           minSpread: '0.03825'
+        - name: Brent Crude Oil
+          code: .UKOil
+          minSpread: '0.0255'
+        - name: WTI Crude Oil
+          code: .USOil
+          minSpread: '0.0255'
 steps:
   cards:
     - header: Open an account
