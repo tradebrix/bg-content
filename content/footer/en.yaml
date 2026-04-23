@@ -2,13 +2,13 @@ sections:
   - name: Quick Links
     links:
       - title: Open Live Account
-        url: '#'
+        url: https://secure.blackwellglobal.bs/register/
       - title: Client Login
-        url: '#'
+        url: https://secure.blackwellglobal.bs/login
       - title: Open Demo Account
-        url: /demo
+        url: https://secure.blackwellglobal.bs/register/
       - title: Partner Login
-        url: /partners
+        url: https://secure.blackwellglobal.bs/login
       - title: Contact Us
         url: /contact-us
   - name: Platforms
@@ -43,15 +43,13 @@ sections:
         url: /terms-and-policies
 socialMedia:
   - icon: /icon/social-media/facebook.svg
-    link: '#'
+    link: https://www.facebook.com/BlackwellGlobal/
   - icon: /icon/social-media/instagram.svg
-    link: '#'
+    link: https://www.instagram.com/blackwellglobal/
   - icon: /icon/social-media/linkedin.svg
-    link: '#'
+    link: https://www.linkedin.com/company/blackwell-global-investments/
   - icon: /icon/social-media/x.svg
-    link: '#'
-  - icon: /icon/social-media/youtube.svg
-    link: '#'
+    link: https://x.com/BlackwellGlobal
 regulations:
   - countryCode: GB
     countryName: United Kingdom
