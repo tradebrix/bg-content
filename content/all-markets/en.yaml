@@ -9,9 +9,9 @@ hero:
   title: Global markets. One Account.
   subtitle: Enjoy competitive pricing and high speed execution.
   primaryButtonText: Open Account
-  primaryButtonLink: https://mau.blackwellglobal.com/register/
+  primaryButtonLink: https://secure.blackwellglobal.bs/register/
   secondaryButtonText: Try Demo Account
-  secondaryButtonLink: https://mau.blackwellglobal.com/register/
+  secondaryButtonLink: https://secure.blackwellglobal.bs/register/
 globalMarkets:
   title: Trade across major global markets
   subtitle: Access global instruments through a single trading account.
@@ -149,4 +149,4 @@ steps:
     - header: Start trading
       description: Access global markets through Blackwell’s supported trading platforms.
   buttonText: Open Account
-  buttonLink: https://mau.blackwellglobal.com/register/
+  buttonLink: https://secure.blackwellglobal.bs/register/
