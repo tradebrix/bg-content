@@ -8,6 +8,14 @@
   "title": "Technical Indicators",
   "subtitle": "Learn how to apply indicators such as RSI, MACD, and moving averages to support trade decisions.",
   "cardButton": "Learn more",
+  "banner": {
+    "title": "Your trading starts here",
+    "subtitle": "Open an account and start trading in minutes, or practise first with a risk-free demo.",
+    "primaryBtnText": "Open Account",
+    "primaryBtnLink": "https://secure.blackwellglobal.bs/register/",
+    "secondaryBtnText": "Try Demo Account",
+    "secondaryBtnLink": "https://secure.blackwellglobal.bs/register/"
+  },
   "articles": [
     "easy-guide-to-the-vwap-technical-indicator",
     "25-forex-trading-terms-every-trader-should-know",
