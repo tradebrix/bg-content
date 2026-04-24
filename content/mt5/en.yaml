@@ -1,10 +1,11 @@
 seo:
-  title: MT5 Trading | Blackwell
+  title: MT5 Trading | Blackwells
   description: >-
     Trade global markets with MetaTrader 5. Access Blackwell MT5 for fast
     execution, advanced tools, and multi-asset trading in one powerful platform.
   noIndex: true
   noFollow: true
+banner: {}
 hero:
   title: MetaTrader 5
   subtitle: >-
