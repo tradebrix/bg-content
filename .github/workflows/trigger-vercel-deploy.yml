@@ -1,0 +1,28 @@
+# Copy to the CONTENT repo (e.g. bg-content) as:
+#   .github/workflows/trigger-vercel-deploy.yml
+#
+# When someone pushes to the default branch (or you run the workflow manually), this POSTs
+# your Vercel Deploy Hook so the WEBSITE project rebuilds and `prebuild` pulls fresh content.
+# The hook URL stays only in GitHub Actions secrets — not in this website repo or Keystatic UI.
+#
+# Setup:
+# 1. Vercel → website project → Settings → Git → Deploy Hooks → create hook for production → copy URL.
+# 2. Content repo → Settings → Secrets and variables → Actions → New repository secret:
+#      Name:  DEPLOY_HOOK_URL
+#      Value: (paste the full hook URL)
+# 3. Commit this file on the branch listed under `push.branches` (change `main` if your default is `master`).
+
+name: Trigger website deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel production deploy
+        run: curl -fsS -X POST "${{ secrets.DEPLOY_HOOK_URL }}"
