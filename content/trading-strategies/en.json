@@ -2,6 +2,14 @@
   "title": "Trading Strategies",
   "subtitle": "Explore structured trading methodologies designed for varying market conditions.",
   "cardButton": "Learn more",
+  "banner": {
+    "title": "Your trading starts here",
+    "subtitle": "Open an account and start trading in minutes, or practise first with a risk-free demo.",
+    "primaryBtnText": "Open Account",
+    "primaryBtnLink": "https://secure.blackwellglobal.bs/register/",
+    "secondaryBtnText": "Try Demo Account",
+    "secondaryBtnLink": "https://secure.blackwellglobal.bs/register/"
+  },
   "articles": [
     "trading-stock-indices-amid-us-iran-conflict",
     "how-to-trade-the-3-white-soldiers",
