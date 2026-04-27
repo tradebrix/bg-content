@@ -201,11 +201,14 @@
                 {
                   "question": "What is WebTrader?",
                   "answer": "WebTrader is a browser-based trading platform powered by MetaQuotes, allowing you to trade directly from your web browser without downloading software.\n\n",
-                  "actionText": "Explore WebTrader"
+                  "actionText": "Launch MT5 WebTrader",
+                  "actionUrl": "https://webtrader.blackwellglobal.com/terminal"
                 },
                 {
                   "question": "Do I need to install anything to use WebTrader?",
-                  "answer": "No. WebTrader runs entirely in your browser and requires no installation."
+                  "answer": "No. WebTrader runs entirely in your browser and requires no installation.",
+                  "actionText": "Launch MT5 WebTrader",
+                  "actionUrl": "https://webtrader.blackwellglobal.com/terminal"
                 },
                 {
                   "question": "Which markets can I trade on WebTrader?",
