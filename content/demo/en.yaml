@@ -90,6 +90,7 @@ banner:
     Opening a demo account takes just a few moments, or start live trading
     directly with Blackwell.
   primaryBtnText: Demo Account
+  primaryBtnLink: /demo#form-target
   secondaryBtnText: Start Live Trading
   secondaryBtnLink: https://secure.blackwellglobal.bs/register/
 faq:
