@@ -10,8 +10,8 @@ hero:
   subtitle: >
     Trade directly from your browser using MT5 WebTrader - no downloads, no
     installations, just secure access to global markets wherever you are.
-  buttonText: Launch WebTrader
-  buttonLink: https://webtrader.blackwellglobal.com/terminal
+  buttonText: Open Account
+  buttonLink: https://secure.blackwellglobal.bs/register/
 features:
   title: Browser-based access to global markets
   subtitle: "WebTrader allows you to access your trading account instantly from any modern web browser.\_Whether you’re on desktop, laptop, or tablet, you can monitor markets, manage positions, and execute trades without installing additional software."
