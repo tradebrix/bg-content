@@ -5,7 +5,13 @@ seo:
     execution, advanced tools, and multi-asset trading in one powerful platform.
   noIndex: true
   noFollow: true
-banner: {}
+banner:
+  title: Your trading starts here
+  subtitle: >-
+    Open an account and start trading in minutes, or practise first with a
+    risk-free demo.
+  buttonText: Open Account
+  buttonLink: https://secure.blackwellglobal.bs/register/
 hero:
   title: MetaTrader 5
   subtitle: >-
