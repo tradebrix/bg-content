@@ -29,10 +29,11 @@ articles:
   subtitle: >-
     Discover how earnings, valuation metrics, and broader macroeconomic factors
     influence individual equity CFDs.
-  selectedArticles: []
+  selectedArticles:
+    - >-
+      vietnam-stock-market-outlook-2026-why-traders-are-eyeing-vietnamese-equities
   selectedLearnArticles:
     - how-to-overcome-fomo-in-trading
-    - what-are-financial-market-cycles
     - maximizing-trading-efficiency-applying-the-80-20-rule-in-trading
 faq:
   title: Frequently asked questions
@@ -57,3 +58,4 @@ faq:
       answer: >-
         Equity prices are influenced by company earnings, market sentiment,
         economic data, and broader market conditions.
+banner: {}
