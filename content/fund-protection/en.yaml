@@ -3,8 +3,8 @@ seo:
   description: >-
     Learn how Blackwell protects client funds with segregated accounts,
     regulatory oversight, and secure trading infrastructure.
-  noIndex: false
-  noFollow: false
+  noIndex: true
+  noFollow: true
 hero:
   title: Fund protection
   subtitle: >-
