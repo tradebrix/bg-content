@@ -3,8 +3,8 @@ seo:
   description: >-
     Estimate potential profit or loss based on price movement, position size,
     and trade direction before placing a trade.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Profit Calculator
   subtitle: >-
@@ -118,3 +118,4 @@ faq:
       answer: >-
         Trading is available on MetaTrader 5 across desktop, web, and mobile
         devices.
+banner: {}
