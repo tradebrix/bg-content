@@ -3,8 +3,8 @@ seo:
   description: >-
     Access global currency markets with reliable execution, competitive pricing,
     and professional trading conditions.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Forex Trading
   subtitle: >-
@@ -67,3 +67,4 @@ faq:
       answer: >-
         Forex markets operate 24 hours a day during the trading week, from
         Monday to Friday.
+banner: {}
