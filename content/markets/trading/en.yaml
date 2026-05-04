@@ -3,8 +3,8 @@ seo:
   description: >-
     Trade exchange-traded funds (ETFs) with Blackwell. Access a wide range of
     markets and sectors through a single account.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: ETFs Trading
   subtitle: Trade exchange-traded funds (ETFs) through a single trading account.
@@ -60,3 +60,4 @@ faq:
       answer: >-
         ETF prices are influenced by the performance of the underlying assets,
         market conditions, and supply and demand.
+banner: {}
