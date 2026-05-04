@@ -3,8 +3,8 @@ seo:
   description: >-
     View Blackwell’s awards and recognitions across forex and CFD trading.
     Trusted globally for performance, reliability, and consistent execution.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Awards and recognitions
 standards:
