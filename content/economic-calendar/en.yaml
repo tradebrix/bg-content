@@ -3,8 +3,8 @@ seo:
   description: >-
     Track key economic events and market releases with our economic calendar.
     Stay ahead of market movements with real-time updates and insights.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Economic calendar
   subtitle: >
@@ -79,3 +79,4 @@ faq:
         access global markets through our trading platforms.
     - question: Which platforms can I trade on?
       answer: You can trade on MetaTrader 5, available on desktop, web, and mobile.
+banner: {}
