@@ -3,8 +3,8 @@ seo:
   description: >-
     MT4 vs MT5 comparison guide. Learn the differences between MetaTrader 4 and
     MetaTrader 5, including features, markets, and trading tools.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: MT4 vs MT5
   subtitle: >-
