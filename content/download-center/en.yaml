@@ -3,8 +3,8 @@ seo:
   description: >-
     Download MT4 and MT5 trading platforms from Blackwell. Trade across desktop
     and mobile with advanced tools, fast execution, and real-time market data.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Download your trading platforms
   subtitle: >-
