@@ -3,8 +3,8 @@ seo:
   description: >-
     Use WebTrader to trade forex, indices, and more from Blackwell, directly
     from your browser. Fast, secure, and accessible on any device.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: WebTrader
   subtitle: >
