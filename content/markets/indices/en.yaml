@@ -3,8 +3,8 @@ seo:
   description: >-
     Access major equity indices across global markets through a single trading
     account.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Indices Trading
   subtitle: Access major indices across global markets through a single trading account.
@@ -55,3 +55,4 @@ faq:
       answer: >-
         Indices trading is available on MetaTrader 5 across desktop, web, and
         mobile.
+banner: {}
