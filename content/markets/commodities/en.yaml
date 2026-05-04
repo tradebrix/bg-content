@@ -3,8 +3,8 @@ seo:
   description: >-
     Trade a range of global commodity markets through a single trading account.
     Access metals, energies, and agricultural products.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Commodities Trading
   subtitle: Trade a range of global commodity markets through a single trading account.
@@ -57,3 +57,4 @@ faq:
       answer: >-
         Commodity prices are influenced by supply and demand, weather patterns,
         geopolitical developments, and global economic conditions.
+banner: {}
