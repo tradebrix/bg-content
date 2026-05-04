@@ -3,8 +3,8 @@ seo:
   description: >-
     Start copy trading with Blackwell Invest. Connect with experienced traders
     and replicate their trades automatically through a social trading platform.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Social trading with Blackwell Invest
   subtitle: >-
