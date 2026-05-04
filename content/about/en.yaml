@@ -3,8 +3,8 @@ seo:
   description: >-
     Blackwell is a global trading provider offering forex and CFD solutions with
     strong regulation, reliable execution, and a focus on client trust.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: A legacy built on trust
   subtitle: >-
