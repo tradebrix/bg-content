@@ -1,6 +1,7 @@
 seo:
-  noIndex: true
-  noFollow: true
+  title: 'API Trading | Blackwell '
+  noIndex: false
+  noFollow: false
 hero:
   title: API Trading with Blackwell
   subtitle: >-
@@ -13,7 +14,9 @@ what:
     context, this means connecting your own software, algorithm, or external
     platform to Blackwell’s trading servers. 
 
-     Instead of manually placing orders through a graphical interface, instructions are transmitted programmatically. This enables:
+
+    Instead of manually placing orders through a graphical interface,
+    instructions are transmitted programmatically. This enables:
   image: /image/api-trading/en/what/image.svg
   cards:
     - icon: /image/api-trading/en/what/cards/0/icon.svg
