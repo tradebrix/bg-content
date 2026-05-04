@@ -3,8 +3,8 @@ seo:
   description: >-
     Trade global markets with MetaTrader 5. Access Blackwell MT5 for fast
     execution, advanced tools, and multi-asset trading in one powerful platform.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 banner:
   title: Your trading starts here
   subtitle: >-
