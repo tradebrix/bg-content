@@ -3,8 +3,8 @@ seo:
   description: >-
     Access global energy markets, including oil and gas, through a single
     trading account.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Energies Trading
   subtitle: >-
@@ -56,3 +56,4 @@ faq:
       answer: >-
         Energy prices are influenced by supply and demand, geopolitical events,
         production decisions, and broader market conditions.
+banner: {}
