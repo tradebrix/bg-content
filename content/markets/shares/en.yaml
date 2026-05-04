@@ -1,10 +1,10 @@
 seo:
-  title: Shares Trading | Blackwell
+  title: Equities CFDs Trading | Blackwell
   description: >-
     Access global equity markets with reliable execution, competitive pricing,
     and professional trading conditions.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Equities CFDs Trading
   subtitle: Trade CFDs on selected global equities through a single trading account.
