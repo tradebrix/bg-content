@@ -3,8 +3,8 @@ seo:
   description: >-
     Reach Blackwell support for help with trading accounts, platforms, and
     general inquiries. Fast, professional assistance when you need it.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Contact Blackwell
   subtitle: >-
