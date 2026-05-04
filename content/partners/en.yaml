@@ -4,8 +4,8 @@ seo:
     A global partnership program built on transparency, performance alignment,
     and long-term collaboration. Become a partner and start earning rebates
     today.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Partner with Blackwell
   subtitle: >-
