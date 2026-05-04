@@ -1,8 +1,8 @@
 seo:
   title: Precious Metals Trading | Blackwell
   description: Trade key precious metals markets through a single trading account.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Precious Metals Trading
   subtitle: Trade precious metals markets through a single trading account.
@@ -55,3 +55,4 @@ faq:
       answer: >-
         Prices are influenced by interest rates, inflation expectations,
         geopolitical developments, and overall market sentiment.
+banner: {}
