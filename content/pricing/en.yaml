@@ -3,8 +3,8 @@ seo:
   description: >-
     Explore transparent trading fees with competitive spreads across forex,
     indices, and commodities. No hidden charges, just clear, reliable pricing.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Transparent pricing across key markets
   subtitle: >-
