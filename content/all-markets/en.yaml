@@ -3,8 +3,8 @@ seo:
   description: >-
     Explore all markets with Blackwell. Trade forex, indices, commodities,
     metals, and more with competitive spreads and fast, reliable execution.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Global markets. One Account.
   subtitle: Enjoy competitive pricing and high speed execution.
