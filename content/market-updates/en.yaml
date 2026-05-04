@@ -3,8 +3,8 @@ seo:
   description: >-
     Access the latest market news, forex analysis, and trading insights. Follow
     key movements across indices, commodities, and global markets.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 pageTitle: Market Updates
 pageSubtitle: >-
   Real-time analysis and structured insights designed to support informed
