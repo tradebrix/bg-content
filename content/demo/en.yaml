@@ -3,8 +3,8 @@ seo:
   description: >-
     Start a free demo trading account with Blackwell. Practise forex, indices,
     and commodities using virtual funds in real market conditions.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: Practise trading with a demo account
   subtitle: >
