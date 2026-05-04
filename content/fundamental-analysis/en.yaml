@@ -3,8 +3,8 @@ seo:
   description: >-
     Access in-depth fundamental analysis of forex and global markets. Understand
     macroeconomic trends, central bank decisions, and market drivers.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 pageTitle: Fundamental Analysis
 pageSubtitle: >-
   In-depth fundamental analysis covering central bank policy, inflation trends,
