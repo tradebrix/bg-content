@@ -3,8 +3,8 @@ seo:
   description: >-
     Trade forex, indices, commodities, and more with Blackwell. Access powerful
     platforms, competitive pricing, and fast execution across global markets.
-  noIndex: true
-  noFollow: true
+  noIndex: false
+  noFollow: false
 hero:
   title: 'Trade Smarter. Access Everything. '
   subtitle: Access the world's financial markets with Blackwell.
