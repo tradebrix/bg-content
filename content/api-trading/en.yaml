@@ -176,12 +176,14 @@ market:
     - icon: /image/api-trading/en/market/cards/5/icon.svg
       title: ETFs
       description: Gain exposure to themed and sector-based ETFs through a single trade.
+      link: https://www.blackwellglobal.com/en/markets/trading
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/6/icon.svg
       title: Equities CFDs
       description: >-
         Trade CFDs on selected global equities, with the ability to go long or
         short.
+      link: https://www.blackwellglobal.com/en/markets/shares
       buttonText: See More
 banner:
   title: Ready to automate your trading?
