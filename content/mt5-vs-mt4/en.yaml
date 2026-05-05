@@ -105,6 +105,7 @@ download:
     Trade seamlessly across devices using the same account credentials.
   image: /image/mt5-vs-mt4/en/download/image.png
   ctaText: Visit Download Centre
+  ctaLink: https://www.blackwellglobal.com/en/download-center
 banner:
   title: Your trading starts here
   subtitle: Create an account in minutes or explore MT5 with a demo account.
