@@ -12,6 +12,7 @@ hero:
     Practise strategies, explore markets, and get familiar with our platforms
     using virtual funds.
   buttonText: Open Account
+  buttonLink: https://secure.blackwellglobal.bs/register/
 experience:
   title: Experience Blackwell’s trading environment with a free demo account.
   subtitle: >-
@@ -90,7 +91,7 @@ banner:
     Opening a demo account takes just a few moments, or start live trading
     directly with Blackwell.
   primaryBtnText: Demo Account
-  primaryBtnLink: /demo#form-target
+  primaryBtnLink: https://secure.blackwellglobal.bs/register/
   secondaryBtnText: Start Live Trading
   secondaryBtnLink: https://secure.blackwellglobal.bs/register/
 faq:
