@@ -99,6 +99,7 @@ industry:
     markets.
   items: []
   buttonText: View all
+  buttonLink: https://www.blackwellglobal.com/en/awards
 map:
   title: Global reach, local expertise
   subtitle: A global team committed to supporting you every step of the way.
