@@ -20,38 +20,45 @@ globalMarkets:
       description: >
         Major and minor currency pairs, traded with competitive pricing and
         stable execution.
+      link: https://www.blackwellglobal.com/en/markets/forex
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/0/icon.svg
     - title: Indices
       description: >-
         Trade leading global indices and gain exposure to regional and
         international markets.
+      link: https://www.blackwellglobal.com/en/markets/indices
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/1/icon.svg
     - title: Energies
       description: >
         Access key energy markets, including oil and gas, with transparent
         pricing.
+      link: https://www.blackwellglobal.com/en/markets/energies
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/2/icon.svg
     - title: Precious Metals
       description: >-
         Trade gold, silver, and other metals as part of a diversified trading
         approach.
+      link: https://www.blackwellglobal.com/en/markets/metals
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/3/icon.svg
     - title: Commodities
       description: Trade commodities across global markets.
+      link: https://www.blackwellglobal.com/en/markets/commodities
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/4/icon.svg
     - title: ETFs
       description: Gain exposure to themed and sector-based ETFs through a single trade.
+      link: https://www.blackwellglobal.com/en/markets/trading
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/5/icon.svg
     - title: Equities CFDs
       description: >-
         Trade CFDs on selected global equities, with the ability to go long or
         short.
+      link: https://www.blackwellglobal.com/en/markets/shares
       buttonText: See More
       icon: /image/all-markets/en/globalMarkets/cards/6/icon.svg
 tradeWithUs:
