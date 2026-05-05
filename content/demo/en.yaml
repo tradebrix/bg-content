@@ -77,6 +77,7 @@ devices:
       description: >-
         Practise trading on MT5 from your desktop, laptop, or mobile device with
         full platform functionality.
+      buttonText: Open MT5 Demo Account
 features:
   title: What’s included in your demo account
   labels:
