@@ -147,18 +147,21 @@ market:
       description: >-
         Major and minor currency pairs, traded with competitive pricing and
         stable execution.
+      link: https://www.blackwellglobal.com/en/markets/forex
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/1/icon.svg
       title: Indices
       description: >-
         Trade leading global indices and gain exposure to regional and
         international markets.
+      link: https://www.blackwellglobal.com/en/markets/indices
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/2/icon.svg
       title: Energies
       description: >-
         Access key energy markets, including oil and gas, with transparent
         pricing.
+      link: https://www.blackwellglobal.com/en/markets/energies
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/3/icon.svg
       title: Precious Metals
