@@ -70,6 +70,7 @@ features:
       - Customisable charts
       - Secure login and session handling
     buttonText: Launch MT5 WebTrader
+    buttonLink: https://webtrader.blackwellglobal.com/terminal
 steps:
   title: Start trading on MT5 with Blackwell
   steps:
