@@ -1,12 +1,21 @@
-locale: en
-longDescription: |
-  Blackwell Global Investments Limited is a limited liability company registered in The Bahamas with its registered office at 201 Church Street, Sandyport, Nassau, NP, The Bahamas. Company Number 201732 B. Blackwell Global Investments Limited is authorised and regulated by the Securities Commission of The Bahamas, certificate number SIA-F215. TIN. 109226376.
+longDescription: >
+  Blackwell Global Investments Limited is a limited liability company registered
+  in The Bahamas with its registered office at 201 Church Street, Sandyport,
+  Nassau, NP, The Bahamas. Company Number 201732 B. Blackwell Global Investments
+  Limited is authorised and regulated by the Securities Commission of The
+  Bahamas, certificate number SIA-F215. TIN. 109226376.
+
 
   This site is for professional clients only and not for retail investors.
 
-  The information on this site is not directed at residents of the United States, Belgium, New Zealand, and is not intended for distribution to, or use by, any person in any country or jurisdiction where such distribution or use would be contrary to local law or regulation.
-rightsLabel: "© Copyright 2026 Blackwell Global Investments Limited. All rights reserved."
+
+  The information on this site is not directed at residents of the United
+  States, Belgium, New Zealand, and is not intended for distribution to, or use
+  by, any person in any country or jurisdiction where such distribution or use
+  would be contrary to local law or regulation.
+rightsLabel: © Copyright 2026 Blackwell Global Investments Limited. All rights reserved.
 link1Label: Legal Documents
-link1Url: "https://www.blackwellglobal.com/legals/"
+link1Url: https://www.blackwellglobal.com/en/terms-and-policies
 link2Label: Privacy Policy
-link2Url: "https://www.blackwellglobal.com/wp-content/uploads/2021/10/Privacy-Policy-BHS-EN-V1.1.pdf"
+link2Url: >-
+  https://www.blackwellglobal.com/documents/en/legalDocuments/tabs/0/documents/1/file.pdf
