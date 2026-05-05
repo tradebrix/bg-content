@@ -40,7 +40,7 @@ sections:
       - title: Awards and Recognitions
         url: /awards
       - title: Legal Documents
-        url: /terms-and-policies
+        url: https://www.blackwellglobal.com/en/terms-and-policies
 socialMedia:
   - icon: /icon/social-media/facebook.svg
     link: https://www.facebook.com/BlackwellGlobal/
