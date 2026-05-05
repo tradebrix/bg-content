@@ -168,6 +168,7 @@ market:
       description: >-
         Trade gold, silver, and other metals as part of a diversified trading
         approach.
+      link: https://www.blackwellglobal.com/en/markets/metals
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/4/icon.svg
       title: Commodities
