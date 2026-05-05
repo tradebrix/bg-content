@@ -100,7 +100,8 @@ howToStart:
 banner:
   title: Start social trading with Blackwell Invest
   appStoreLink: https://apps.apple.com/gb/app/blackwell-invest/id1666036351
-  playStoreLink: https://blackwellglobal.com/wp-content/app/blackwellinvest-android.html
+  playStoreLink: >-
+    https://play.google.com/store/apps/details?id=com.BlackwellGlobalInvestmentsUKLimited.pelican&hl=en&pli=1
 faq:
   title: Frequently asked questions
   questions:
