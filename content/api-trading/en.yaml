@@ -172,6 +172,7 @@ market:
     - icon: /image/api-trading/en/market/cards/4/icon.svg
       title: Commodities
       description: A selection of hard and soft commodities across global markets.
+      link: https://www.blackwellglobal.com/en/markets/commodities
       buttonText: See More
     - icon: /image/api-trading/en/market/cards/5/icon.svg
       title: ETFs
