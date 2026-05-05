@@ -22,15 +22,15 @@ sections:
   - name: Markets
     links:
       - title: Forex
-        url: /forex
+        url: https://www.blackwellglobal.com/en/markets/forex
       - title: Precious Metals
-        url: /metals
+        url: https://www.blackwellglobal.com/en/markets/metals
       - title: Energies
-        url: /energies
+        url: https://www.blackwellglobal.com/en/markets/energies
       - title: Commodities
-        url: /commodities
+        url: https://www.blackwellglobal.com/en/markets/commodities
       - title: ETFs
-        url: /trading
+        url: https://www.blackwellglobal.com/en/markets/trading
   - name: Company
     links:
       - title: About Blackwell
