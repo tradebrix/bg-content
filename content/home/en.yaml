@@ -16,6 +16,7 @@ markets:
   title: Trade major global markets
   subtitle: Multi asset trading with a single account.
   buttonText: View All Markets
+  buttonLink: https://www.blackwellglobal.com/en/all-markets
   cards:
     - title: Forex
       subtitle: Trade 50+ forex pairs with tight spreads and fast execution.
